@@ -7,3 +7,21 @@
 div{
     border: 1px solid red;
 }
+
+.tree-node {
+    cursor: pointer;
+}
+
+.tree-node-children {
+    display: flex;
+    margin-left: 20px;
+}
+
+.child-group {
+    margin-right: 10px;
+}
+
+.root-group {
+    display: flex;
+    margin-bottom: 20px;
+}

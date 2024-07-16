@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import Tree from "./Tree";
-import treeData from "./dummyData";
+import treeData from "./treeData";
 
 const App = () => {
     return (
