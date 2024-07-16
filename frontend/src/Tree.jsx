@@ -1,11 +1,14 @@
-import React from "react";
+import React from 'react';
+import TreeNode from './TreeNode';
 
-const Tree = () => {
+const Tree = ({ data }) => {
     return (
         <div>
-            <h1>Tree</h1>
+            {data.map((node) => (
+                <TreeNode key={node.id} node={node} />
+            ))}
         </div>
-    )
-}
+    );
+};
 
 export default Tree;
