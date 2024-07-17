@@ -8,16 +8,19 @@ const TreeNode = ({ node }) => {
     };
 
     return (
-        <div className="tree-node">
+        <div className="tree-3">
             <div onClick={handleExpand}>
                 {node.name} {node.children.length > 0 && (expanded ? '-' : '+')}
             </div>
             {expanded && node.children.length > 0 && (
-                <div className="tree-node-children">
+                <div className="tree-4">
                     {node.children.map((childGroup, index) => (
-                        <div key={index} className="child-group">
-                            {childGroup.map((child) => (
-                                <TreeNode key={child.id} node={child} />
+                        <div key={index} className="tree-5">
+                            {childGroup.map((child, childIndex) => (
+                                <div key={child.id} className="tree-6">
+                                    <TreeNode node={child} />
+                                    {childIndex < childGroup.length - 1 && <p className='or-text'>or</p>}
+                                </div>
                             ))}
                         </div>
                     ))}

@@ -8,20 +8,42 @@ div{
     border: 1px solid red;
 }
 
-.tree-node {
+.tree-1 {
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid blue; */
+}
+
+.tree-2 {
+    display: flex;
+    /* flex-direction: column; */
+    border: 1px solid yellow;
+}
+
+.tree-3 {
+    display: flex;
+    flex-direction: column;
     cursor: pointer;
-    margin-left: 10px;
+    /* border: 1px solid blue; */
 }
 
-.tree-node-children {
+.tree-4 {
     display: flex;
-    margin-left: 20px;
+    flex-direction: column;
+    margin-left: 50px;
+    border: 1px solid rgb(0, 128, 75);
 }
 
-.child-group {
-    margin-right: 10px;
-}
-
-.root-group {
+.tree-5 {
     display: flex;
+    /* flex-direction: column; */
+    border: 1px solid black;
 }
+
+.tree-6 {
+    display: flex;
+    /* flex-direction: column; */
+    border: 1px solid white;
+}
+
+
