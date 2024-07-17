@@ -27,11 +27,39 @@ const treeData = [
                 ],
                 [
                     {
-                        id: 4,
+                        id: 6,
                         name: 'MA420',
                         children: [],
                     },
                 ],
+                [
+                    {
+                        id: 7,
+                        name: 'MA430',
+                        children: [
+                            [
+                                {
+                                    id: 8,
+                                    name: 'MA130',
+                                    children: [
+                                            [
+                                                {
+                                                    id: 10,
+                                                    name: 'MA140',
+                                                    children: []
+                                                }
+                                        ]
+                                    ]
+                                },
+                                {
+                                    id: 9,
+                                    name: 'MA230',
+                                    children: []
+                                }
+                            ]
+                        ],
+                    }
+                ]
             ]
         },
     ],
@@ -41,6 +69,11 @@ const treeData = [
             name: 'MA520',
             children: [],
         },
+        {
+            id: 11,
+            name: 'MA530',
+            children: []
+        }
     ]
 ];
 

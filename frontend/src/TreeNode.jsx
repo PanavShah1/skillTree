@@ -1,4 +1,3 @@
-// TreeNode.js
 import React, { useState } from 'react';
 
 const TreeNode = ({ node }) => {
