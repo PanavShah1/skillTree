@@ -8,13 +8,16 @@ const Tree = ({ data }) => {
             {data.map((nodeGroup, groupIndex) => (
                 <div key={groupIndex} className='tree-2'>
                     <div key={groupIndex} className="tree-3">
-                        {nodeGroup.map((node, nodeIndex) => (
-                            <div key={node.id} className="tree-7">
-                                <TreeNode node={node} />
-                                {nodeIndex < nodeGroup.length - 1 && <p className="or-text">or</p>}
+                        <div className="tree-7">
+                            {nodeGroup.map((node, nodeIndex) => (
+                                <div key={node.id} className="tree-8">
+                                    <TreeNode node={node} />
+                                    {nodeIndex < nodeGroup.length - 1 && <p className="or-text">or</p>}
+                                </div>
+                                
+                            ))}
                             </div>
-                        ))}
-                    </div>
+                        </div>
                     {groupIndex < data.length - 1 && <p className="and-text">and</p>}
                 </div>
             ))}

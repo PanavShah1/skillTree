@@ -2,22 +2,34 @@ const treeData = [
     [
         {
             id: 1,
-            name: 'MA615',
+            code: 'MA615',
+            name: 'Linear Algebra 3',
+            course_offered: false,
+            instructor: '',
             children: [
                 [
                     {
                         id: 2,
-                        name: 'MA410',
+                        code: 'MA410',
+                        name: 'Linear Algebra 2',
+                        course_offered: true,
+                        instructor: 'Dr. John Doe',
                         children: [
                             [
                                 {
                                     id: 3,
-                                    name: 'MA110',
-                                    children: []
+                                    code: 'MA110',
+                                    name: 'Algebra',
+                                    course_offered: true,
+                                    instructor: 'Dr. Jane Doe',
+                                    children: [],
                                 },
                                 {
                                     id: 4,
-                                    name: 'MA210',
+                                    code: 'MA210',
+                                    name: 'Geometry',
+                                    course_offered: true,
+                                    instructor: 'Dr. Mary Doe',
                                     children: []
                                 }
                             ]
@@ -28,24 +40,36 @@ const treeData = [
                 // [
                     {
                         id: 6,
-                        name: 'MA420',
+                        code: 'MA420',
+                        name: 'Group Theory',
+                        course_offered: false,
+                        instructor: '',
                         children: [],
                     },
                 ],
                 [
                     {
                         id: 7,
-                        name: 'MA430',
+                        code: 'MA430',
+                        name: 'Topology',
+                        course_offered: true,
+                        instructor: 'Dr. Richard Roe',
                         children: [
                             [
                                 {
                                     id: 8,
-                                    name: 'MA130',
+                                    code: 'MA130',
+                                    name: 'Calculus',
+                                    course_offered: false,
+                                    instructor: '',
                                     children: [
                                             [
                                                 {
                                                     id: 10,
-                                                    name: 'MA140',
+                                                    code: 'MA140',
+                                                    name: 'Differential Equations',
+                                                    course_offered: true,
+                                                    instructor: 'Dr. Richard Roe',
                                                     children: []
                                                 }
                                         ]
@@ -53,7 +77,10 @@ const treeData = [
                                 },
                                 {
                                     id: 9,
-                                    name: 'MA230',
+                                    code: 'MA230',
+                                    name: 'Analysis',
+                                    course_offered: false,
+                                    instructor: '',
                                     children: []
                                 }
                             ]
@@ -66,12 +93,18 @@ const treeData = [
     [
         {
             id: 5,
-            name: 'MA520',
+            code: 'MA520',
+            name: 'Number Theory',
+            course_offered: true,
+            instructor: 'Dr. John Doe',
             children: [],
         },
         {
             id: 11,
-            name: 'MA530',
+            code: 'MA530',
+            name: 'Differential Geometry',
+            course_offered: false,
+            instructor: '',
             children: []
         }
     ]

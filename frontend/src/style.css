@@ -16,21 +16,18 @@
     flex-direction: column;
     cursor: pointer;
     margin: 5px;
-    padding: 5px;
     border: 1px solid #000;
     border-radius: 4px;
     background-color: white;
-    min-width: 100px;;
+    min-width: 200px;
+    width: max-content;
+    padding: 5px 5px 5px 10px;
 }
 
 .tree-5 {
     display: flex;
     flex-direction: column;
     margin-left: 50px;
-}
-
-.tree-7, .tree-1 {
-
 }
 
 .tree-1 {
@@ -49,6 +46,8 @@
     width: min-content;
     background-color: #c0c0c0;
     flex-direction: row;
+    margin: 5px;
+    border-radius: 4px;
 }
 
 .tree-8 {
@@ -69,5 +68,33 @@
 
 .expand {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
+}
+
+.expand-row {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.course-code {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.course-name {
+    font-size: 0.9em;
+}
+
+.course-instructor, .course-not-offered {
+    font-size: 0.8em;
+    font-style: italic;
+}
+
+.course-instructor {
+}
+
+.course-not-offered {
+    color: red;
 }

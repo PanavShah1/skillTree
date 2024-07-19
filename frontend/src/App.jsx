@@ -1,13 +1,12 @@
 import React from "react";
 import "./style.css";
-import Tree from "./Tree";
-import treeData from "./treeData";
+import TreeCont from "./TreeCont";
 
 const App = () => {
     return (
         <div>
             <h1>Welcome to SkillTree</h1>
-            <Tree data={treeData}/>
+            <TreeCont />
         </div>
     )
 }

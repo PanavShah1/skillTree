@@ -1,0 +1,1048 @@
+Successfully fetched the main page.
+Clicking on department: Mathematics
+Header HTML content for Mathematics:
+<html><head><link rel="stylesheet" href="/asc/css/main.css" media="screen" type="text/css">
+<link href="/asc/css/base.css?2" rel="stylesheet" type="text/css" media="screen">	
+			
+		
+</head><body marginwidth="0" marginheight="0"><table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+    <tbody><tr valign="middle">
+        <td align="center">
+                <div id="header">
+	<table cellspacing="0" cellpadding="0" border="0" align="left" width="100%" class="headertop">
+	<tbody>
+              <tr>
+                <td class="top">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="middle">
+                    <div class="logo"><img src="/asc/images/header/iitb_logo.gif" alt="IIT Bombay Logo"></div>
+                </td>
+              </tr>
+              
+                 
+             
+            </tbody></table>
+        </div>
+        </td>
+     </tr>    
+</tbody></table>
+
+</body></html>
+
+Side Panel HTML content for Mathematics:
+<html><head><title>COURSE INFO</title></head>
+<body bgcolor="white" marginwidth="0" marginheight="0">
+			
+			<table width="85%" align="center" border="0">
+				<tbody><tr>
+					<td align="center">
+						<font color="green">
+							<h3 align="center"> <b> Courses which are part of bulletin for last 5 years in <font color="red"> Mathematics</font> </b> </h3>
+						</font>
+					</td>
+				</tr>
+			</tbody></table>
+           
+			<table width="75%" align="center" border="1" cellpadding="5" cellspacing="0">
+           		<tbody><tr bgcolor="#E0E0E0"> 
+           			<th align="center" width="25%"><font size="2" face="verdana" color="222277"><b>Course Code</b></font> </th>
+           			<th align="left"><font size="2" face="verdana" color="222277"><b>Course Name</b></font></th>
+           		</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 001" title="Click Here to View Course Details"><font color="#0000CC">MA 001</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Preparatory Mathematics I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 002" title="Click Here to View Course Details"><font color="#0000CC">MA 002</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Preparatory Mathematics II</font> </td>
+        </tr>
+
+				<tr height="1" bgcolor="#F2F2F2"> 
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>					
+				</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 101" title="Click Here to View Course Details"><font color="#0000CC">MA 101</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Introductory Mathematics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 103" title="Click Here to View Course Details"><font color="#0000CC">MA 103</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Mathematics I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 104" title="Click Here to View Course Details"><font color="#0000CC">MA 104</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Mathematics II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 105" title="Click Here to View Course Details"><font color="#0000CC">MA 105</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Calculus</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 106" title="Click Here to View Course Details"><font color="#0000CC">MA 106</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Linear Algebra</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 107" title="Click Here to View Course Details"><font color="#0000CC">MA 107</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">An Introduction to Mathematical Concepts</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 108" title="Click Here to View Course Details"><font color="#0000CC">MA 108</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Differential Equations</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 109" title="Click Here to View Course Details"><font color="#0000CC">MA 109</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Calculus I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 110" title="Click Here to View Course Details"><font color="#0000CC">MA 110</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Linear Algebra and Differential Equations</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 111" title="Click Here to View Course Details"><font color="#0000CC">MA 111</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Calculus II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 113" title="Click Here to View Course Details"><font color="#0000CC">MA 113</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Mathematics and Its History</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 114" title="Click Here to View Course Details"><font color="#0000CC">MA 114</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">An Introduction to Mathematical Concepts</font> </td>
+        </tr>
+
+				<tr height="1" bgcolor="#F2F2F2"> 
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>					
+				</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 203" title="Click Here to View Course Details"><font color="#0000CC">MA 203</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Mathematics III</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 204" title="Click Here to View Course Details"><font color="#0000CC">MA 204</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Complex Analysis and Partial Differential Equation</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 205" title="Click Here to View Course Details"><font color="#0000CC">MA 205</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Complex Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 207" title="Click Here to View Course Details"><font color="#0000CC">MA 207</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Differential Equations II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 210" title="Click Here to View Course Details"><font color="#0000CC">MA 210</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Introduction to Numerical Methods</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 212" title="Click Here to View Course Details"><font color="#0000CC">MA 212</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Probability, Random Process and Statistical Inference</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 214" title="Click Here to View Course Details"><font color="#0000CC">MA 214</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Introduction to Numerical Analysis</font> </td>
+        </tr>
+
+				<tr height="1" bgcolor="#F2F2F2"> 
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>					
+				</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 401" title="Click Here to View Course Details"><font color="#0000CC">MA 401</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Linear Algebra</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 402" title="Click Here to View Course Details"><font color="#0000CC">MA 402</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Algebra -I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 403" title="Click Here to View Course Details"><font color="#0000CC">MA 403</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Real Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 404" title="Click Here to View Course Details"><font color="#0000CC">MA 404</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Real Analysis II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 405" title="Click Here to View Course Details"><font color="#0000CC">MA 405</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Basic Algebra</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 406" title="Click Here to View Course Details"><font color="#0000CC">MA 406</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">General Topology</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 408" title="Click Here to View Course Details"><font color="#0000CC">MA 408</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Measure Theory</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 410" title="Click Here to View Course Details"><font color="#0000CC">MA 410</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Multivariable Calculus</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 411" title="Click Here to View Course Details"><font color="#0000CC">MA 411</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Introduction to Probability</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 412" title="Click Here to View Course Details"><font color="#0000CC">MA 412</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Complex Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 414" title="Click Here to View Course Details"><font color="#0000CC">MA 414</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Algebra I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 415" title="Click Here to View Course Details"><font color="#0000CC">MA 415</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Mathematical Methods</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 416" title="Click Here to View Course Details"><font color="#0000CC">MA 416</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Mathematical Methods I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 417" title="Click Here to View Course Details"><font color="#0000CC">MA 417</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Ordinary Differential Equations</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 419" title="Click Here to View Course Details"><font color="#0000CC">MA 419</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Basic Algebra</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 420" title="Click Here to View Course Details"><font color="#0000CC">MA 420</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Principles of Optimization</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 422" title="Click Here to View Course Details"><font color="#0000CC">MA 422</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Probability Theory</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 424" title="Click Here to View Course Details"><font color="#0000CC">MA 424</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Theory of Sampling</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 436" title="Click Here to View Course Details"><font color="#0000CC">MA 436</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Partial Differential Equations</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 438" title="Click Here to View Course Details"><font color="#0000CC">MA 438</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Introduction to Mathematical Statistics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 444" title="Click Here to View Course Details"><font color="#0000CC">MA 444</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Numerical Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 446" title="Click Here to View Course Details"><font color="#0000CC">MA 446</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Complex Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 448" title="Click Here to View Course Details"><font color="#0000CC">MA 448</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Multivariable Calculus</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 450" title="Click Here to View Course Details"><font color="#0000CC">MA 450</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Independent Study</font> </td>
+        </tr>
+
+				<tr height="1" bgcolor="#F2F2F2"> 
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>					
+				</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 501" title="Click Here to View Course Details"><font color="#0000CC">MA 501</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Algebra II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 502" title="Click Here to View Course Details"><font color="#0000CC">MA 502</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Algebraic Number Theory</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 503" title="Click Here to View Course Details"><font color="#0000CC">MA 503</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Functional Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 504" title="Click Here to View Course Details"><font color="#0000CC">MA 504</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Operators on Hilbert Spaces</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 505" title="Click Here to View Course Details"><font color="#0000CC">MA 505</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Algebra II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 506" title="Click Here to View Course Details"><font color="#0000CC">MA 506</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Commutative Algebra</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 507" title="Click Here to View Course Details"><font color="#0000CC">MA 507</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Convex Analysis and Optimization</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 508" title="Click Here to View Course Details"><font color="#0000CC">MA 508</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Mathematical Methods</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 509" title="Click Here to View Course Details"><font color="#0000CC">MA 509</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Elementary Number Theory</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 510" title="Click Here to View Course Details"><font color="#0000CC">MA 510</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Introduction to Algebraic Geometry</font> </td>
+        </tr>
+
+				<tr height="1" bgcolor="#F2F2F2"> 
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>					
+				</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA5109" title="Click Here to View Course Details"><font color="#0000CC">MA5109</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Graph Theory</font> </td>
+        </tr>
+
+				<tr height="1" bgcolor="#F2F2F2"> 
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>					
+				</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 511" title="Click Here to View Course Details"><font color="#0000CC">MA 511</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Enumerative Combinatorics I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 512" title="Click Here to View Course Details"><font color="#0000CC">MA 512</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Enumerative Cimbinatiorics II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 513" title="Click Here to View Course Details"><font color="#0000CC">MA 513</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Fourier Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 514" title="Click Here to View Course Details"><font color="#0000CC">MA 514</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Locally Convex Spaces and Distribution Theory</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 515" title="Click Here to View Course Details"><font color="#0000CC">MA 515</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Partial Differential Equations</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 516" title="Click Here to View Course Details"><font color="#0000CC">MA 516</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Algebraic Topology</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 517" title="Click Here to View Course Details"><font color="#0000CC">MA 517</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Operators on Hilbert Spaces</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 518" title="Click Here to View Course Details"><font color="#0000CC">MA 518</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Spectral Approximation</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 519" title="Click Here to View Course Details"><font color="#0000CC">MA 519</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Representation Theory of Finite Groups</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 520" title="Click Here to View Course Details"><font color="#0000CC">MA 520</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Spline Theory and Variational Methods</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 521" title="Click Here to View Course Details"><font color="#0000CC">MA 521</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Theory of Analytic Functions</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 522" title="Click Here to View Course Details"><font color="#0000CC">MA 522</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Fourier Analysis and Applications</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 523" title="Click Here to View Course Details"><font color="#0000CC">MA 523</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Basic Number Theory</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 524" title="Click Here to View Course Details"><font color="#0000CC">MA 524</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Algebraic Number Theory</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 525" title="Click Here to View Course Details"><font color="#0000CC">MA 525</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Dynamical Systems</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 526" title="Click Here to View Course Details"><font color="#0000CC">MA 526</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Commutative Algebra</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 527" title="Click Here to View Course Details"><font color="#0000CC">MA 527</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Topics in Approximation Theory</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 529" title="Click Here to View Course Details"><font color="#0000CC">MA 529</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Numerical Methods for Partial Differential Equatio</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 530" title="Click Here to View Course Details"><font color="#0000CC">MA 530</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Nonlinear Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 532" title="Click Here to View Course Details"><font color="#0000CC">MA 532</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Analytic Number Theory</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 533" title="Click Here to View Course Details"><font color="#0000CC">MA 533</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Advanced Probability Theory</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 534" title="Click Here to View Course Details"><font color="#0000CC">MA 534</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Modern Theory of PDE</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 538" title="Click Here to View Course Details"><font color="#0000CC">MA 538</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Representation Theory of Finite Groups</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 539" title="Click Here to View Course Details"><font color="#0000CC">MA 539</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Spline Theory and Variational Methods</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 540" title="Click Here to View Course Details"><font color="#0000CC">MA 540</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Numerical Methods for Partial Differential Equations</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 543" title="Click Here to View Course Details"><font color="#0000CC">MA 543</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Finite Element Methods and Applications</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 548" title="Click Here to View Course Details"><font color="#0000CC">MA 548</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Non-Newtonian Fluid Mechanics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 551" title="Click Here to View Course Details"><font color="#0000CC">MA 551</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Numerical Analysis II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 556" title="Click Here to View Course Details"><font color="#0000CC">MA 556</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Differential Geometry</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 559" title="Click Here to View Course Details"><font color="#0000CC">MA 559</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Functional Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 561" title="Click Here to View Course Details"><font color="#0000CC">MA 561</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Abstract Measure and Integration</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 562" title="Click Here to View Course Details"><font color="#0000CC">MA 562</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Mathematical Theory of Finite Elements</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 567" title="Click Here to View Course Details"><font color="#0000CC">MA 567</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Compressible Fluid Flow</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 568" title="Click Here to View Course Details"><font color="#0000CC">MA 568</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Functional Analysis II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 569" title="Click Here to View Course Details"><font color="#0000CC">MA 569</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Computational Commutative Algebra and Algebraic Ge</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 570" title="Click Here to View Course Details"><font color="#0000CC">MA 570</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Design and Analysis of Experiments</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 572" title="Click Here to View Course Details"><font color="#0000CC">MA 572</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Non-paramatic Statistical Inference</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 573" title="Click Here to View Course Details"><font color="#0000CC">MA 573</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Mathematical Theory of Reliability</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 574" title="Click Here to View Course Details"><font color="#0000CC">MA 574</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Generalized Linear Models</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 575" title="Click Here to View Course Details"><font color="#0000CC">MA 575</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Multivariate Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 576" title="Click Here to View Course Details"><font color="#0000CC">MA 576</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Statistical Decision Theory</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 577" title="Click Here to View Course Details"><font color="#0000CC">MA 577</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Statistical Inference I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 579" title="Click Here to View Course Details"><font color="#0000CC">MA 579</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Stochastic Processes</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 580" title="Click Here to View Course Details"><font color="#0000CC">MA 580</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Time Series Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 581" title="Click Here to View Course Details"><font color="#0000CC">MA 581</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Elements of Differential Topology</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 582" title="Click Here to View Course Details"><font color="#0000CC">MA 582</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Basic Algebraic Topology</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 583" title="Click Here to View Course Details"><font color="#0000CC">MA 583</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Introduction to Continuum Mechanics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 585" title="Click Here to View Course Details"><font color="#0000CC">MA 585</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Seminar</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 587" title="Click Here to View Course Details"><font color="#0000CC">MA 587</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Lie Groups and Lie Algebras</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 588" title="Click Here to View Course Details"><font color="#0000CC">MA 588</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Computational Finance</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 589" title="Click Here to View Course Details"><font color="#0000CC">MA 589</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">M.Sc. Project Stage I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 590" title="Click Here to View Course Details"><font color="#0000CC">MA 590</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Fluid Dynamics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 591" title="Click Here to View Course Details"><font color="#0000CC">MA 591</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Algebraic Geometery II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 592" title="Click Here to View Course Details"><font color="#0000CC">MA 592</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Non-linear Wave Phenomena</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 593" title="Click Here to View Course Details"><font color="#0000CC">MA 593</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Optional Project I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 594" title="Click Here to View Course Details"><font color="#0000CC">MA 594</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Stochastic Calculus with Applications to Finance</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 597" title="Click Here to View Course Details"><font color="#0000CC">MA 597</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Project Stage I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 598" title="Click Here to View Course Details"><font color="#0000CC">MA 598</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Optional Project  II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 599" title="Click Here to View Course Details"><font color="#0000CC">MA 599</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">M.Sc. Project Stage II</font> </td>
+        </tr>
+
+				<tr height="1" bgcolor="#F2F2F2"> 
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>					
+				</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 603" title="Click Here to View Course Details"><font color="#0000CC">MA 603</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Statistical Methods of Analysis and Design</font> </td>
+        </tr>
+
+				<tr height="1" bgcolor="#F2F2F2"> 
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>					
+				</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 811" title="Click Here to View Course Details"><font color="#0000CC">MA 811</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Algebra I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 812" title="Click Here to View Course Details"><font color="#0000CC">MA 812</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Algebra II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 813" title="Click Here to View Course Details"><font color="#0000CC">MA 813</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Measure Theory</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 814" title="Click Here to View Course Details"><font color="#0000CC">MA 814</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Complex Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 815" title="Click Here to View Course Details"><font color="#0000CC">MA 815</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Differential Topology</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 816" title="Click Here to View Course Details"><font color="#0000CC">MA 816</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Algebraic Topology</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 817" title="Click Here to View Course Details"><font color="#0000CC">MA 817</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Partial Differential Equations I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 818" title="Click Here to View Course Details"><font color="#0000CC">MA 818</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Partial Differential Equations II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 819" title="Click Here to View Course Details"><font color="#0000CC">MA 819</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Weak Convergence and Martingale Theory</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 820" title="Click Here to View Course Details"><font color="#0000CC">MA 820</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Stochastic Processes</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 821" title="Click Here to View Course Details"><font color="#0000CC">MA 821</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Theory of Estimation</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 822" title="Click Here to View Course Details"><font color="#0000CC">MA 822</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Testing of Hypothesis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 824" title="Click Here to View Course Details"><font color="#0000CC">MA 824</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Functional Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 825" title="Click Here to View Course Details"><font color="#0000CC">MA 825</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Algebra</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 826" title="Click Here to View Course Details"><font color="#0000CC">MA 826</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Topology</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 827" title="Click Here to View Course Details"><font color="#0000CC">MA 827</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Analysis I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 828" title="Click Here to View Course Details"><font color="#0000CC">MA 828</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Functional Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 829" title="Click Here to View Course Details"><font color="#0000CC">MA 829</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Mathematical Methods</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 830" title="Click Here to View Course Details"><font color="#0000CC">MA 830</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Numerical Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 831" title="Click Here to View Course Details"><font color="#0000CC">MA 831</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Fluid Mechanics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 832" title="Click Here to View Course Details"><font color="#0000CC">MA 832</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Elasticity</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 833" title="Click Here to View Course Details"><font color="#0000CC">MA 833</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Weak Convergance and Martingale Theory</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 834" title="Click Here to View Course Details"><font color="#0000CC">MA 834</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Theory of Testing of Hypotheses</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 835" title="Click Here to View Course Details"><font color="#0000CC">MA 835</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Theory of Estimation</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 836" title="Click Here to View Course Details"><font color="#0000CC">MA 836</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Asymptotic Theory of Statistical Inference</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 837" title="Click Here to View Course Details"><font color="#0000CC">MA 837</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Special Topics in Mathematics I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 838" title="Click Here to View Course Details"><font color="#0000CC">MA 838</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Special Topics in Mathematics II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 842" title="Click Here to View Course Details"><font color="#0000CC">MA 842</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Topics in Algebra II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 843" title="Click Here to View Course Details"><font color="#0000CC">MA 843</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Topics in Analysis I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 844" title="Click Here to View Course Details"><font color="#0000CC">MA 844</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Topics in Analysis II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 846" title="Click Here to View Course Details"><font color="#0000CC">MA 846</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Topics in Combinatories II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 848" title="Click Here to View Course Details"><font color="#0000CC">MA 848</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Topics in Geometry II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 850" title="Click Here to View Course Details"><font color="#0000CC">MA 850</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Topics in Topology II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 852" title="Click Here to View Course Details"><font color="#0000CC">MA 852</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Topics in Number Theory II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 854" title="Click Here to View Course Details"><font color="#0000CC">MA 854</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Topics in Differential Equations II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 856" title="Click Here to View Course Details"><font color="#0000CC">MA 856</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Topics in Numerical Analysis II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 858" title="Click Here to View Course Details"><font color="#0000CC">MA 858</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Topics in Probability II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 860" title="Click Here to View Course Details"><font color="#0000CC">MA 860</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Topics in Statistics II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 861" title="Click Here to View Course Details"><font color="#0000CC">MA 861</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Combinatorics I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MA 899" title="Click Here to View Course Details"><font color="#0000CC">MA 899</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Communication Skills</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MAS801" title="Click Here to View Course Details"><font color="#0000CC">MAS801</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Seminar</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MAS802" title="Click Here to View Course Details"><font color="#0000CC">MAS802</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Seminar</font> </td>
+        </tr>
+
+      </tbody></table>
+
+
+<!--</form>-->
+<p></p>
+
+
+</body></html>
+
+Content Frame HTML content for Mathematics:
+<html><head><title>Running courses</title></head>
+<body>
+
+	<table width="85%" align="center" border="0">
+		<tbody><tr>
+			<td align="center"><font color="green"><h3 align="center"><b>Running Courses in <font color="red">Mathematics</font> </b></h3></font>
+			</td>
+		</tr>
+	</tbody></table>
+	<table color="gray" border="1" cellpadding="5" cellspacing="0" width="75%" align="center">
+		<form method="post" action="./RunningCourses.jsp"></form>
+		<tbody><tr bgcolor="#E0E0E0">
+			<td colspan="8" align="center">
+				<font size="2" face="verdana" color="222277"><b>Select Year</b>&nbsp;<select name="year">
+					
+						<option value="2021">2021-2022
+						</option>
+					
+						<option value="2022">2022-2023
+						</option>
+					
+						<option selected="" value="2023">2023-2024
+						</option>
+					
+						<option value="2024">2024-2025
+						</option>
+					
+					
+				</select>&nbsp; 
+				<font size="2" face="verdana" color="222277"><b>Semester</b>&nbsp;<select name="semester">
+					<option value="1">1 - Autumn</option>
+					<option selected="" value="2">2 - Spring</option>
+				</select>
+				<input type="hidden" name="deptcd" value="MA,MA,MA,">
+				<input type="submit" name="submit" value="GO">
+			</font></font></td>
+		</tr>
+		
+		<tr bgcolor="#F2F2F2">
+			<th><b>Sr no.</b></th>
+			<th><b>Course Code</b></th>
+			<th><b>Course Name</b></th>
+			<td><b>Instructor Name</b></td>
+			<!--<td><b>Instructor Status</b></td>
+			<td><b>Slot</b></td>
+			<td><b>Division</b></td>-->
+		</tr>
+
+			<tr>
+				<td align="center">1</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 106" title="Click Here to view Course Details"><font color="#0000CC">MA 106</font></a>
+				</td>
+				<td align="left" bgcolor="white">Linear Algebra</td>
+				<td align="left" bgcolor="white">Ananthnarayan Hariharan<br>Rekha Santhanam<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">2</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 108" title="Click Here to view Course Details"><font color="#0000CC">MA 108</font></a>
+				</td>
+				<td align="left" bgcolor="white">Differential Equations</td>
+				<td align="left" bgcolor="white">K. Sureshkumar<br>Santanu Dey<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">3</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 110" title="Click Here to view Course Details"><font color="#0000CC">MA 110</font></a>
+				</td>
+				<td align="left" bgcolor="white">Linear Algebra and Differential Equations</td>
+				<td align="left" bgcolor="white">Ananthnarayan Hariharan<br>K. Sureshkumar<br>Rekha Santhanam<br>Santanu Dey<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">4</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 214" title="Click Here to view Course Details"><font color="#0000CC">MA 214</font></a>
+				</td>
+				<td align="left" bgcolor="white">Introduction to Numerical Analysis</td>
+				<td align="left" bgcolor="white">Sudarshan Gurjar<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">5</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 406" title="Click Here to view Course Details"><font color="#0000CC">MA 406</font></a>
+				</td>
+				<td align="left" bgcolor="white">General Topology</td>
+				<td align="left" bgcolor="white">Chandan  Biswas<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">6</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 408" title="Click Here to view Course Details"><font color="#0000CC">MA 408</font></a>
+				</td>
+				<td align="left" bgcolor="white">Measure Theory</td>
+				<td align="left" bgcolor="white">Mallesham  Kummari<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">7</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 410" title="Click Here to view Course Details"><font color="#0000CC">MA 410</font></a>
+				</td>
+				<td align="left" bgcolor="white">Multivariable Calculus</td>
+				<td align="left" bgcolor="white">Preeti Raman<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">8</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 412" title="Click Here to view Course Details"><font color="#0000CC">MA 412</font></a>
+				</td>
+				<td align="left" bgcolor="white">Complex Analysis</td>
+				<td align="left" bgcolor="white">Garge Shripad M.<br>Sandip Singh<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">9</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 414" title="Click Here to view Course Details"><font color="#0000CC">MA 414</font></a>
+				</td>
+				<td align="left" bgcolor="white">Algebra I</td>
+				<td align="left" bgcolor="white">Saurav Bhaumik<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">10</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 504" title="Click Here to view Course Details"><font color="#0000CC">MA 504</font></a>
+				</td>
+				<td align="left" bgcolor="white">Operators on Hilbert Spaces</td>
+				<td align="left" bgcolor="white">Bata K. Das<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">11</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 510" title="Click Here to view Course Details"><font color="#0000CC">MA 510</font></a>
+				</td>
+				<td align="left" bgcolor="white">Introduction to Algebraic Geometry</td>
+				<td align="left" bgcolor="white">Manoj Kumar keshari<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">12</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA5104" title="Click Here to view Course Details"><font color="#0000CC">MA5104</font></a>
+				</td>
+				<td align="left" bgcolor="white">Hyperbolic Conservation Laws</td>
+				<td align="left" bgcolor="white">Sivaji Ganesh S.<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">13</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA5106" title="Click Here to view Course Details"><font color="#0000CC">MA5106</font></a>
+				</td>
+				<td align="left" bgcolor="white">Introduction to Fourier Analysis</td>
+				<td align="left" bgcolor="white">Saikat  Mazumdar<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">14</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA5108" title="Click Here to view Course Details"><font color="#0000CC">MA5108</font></a>
+				</td>
+				<td align="left" bgcolor="white">Lie Groups &amp; Lie Algebras</td>
+				<td align="left" bgcolor="white">G. K. Srinivasan<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">15</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA5110" title="Click Here to view Course Details"><font color="#0000CC">MA5110</font></a>
+				</td>
+				<td align="left" bgcolor="white">Non-commutative Algebra</td>
+				<td align="left" bgcolor="white">Garge Shripad M.<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">16</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA5116" title="Click Here to view Course Details"><font color="#0000CC">MA5116</font></a>
+				</td>
+				<td align="left" bgcolor="white">Species and Operads</td>
+				<td align="left" bgcolor="white">Swapneel A. Mahajan<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">17</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 526" title="Click Here to view Course Details"><font color="#0000CC">MA 526</font></a>
+				</td>
+				<td align="left" bgcolor="white">Commutative Algebra</td>
+				<td align="left" bgcolor="white">Verma J.K.<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">18</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 534" title="Click Here to view Course Details"><font color="#0000CC">MA 534</font></a>
+				</td>
+				<td align="left" bgcolor="white">Modern Theory of PDE</td>
+				<td align="left" bgcolor="white">Debanjana  Mitra<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">19</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 562" title="Click Here to view Course Details"><font color="#0000CC">MA 562</font></a>
+				</td>
+				<td align="left" bgcolor="white">Mathematical Theory of Finite Elements</td>
+				<td align="left" bgcolor="white">Nataraj Neela<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">20</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 812" title="Click Here to view Course Details"><font color="#0000CC">MA 812</font></a>
+				</td>
+				<td align="left" bgcolor="white">Algebra II</td>
+				<td align="left" bgcolor="white">Ronnie M. Sebastain<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">21</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 814" title="Click Here to view Course Details"><font color="#0000CC">MA 814</font></a>
+				</td>
+				<td align="left" bgcolor="white">Complex Analysis</td>
+				<td align="left" bgcolor="white">Prachi Mahajan<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">22</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 816" title="Click Here to view Course Details"><font color="#0000CC">MA 816</font></a>
+				</td>
+				<td align="left" bgcolor="white">Algebraic Topology</td>
+				<td align="left" bgcolor="white">Dipendra  Prasad<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">23</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 818" title="Click Here to view Course Details"><font color="#0000CC">MA 818</font></a>
+				</td>
+				<td align="left" bgcolor="white">Partial Differential Equations II</td>
+				<td align="left" bgcolor="white">Mayukh  Mukherjee<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">24</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 824" title="Click Here to view Course Details"><font color="#0000CC">MA 824</font></a>
+				</td>
+				<td align="left" bgcolor="white">Functional Analysis</td>
+				<td align="left" bgcolor="white">Sanjoy Pusti<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">25</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 842" title="Click Here to view Course Details"><font color="#0000CC">MA 842</font></a>
+				</td>
+				<td align="left" bgcolor="white">Topics in Algebra II</td>
+				<td align="left" bgcolor="white">Ananthnarayan Hariharan<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">26</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 846" title="Click Here to view Course Details"><font color="#0000CC">MA 846</font></a>
+				</td>
+				<td align="left" bgcolor="white">Topics in Combinatories II</td>
+				<td align="left" bgcolor="white">Srinivasan M.K.<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">27</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 852" title="Click Here to view Course Details"><font color="#0000CC">MA 852</font></a>
+				</td>
+				<td align="left" bgcolor="white">Topics in Number Theory II</td>
+				<td align="left" bgcolor="white">Ravi Raghunathan<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">28</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 862" title="Click Here to view Course Details"><font color="#0000CC">MA 862</font></a>
+				</td>
+				<td align="left" bgcolor="white">Combinatorics II</td>
+				<td align="left" bgcolor="white">Niranjan  Balachandran<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">29</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MA 867" title="Click Here to view Course Details"><font color="#0000CC">MA 867</font></a>
+				</td>
+				<td align="left" bgcolor="white">Statistical Modelling- I</td>
+				<td align="left" bgcolor="white">Radhendushka Srivastava<br></td>				
+			</tr>
+
+	</tbody></table>
+
+
+</body></html>
+
