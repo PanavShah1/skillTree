@@ -1,0 +1,1028 @@
+<html><head><title>COURSE INFO</title></head>
+<body bgcolor="white" marginwidth="0" marginheight="0">
+			
+			<table width="85%" align="center" border="0">
+				<tbody><tr>
+					<td align="center">
+						<font color="green">
+							<h3 align="center"> <b> Courses which are part of bulletin for last 5 years in <font color="red"> Shailesh J. Mehta School of Management</font> </b> </h3>
+						</font>
+					</td>
+				</tr>
+			</tbody></table>
+           
+			<table width="75%" align="center" border="1" cellpadding="5" cellspacing="0">
+           		<tbody><tr bgcolor="#E0E0E0"> 
+           			<th align="center" width="25%"><font size="2" face="verdana" color="222277"><b>Course Code</b></font> </th>
+           			<th align="left"><font size="2" face="verdana" color="222277"><b>Course Name</b></font></th>
+           		</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE701" title="Click Here to View Course Details"><font color="#0000CC">IWE701</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Strategic Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE702" title="Click Here to View Course Details"><font color="#0000CC">IWE702</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Organizational Behavior and Design</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE703" title="Click Here to View Course Details"><font color="#0000CC">IWE703</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Data Modeling and Decisions</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE704" title="Click Here to View Course Details"><font color="#0000CC">IWE704</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Introduction to Financial Accounting</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE705" title="Click Here to View Course Details"><font color="#0000CC">IWE705</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Marketing Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE706" title="Click Here to View Course Details"><font color="#0000CC">IWE706</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Managerial Economics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE707" title="Click Here to View Course Details"><font color="#0000CC">IWE707</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Communication and Negotiation Skills</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE708" title="Click Here to View Course Details"><font color="#0000CC">IWE708</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Operations and Manufacturing Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE709" title="Click Here to View Course Details"><font color="#0000CC">IWE709</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Strategic Cost Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE710" title="Click Here to View Course Details"><font color="#0000CC">IWE710</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Corporate Finance</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE711" title="Click Here to View Course Details"><font color="#0000CC">IWE711</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Leadership</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE712" title="Click Here to View Course Details"><font color="#0000CC">IWE712</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Growth, Valuations, and Sustainability</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE713" title="Click Here to View Course Details"><font color="#0000CC">IWE713</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Managing Power and Influence in Organizations</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE714" title="Click Here to View Course Details"><font color="#0000CC">IWE714</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Global Supply Chain Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE715" title="Click Here to View Course Details"><font color="#0000CC">IWE715</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Competitive Strategy &amp; Industry Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE716" title="Click Here to View Course Details"><font color="#0000CC">IWE716</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Macroeconomics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE719" title="Click Here to View Course Details"><font color="#0000CC">IWE719</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Strategic Management of Innovation</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE720" title="Click Here to View Course Details"><font color="#0000CC">IWE720</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Business Start-up Consulting Project</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE721" title="Click Here to View Course Details"><font color="#0000CC">IWE721</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Washington D C Residency</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE722" title="Click Here to View Course Details"><font color="#0000CC">IWE722</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Data-Driven Decision Making: Analysis to Action</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE723" title="Click Here to View Course Details"><font color="#0000CC">IWE723</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Customer Analytics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=IWE725" title="Click Here to View Course Details"><font color="#0000CC">IWE725</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">The Entrepreneurial Mindset</font> </td>
+        </tr>
+
+				<tr height="1" bgcolor="#F2F2F2"> 
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>					
+				</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MG 621" title="Click Here to View Course Details"><font color="#0000CC">MG 621</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Strategic Management of Technology</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MG 625" title="Click Here to View Course Details"><font color="#0000CC">MG 625</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Legal Aspects of Business</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MG 634" title="Click Here to View Course Details"><font color="#0000CC">MG 634</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Project Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MG 635" title="Click Here to View Course Details"><font color="#0000CC">MG 635</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Manufacturing Strategy</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MG 641" title="Click Here to View Course Details"><font color="#0000CC">MG 641</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Purchasing and Supply Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MG 648" title="Click Here to View Course Details"><font color="#0000CC">MG 648</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Marketing Research</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MG 651" title="Click Here to View Course Details"><font color="#0000CC">MG 651</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Communication and Presentation Skills</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MG 652" title="Click Here to View Course Details"><font color="#0000CC">MG 652</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Maintenance Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MG 654" title="Click Here to View Course Details"><font color="#0000CC">MG 654</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Logistics and Supply Chain Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MG 655" title="Click Here to View Course Details"><font color="#0000CC">MG 655</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Corporate Strategy</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MG 659" title="Click Here to View Course Details"><font color="#0000CC">MG 659</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Management of World Class Manufacturing System</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MG 689" title="Click Here to View Course Details"><font color="#0000CC">MG 689</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Large-Scale Optimization</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGP601" title="Click Here to View Course Details"><font color="#0000CC">MGP601</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Project Work</font> </td>
+        </tr>
+
+				<tr height="1" bgcolor="#F2F2F2"> 
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>					
+				</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGS601" title="Click Here to View Course Details"><font color="#0000CC">MGS601</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Seminar</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGS801" title="Click Here to View Course Details"><font color="#0000CC">MGS801</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Credit Seminar</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGS802" title="Click Here to View Course Details"><font color="#0000CC">MGS802</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Seminar</font> </td>
+        </tr>
+
+				<tr height="1" bgcolor="#F2F2F2"> 
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>					
+				</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT601" title="Click Here to View Course Details"><font color="#0000CC">MGT601</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Self Awareness and Interpersonal Skills Lab</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT602" title="Click Here to View Course Details"><font color="#0000CC">MGT602</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Management of Human Resources</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT603" title="Click Here to View Course Details"><font color="#0000CC">MGT603</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Statistical Methods</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT604" title="Click Here to View Course Details"><font color="#0000CC">MGT604</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Financial Management -I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT605" title="Click Here to View Course Details"><font color="#0000CC">MGT605</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Introduction to Marketing</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT606" title="Click Here to View Course Details"><font color="#0000CC">MGT606</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Operations Management-II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT607" title="Click Here to View Course Details"><font color="#0000CC">MGT607</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Managerial Accounting &amp; Control</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT608" title="Click Here to View Course Details"><font color="#0000CC">MGT608</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Management of Technology</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT609" title="Click Here to View Course Details"><font color="#0000CC">MGT609</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Managerial Economics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT610" title="Click Here to View Course Details"><font color="#0000CC">MGT610</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Information Systems</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT611" title="Click Here to View Course Details"><font color="#0000CC">MGT611</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Organizational Behaviour</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT612" title="Click Here to View Course Details"><font color="#0000CC">MGT612</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Business Research Methods</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT613" title="Click Here to View Course Details"><font color="#0000CC">MGT613</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Communication Skills Lab</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT614" title="Click Here to View Course Details"><font color="#0000CC">MGT614</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">International Business</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT615" title="Click Here to View Course Details"><font color="#0000CC">MGT615</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Marketing Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT616" title="Click Here to View Course Details"><font color="#0000CC">MGT616</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Financial Management -II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT617" title="Click Here to View Course Details"><font color="#0000CC">MGT617</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Decision Models in Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT618" title="Click Here to View Course Details"><font color="#0000CC">MGT618</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Advanced Planning and Scheduling</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT619" title="Click Here to View Course Details"><font color="#0000CC">MGT619</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Economic Environment and Policy</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT620" title="Click Here to View Course Details"><font color="#0000CC">MGT620</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Business and Sustainable Development</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT621" title="Click Here to View Course Details"><font color="#0000CC">MGT621</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Operations Management 1</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT622" title="Click Here to View Course Details"><font color="#0000CC">MGT622</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Corporate Strategy</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT623" title="Click Here to View Course Details"><font color="#0000CC">MGT623</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Quantitative Skills Lab</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT624" title="Click Here to View Course Details"><font color="#0000CC">MGT624</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Business Ethics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT625" title="Click Here to View Course Details"><font color="#0000CC">MGT625</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Legal Aspects of Business</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT627" title="Click Here to View Course Details"><font color="#0000CC">MGT627</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Patterns of Enterprenuership</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT628" title="Click Here to View Course Details"><font color="#0000CC">MGT628</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Leadership and Vision</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT630" title="Click Here to View Course Details"><font color="#0000CC">MGT630</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Introduction to ERP</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT631" title="Click Here to View Course Details"><font color="#0000CC">MGT631</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Logistics and Supply Chain Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT632" title="Click Here to View Course Details"><font color="#0000CC">MGT632</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Lean Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT633" title="Click Here to View Course Details"><font color="#0000CC">MGT633</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Quality Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT634" title="Click Here to View Course Details"><font color="#0000CC">MGT634</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Purchasing and Supply Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT640" title="Click Here to View Course Details"><font color="#0000CC">MGT640</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Service Operations Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT647" title="Click Here to View Course Details"><font color="#0000CC">MGT647</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Innovation and Entreprenurship</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT650" title="Click Here to View Course Details"><font color="#0000CC">MGT650</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Mergers,Acquisitions and Business Valuation</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT651" title="Click Here to View Course Details"><font color="#0000CC">MGT651</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">International Finance</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT652" title="Click Here to View Course Details"><font color="#0000CC">MGT652</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Indian Financial and Business Model</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT653" title="Click Here to View Course Details"><font color="#0000CC">MGT653</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Security Analysis and Portfolio Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT654" title="Click Here to View Course Details"><font color="#0000CC">MGT654</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Fixed Income Securities</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT655" title="Click Here to View Course Details"><font color="#0000CC">MGT655</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Derivatives and Risk Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT656" title="Click Here to View Course Details"><font color="#0000CC">MGT656</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Management Control Systems</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT661" title="Click Here to View Course Details"><font color="#0000CC">MGT661</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Advertising and Media Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT662" title="Click Here to View Course Details"><font color="#0000CC">MGT662</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Customer Relationship Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT663" title="Click Here to View Course Details"><font color="#0000CC">MGT663</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Brand Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT664" title="Click Here to View Course Details"><font color="#0000CC">MGT664</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Business to Business Marketing</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT665" title="Click Here to View Course Details"><font color="#0000CC">MGT665</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Consumer Behavior</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT668" title="Click Here to View Course Details"><font color="#0000CC">MGT668</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Services Marketing</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT670" title="Click Here to View Course Details"><font color="#0000CC">MGT670</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Management of New Ventures</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT671" title="Click Here to View Course Details"><font color="#0000CC">MGT671</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">International Competitiveness</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT673" title="Click Here to View Course Details"><font color="#0000CC">MGT673</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Managerial Effectiveness Skills</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT677" title="Click Here to View Course Details"><font color="#0000CC">MGT677</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Management of Change</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT678" title="Click Here to View Course Details"><font color="#0000CC">MGT678</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Policy Responses to Climate Change</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT679" title="Click Here to View Course Details"><font color="#0000CC">MGT679</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Competitiveness for Sustainable Enterprise</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT680" title="Click Here to View Course Details"><font color="#0000CC">MGT680</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Managing Intellectual Property</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT681" title="Click Here to View Course Details"><font color="#0000CC">MGT681</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Historical and Contemporary Perspectives in International Business.</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT682" title="Click Here to View Course Details"><font color="#0000CC">MGT682</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Applied Industrial Organization</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT683" title="Click Here to View Course Details"><font color="#0000CC">MGT683</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Managing with New Business Models in a Knowledge Economy</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT686" title="Click Here to View Course Details"><font color="#0000CC">MGT686</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Strategic Transformation</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT689" title="Click Here to View Course Details"><font color="#0000CC">MGT689</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">International Trade</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT690" title="Click Here to View Course Details"><font color="#0000CC">MGT690</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Software Project Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT691" title="Click Here to View Course Details"><font color="#0000CC">MGT691</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Intelligent Systems</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT693" title="Click Here to View Course Details"><font color="#0000CC">MGT693</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Information Technology Infrastructure Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT696" title="Click Here to View Course Details"><font color="#0000CC">MGT696</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Strategies for Growth</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT697" title="Click Here to View Course Details"><font color="#0000CC">MGT697</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Electronic Business Strategies and Implementation</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT701" title="Click Here to View Course Details"><font color="#0000CC">MGT701</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Online Marketing</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT703" title="Click Here to View Course Details"><font color="#0000CC">MGT703</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Sales and Distribution Management </font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT742" title="Click Here to View Course Details"><font color="#0000CC">MGT742</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Large-Scale Optimization</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT783" title="Click Here to View Course Details"><font color="#0000CC">MGT783</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Experimental Design for Productivity and Quality Improvement</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT801" title="Click Here to View Course Details"><font color="#0000CC">MGT801</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Introduction to Research Methods</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT802" title="Click Here to View Course Details"><font color="#0000CC">MGT802</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Statistics for Management Researc</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT803" title="Click Here to View Course Details"><font color="#0000CC">MGT803</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Economics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT804" title="Click Here to View Course Details"><font color="#0000CC">MGT804</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Qualitative Research Methodologies</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGT805" title="Click Here to View Course Details"><font color="#0000CC">MGT805</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Survey Research &amp; Experimentation </font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGTP01" title="Click Here to View Course Details"><font color="#0000CC">MGTP01</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Collaborative Practicum Stage -I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MGTP02" title="Click Here to View Course Details"><font color="#0000CC">MGTP02</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Collaborative Practicum Stage -II</font> </td>
+        </tr>
+
+				<tr height="1" bgcolor="#F2F2F2"> 
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>					
+				</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG601" title="Click Here to View Course Details"><font color="#0000CC">MNG601</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black"> Communication and Inter-Personal Skills</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG602" title="Click Here to View Course Details"><font color="#0000CC">MNG602</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Management of Human Resources</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG603" title="Click Here to View Course Details"><font color="#0000CC">MNG603</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Statistical Methods</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG604" title="Click Here to View Course Details"><font color="#0000CC">MNG604</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Corporate Finance - I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG605" title="Click Here to View Course Details"><font color="#0000CC">MNG605</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Marketing Management - I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG606" title="Click Here to View Course Details"><font color="#0000CC">MNG606</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Operations Management II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG607" title="Click Here to View Course Details"><font color="#0000CC">MNG607</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Financial Reporting and Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG608" title="Click Here to View Course Details"><font color="#0000CC">MNG608</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Strategic Management of Technnology</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG609" title="Click Here to View Course Details"><font color="#0000CC">MNG609</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Microeconomics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG610" title="Click Here to View Course Details"><font color="#0000CC">MNG610</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Information Systems</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG611" title="Click Here to View Course Details"><font color="#0000CC">MNG611</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Organization Behavior</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG614" title="Click Here to View Course Details"><font color="#0000CC">MNG614</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">International Business</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG615" title="Click Here to View Course Details"><font color="#0000CC">MNG615</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Marketing Management -II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG616" title="Click Here to View Course Details"><font color="#0000CC">MNG616</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Corporate Finance - II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG617" title="Click Here to View Course Details"><font color="#0000CC">MNG617</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Decision Models in Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG619" title="Click Here to View Course Details"><font color="#0000CC">MNG619</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Macroeconomics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG621" title="Click Here to View Course Details"><font color="#0000CC">MNG621</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Operations Management - I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG622" title="Click Here to View Course Details"><font color="#0000CC">MNG622</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Corporate Strategy</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG623" title="Click Here to View Course Details"><font color="#0000CC">MNG623</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Legal Aspects of Business</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG624" title="Click Here to View Course Details"><font color="#0000CC">MNG624</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Business Ethics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG625" title="Click Here to View Course Details"><font color="#0000CC">MNG625</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Cost Accounting and Control</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG629" title="Click Here to View Course Details"><font color="#0000CC">MNG629</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Technology Design and End To End Innovation -I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG630" title="Click Here to View Course Details"><font color="#0000CC">MNG630</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Technology Design and End To End Innovation -II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG637" title="Click Here to View Course Details"><font color="#0000CC">MNG637</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Project Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG639" title="Click Here to View Course Details"><font color="#0000CC">MNG639</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Technology Strategy Lab</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG744" title="Click Here to View Course Details"><font color="#0000CC">MNG744</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Multivariate Data Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG792" title="Click Here to View Course Details"><font color="#0000CC">MNG792</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Communication Skills -II </font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG802" title="Click Here to View Course Details"><font color="#0000CC">MNG802</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Statistics for Management Research</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=MNG803" title="Click Here to View Course Details"><font color="#0000CC">MNG803</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Economics</font> </td>
+        </tr>
+
+				<tr height="1" bgcolor="#F2F2F2"> 
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>					
+				</tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM601" title="Click Here to View Course Details"><font color="#0000CC">SOM601</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Communication and Interpersonal Skill</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM602" title="Click Here to View Course Details"><font color="#0000CC">SOM602</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Microeconomics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM603" title="Click Here to View Course Details"><font color="#0000CC">SOM603</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Fundamentals of Financial and Managerial Accounting</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM604" title="Click Here to View Course Details"><font color="#0000CC">SOM604</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Marketing Management - I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM605" title="Click Here to View Course Details"><font color="#0000CC">SOM605</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Statistical Methods</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM606" title="Click Here to View Course Details"><font color="#0000CC">SOM606</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Corporate Finance - I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM607" title="Click Here to View Course Details"><font color="#0000CC">SOM607</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Macroeconomics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM608" title="Click Here to View Course Details"><font color="#0000CC">SOM608</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Decision Models in Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM609" title="Click Here to View Course Details"><font color="#0000CC">SOM609</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Information Systems</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM610" title="Click Here to View Course Details"><font color="#0000CC">SOM610</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Marketing Management - II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM611" title="Click Here to View Course Details"><font color="#0000CC">SOM611</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Operations Management – I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM612" title="Click Here to View Course Details"><font color="#0000CC">SOM612</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Business Research Methods</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM613" title="Click Here to View Course Details"><font color="#0000CC">SOM613</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Corporate Finance - II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM614" title="Click Here to View Course Details"><font color="#0000CC">SOM614</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Organization Behavior &amp; Human Resources I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM615" title="Click Here to View Course Details"><font color="#0000CC">SOM615</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Operations Management II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM616" title="Click Here to View Course Details"><font color="#0000CC">SOM616</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Technology Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM617" title="Click Here to View Course Details"><font color="#0000CC">SOM617</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Corporate Strategy</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM618" title="Click Here to View Course Details"><font color="#0000CC">SOM618</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Organization Behavior &amp; Human Resources II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM619" title="Click Here to View Course Details"><font color="#0000CC">SOM619</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Corporate Governance and Business Ethics</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM620" title="Click Here to View Course Details"><font color="#0000CC">SOM620</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Business and Sustainable Development</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM621" title="Click Here to View Course Details"><font color="#0000CC">SOM621</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Legal Aspects of Business</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM625" title="Click Here to View Course Details"><font color="#0000CC">SOM625</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Summer Project Work</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM626" title="Click Here to View Course Details"><font color="#0000CC">SOM626</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Advanced Planning and Scheduling</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM627" title="Click Here to View Course Details"><font color="#0000CC">SOM627</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Patterns of Entrepreneurship</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM628" title="Click Here to View Course Details"><font color="#0000CC">SOM628</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Leadership and Vision</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM629" title="Click Here to View Course Details"><font color="#0000CC">SOM629</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Technology Design and End to End Innovation- I</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM630" title="Click Here to View Course Details"><font color="#0000CC">SOM630</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Technology Design and End to End Innovation- II</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM631" title="Click Here to View Course Details"><font color="#0000CC">SOM631</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Game Theory for Business Decisions</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM632" title="Click Here to View Course Details"><font color="#0000CC">SOM632</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Lean Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM633" title="Click Here to View Course Details"><font color="#0000CC">SOM633</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Quality Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM634" title="Click Here to View Course Details"><font color="#0000CC">SOM634</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Purchasing and Supply Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM635" title="Click Here to View Course Details"><font color="#0000CC">SOM635</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Operations Strategy</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM636" title="Click Here to View Course Details"><font color="#0000CC">SOM636</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Innovation Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM637" title="Click Here to View Course Details"><font color="#0000CC">SOM637</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Project Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM638" title="Click Here to View Course Details"><font color="#0000CC">SOM638</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Innovation and Sustainability Lab</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM639" title="Click Here to View Course Details"><font color="#0000CC">SOM639</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Technology Strategy Lab</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM640" title="Click Here to View Course Details"><font color="#0000CC">SOM640</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Service Operations Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM641" title="Click Here to View Course Details"><font color="#0000CC">SOM641</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Technology Forecasting and Assessment</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM642" title="Click Here to View Course Details"><font color="#0000CC">SOM642</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Business Forecasting</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM644" title="Click Here to View Course Details"><font color="#0000CC">SOM644</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Managerial Decision Making under Risk and Uncertainty</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM645" title="Click Here to View Course Details"><font color="#0000CC">SOM645</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Logistics and Supply Chain Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM646" title="Click Here to View Course Details"><font color="#0000CC">SOM646</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Business Dynamics Modeling and Simulation</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM647" title="Click Here to View Course Details"><font color="#0000CC">SOM647</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Innovation and Entrepreneurship</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM648" title="Click Here to View Course Details"><font color="#0000CC">SOM648</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Simulation of Business Systems</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM649" title="Click Here to View Course Details"><font color="#0000CC">SOM649</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Corporate Competitiveness</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM650" title="Click Here to View Course Details"><font color="#0000CC">SOM650</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Mergers, Acquisitions and Business Valuation</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM651" title="Click Here to View Course Details"><font color="#0000CC">SOM651</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">International Finance</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM652" title="Click Here to View Course Details"><font color="#0000CC">SOM652</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Indian Financial and Business Model</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM653" title="Click Here to View Course Details"><font color="#0000CC">SOM653</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Security Analysis and Portfolio Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM654" title="Click Here to View Course Details"><font color="#0000CC">SOM654</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Fixed Income Securities</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM655" title="Click Here to View Course Details"><font color="#0000CC">SOM655</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Derivatives and Risk Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM656" title="Click Here to View Course Details"><font color="#0000CC">SOM656</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Management Control Systems</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM657" title="Click Here to View Course Details"><font color="#0000CC">SOM657</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Strategic Financial Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM661" title="Click Here to View Course Details"><font color="#0000CC">SOM661</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Advertising and Media Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM662" title="Click Here to View Course Details"><font color="#0000CC">SOM662</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Customer Relationship Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM663" title="Click Here to View Course Details"><font color="#0000CC">SOM663</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Brand Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM664" title="Click Here to View Course Details"><font color="#0000CC">SOM664</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Business to Business Marketing</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM665" title="Click Here to View Course Details"><font color="#0000CC">SOM665</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Consumer Behaviour</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM666" title="Click Here to View Course Details"><font color="#0000CC">SOM666</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Product Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM667" title="Click Here to View Course Details"><font color="#0000CC">SOM667</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Marketing Research</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM668" title="Click Here to View Course Details"><font color="#0000CC">SOM668</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Services Marketing</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM669" title="Click Here to View Course Details"><font color="#0000CC">SOM669</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">International Marketing</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM670" title="Click Here to View Course Details"><font color="#0000CC">SOM670</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Management of New Ventures</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM671" title="Click Here to View Course Details"><font color="#0000CC">SOM671</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">International Competitiveness</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM672" title="Click Here to View Course Details"><font color="#0000CC">SOM672</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Performance Evaluation and Management System</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM673" title="Click Here to View Course Details"><font color="#0000CC">SOM673</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Managerial Effectiveness Skills</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM674" title="Click Here to View Course Details"><font color="#0000CC">SOM674</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Environmental Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM675" title="Click Here to View Course Details"><font color="#0000CC">SOM675</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Organization Theory and Design</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM676" title="Click Here to View Course Details"><font color="#0000CC">SOM676</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Infrastructure Development and Financing</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM677" title="Click Here to View Course Details"><font color="#0000CC">SOM677</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Management of Change</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM678" title="Click Here to View Course Details"><font color="#0000CC">SOM678</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Policy Responses to Climate Change</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM679" title="Click Here to View Course Details"><font color="#0000CC">SOM679</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Competitiveness for Sustainable Enterprise</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM680" title="Click Here to View Course Details"><font color="#0000CC">SOM680</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Managing Intellectual Property</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM681" title="Click Here to View Course Details"><font color="#0000CC">SOM681</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Historical and Contemporary Perspectives in International Business</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM682" title="Click Here to View Course Details"><font color="#0000CC">SOM682</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Applied Industrial Organization</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM683" title="Click Here to View Course Details"><font color="#0000CC">SOM683</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Managing with New Business Models in a Knowledge Economy</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM684" title="Click Here to View Course Details"><font color="#0000CC">SOM684</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Aviation Business Strategies</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM685" title="Click Here to View Course Details"><font color="#0000CC">SOM685</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Managing International Business and Policy</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM686" title="Click Here to View Course Details"><font color="#0000CC">SOM686</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Strategic Transformation</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM687" title="Click Here to View Course Details"><font color="#0000CC">SOM687</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">WTO and Indian Business</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM688" title="Click Here to View Course Details"><font color="#0000CC">SOM688</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Economics of Regulation</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM689" title="Click Here to View Course Details"><font color="#0000CC">SOM689</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">International Trade</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM690" title="Click Here to View Course Details"><font color="#0000CC">SOM690</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Software Project Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM691" title="Click Here to View Course Details"><font color="#0000CC">SOM691</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Intelligent Systems</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM692" title="Click Here to View Course Details"><font color="#0000CC">SOM692</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Hospital Information System</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM693" title="Click Here to View Course Details"><font color="#0000CC">SOM693</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Information Technology Infrastructure Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM695" title="Click Here to View Course Details"><font color="#0000CC">SOM695</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Systems Analysis and Design</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM696" title="Click Here to View Course Details"><font color="#0000CC">SOM696</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Strategies for Growth</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM697" title="Click Here to View Course Details"><font color="#0000CC">SOM697</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Electronic Business Strategies and Implementation</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM701" title="Click Here to View Course Details"><font color="#0000CC">SOM701</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Online Marketing</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM702" title="Click Here to View Course Details"><font color="#0000CC">SOM702</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Design of Manufacturing Systems</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM703" title="Click Here to View Course Details"><font color="#0000CC">SOM703</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Sales and Distribution Management</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM705" title="Click Here to View Course Details"><font color="#0000CC">SOM705</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Supply Chain Optimization</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM706" title="Click Here to View Course Details"><font color="#0000CC">SOM706</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Business Entrepreneurship Development</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM707" title="Click Here to View Course Details"><font color="#0000CC">SOM707</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Behavioral Finance</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM716" title="Click Here to View Course Details"><font color="#0000CC">SOM716</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Economics of Firm Strategy</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM730" title="Click Here to View Course Details"><font color="#0000CC">SOM730</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Technology Acquisition, Transfer and Absorption</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM732" title="Click Here to View Course Details"><font color="#0000CC">SOM732</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">High Tech Ventures: From Concept to Commercialization</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM734" title="Click Here to View Course Details"><font color="#0000CC">SOM734</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Science, Technology and Innovation policy</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM742" title="Click Here to View Course Details"><font color="#0000CC">SOM742</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Large-Scale Optimization</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM744" title="Click Here to View Course Details"><font color="#0000CC">SOM744</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Multivariate Data Analysis</font> </td>
+        </tr>
+
+        <tr><td align="center" width="20%" bgcolor="#F2F2F2"><nowrap><a href="./crsedetail.jsp?ccd=SOM899" title="Click Here to View Course Details"><font color="#0000CC">SOM899</font></a></nowrap></td>
+        <td align="left"><font size="2" face="verdana" color="black">Communication Skills</font> </td>
+        </tr>
+
+      </tbody></table>
+
+
+<!--</form>-->
+<p></p>
+
+
+</body></html>

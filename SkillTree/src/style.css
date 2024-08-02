@@ -33,12 +33,13 @@
 .tree-1 {
     display: flex;
     width: min-content;
-    background-color: #e0e0e0;
+    background-color: white;
     flex-direction: column;
-    margin: 10px;
     padding: 5px;
     border: 1px solid black;
     border-radius: 4px;
+    width: 100%;
+    min-height: calc(100vh - 250px);
 }
 
 .tree-7 {
@@ -47,6 +48,7 @@
     background-color: #c0c0c0;
     flex-direction: row;
     margin: 5px;
+    padding: 5px;
     border-radius: 4px;
 }
 
@@ -92,9 +94,36 @@
     font-style: italic;
 }
 
-.course-instructor {
-}
 
 .course-not-offered {
     color: red;
+}
+
+.tree-cont {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 4px;
+    min-width: fit-content;
+}
+
+.expand-all {
+    cursor: pointer;
+    width: 100px;
+    height: 50px;
+    background-color: #E0E0E0;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.right-cont {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+.right-cont > p {
+    margin: 5px;
 }

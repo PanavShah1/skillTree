@@ -1,0 +1,3145 @@
+Course Code,Course Name,Instructor Name
+AE 102,Data Analysis and Interpretation ,
+AE 103,A historical perspective of Aerospace Engineering ,Chandra S. Yerramalli
+AE 152,Introduction to Aerospace Engg. ,Pant R.K.
+AE 207,Introduction to Engineering Design ,
+AE 209,Solid Mechanics ,
+AE 214,Thermodynamics ,
+AE 215,Aerospace Mesaurement Laboratory ,
+AE 216,Fluid Mechanics ,
+AE 220,Aerospace Structural Mechanics ,
+AE 223,Thermodynamics and Propulsion ,A.M.Pradeep
+AE 225,Incompressible Fluid Mechanics ,
+AE 227,Solid Mechanics ,Krishnendu  Haldar
+AE 229,Introduction to Aerodynamics and Propulsion Laboratory ,Chandra Sekar  ThyagarajanDhwanil  ShuklaP. RamachandranSudarshan Kumar
+AE 230,Modeling and Simulation Laboratory ,
+AE 231,Introduction to Aerospace Structures and Control  Laboratory ,Arya HemendraKrishnendu  Haldar
+AE 233,Control Systems Laboratory ,
+AE 234,Aircraft Propulsion ,Hrishikesh Gadgil
+AE 236,Compressible Fluid Mechanics ,Aniruddha Sinha
+AE 238,Aerospace Structural Mechanics ,
+AE 240,Spaceflight Mechanics ,
+AE 242,Aerospace Measurements Laboratory ,
+AE 244,Low Speed Aerodynamics ,
+AE 246,Aircraft Structures Laboratory ,
+AE 248,AI and Data Science ,
+AE 305,Flight Mechanics II ,
+AE 308,Control Theory ,Shashi Ranjan Kumar
+AE 312,Aerodynamics Laboratory ,Vineeth Nair
+AE 314,Aircraft Structures Laboratory ,
+AE 316,Aircraft Propulsion Laboratory ,Nagendra  Kumar
+AE 326,Vibrations and Structural Dynamics ,Abhijit  Gogulapati
+AE 329,Propulsion ,
+AE 330,Aerospace Propulsion ,
+AE 332,Aircraft Design ,
+AE 333,Aerodynamics ,
+AE 339,High Speed Aerodynamics ,Vineeth Nair
+AE 341,Flight Mechanics of Aircrafts and Spacecrafts ,Abhijit  GogulapatiP. Ramachandran
+AE 343,Aerodynamics Laboratory ,Aniruddha SinhaVineeth NairViren Menezes
+AE 344,Aero Propulsion ,Krishnendu SinhaNagendra  Kumar
+AE 345,Aircraft Propulsion Laboratory ,Nagendra  Kumar
+AE 402,Smart Materials and Structures ,
+AE 407,Modelling and Simulation ,Arya HemendraHarshad  Khadilkar
+AE 410,Navigation and Guidance ,Arnab Maity
+AE 411,Control Systems Laboratory ,
+AE 427,Control Systems Laboratory ,
+AE 484,Finite Element Method ,
+AE 593,Dual Degree Project I ,
+AE 604,Advanced Topics in Aerospace Structures ,
+AE 605,Mini Project ,
+AE 607,Aerospace Propulsion Laboratory ,
+AE 611,Aerodynamics Lab ,
+AE 616,Gas Dynamics ,Aniruddha Sinha
+AE 617,Numerical Methods for Conservation Laws ,
+AE 619,Non-linear Systems Analysis ,
+AE 621,Inelasticity Theory ,
+AE 622,Computing of High Speed Flows ,
+AE 623,Computing  of Turbulent Flows ,
+AE 624,Hypersonic Flow Theory ,
+AE 625,Particle Methods for Fluid Flow Simulation ,
+AE 626,Spacecraft Attitude Dynamics and Control ,
+AE 639,Continuum Mechanics ,
+AE 641,Introduction to Navigation and Guidance ,Arnab Maity
+AE 643,Durability and Reliability Analysis in Design ,
+AE 644,Application of Optimisation - Laboratory ,
+AE 647,Plasma Physics for Engineers ,Kowsik V R Bodi
+AE 648,Energy Methods in Structural Mechanics ,
+AE 649,Finite Element Method ,P J Guruprasad
+AE 650,Mini Project ,Abhijit  GogulapatiHrishikesh Gadgil
+AE 651,Aerodynamics of Compressors and Turbines ,
+AE 653,Engineering Mathematics ,
+AE 656,Aviation Fuels and their Combustion ,
+AE 658,Design of Powerplants for Aircraft ,
+AE 660,Interfacial Phenomena in Liquid Atomization ,
+AE 662,Applied Optimal Control ,
+AE 663,Software Development Techniques for Engineering and Scientists ,
+AE 664,Lighter-Than-Air Systems ,
+AE 665,Aircraft Stealth Technology ,
+AE 666,Adaptive and Learning Control Systems ,
+AE 667,Rotary Wing Aerodynamics ,Dhwanil  Shukla
+AE 668,Reduced Order Strategies for Structures and Fluids ,
+AE 669,Machine Learning Based Uncertainty Quantification for Composites ,
+AE 673,Fiber Reinforced Composites ,
+AE 676,Elastic Analysis of Plates and Laminates ,
+AE 678,Aeroelasticity ,
+AE 682,Introduction to Thermoacoustics ,
+AE 683,Fluid Dynamics ,Chandra Sekar  Thyagarajan
+AE 690,Control System Design Techniques ,
+AE 693,Non-linear Control Systems ,
+AE 694,Seminar ,Chandra Sekar  ThyagarajanP J Guruprasad
+AE 695,State Space Methods for Flight Vehicles ,Rohit  Gupta
+AE 696,I Stage Project ,
+AE 697,II Stage Project ,
+AE 698,III Stage Project ,
+AE 699,Control Systems Lab ,
+AE 702,Advanced Flight Dynamics ,
+AE 705,Introduction to Flight ,Pant R.K.
+AE 706,Computational Fluid Dynamics ,
+AE 707,Aerodynamics of Aerospace Vehicles ,Viren Menezes
+AE 708,Aerospace Propulsion ,
+AE 709,Aerospace Structures ,Chandra S. YerramalliP J Guruprasad
+AE 710,Aeroacoustics ,
+AE 711,Aircraft Propulsion ,Hrishikesh Gadgil
+AE 712,Flight  Dynamics and Control ,
+AE 713,Space Flight Dynamics ,
+AE 714,Aircraft Design ,
+AE 715,Structural Dynamics ,Abhijit  Gogulapati
+AE 717,Aircraft Flight Dynamics ,
+AE 718,Hydrodynamic Stability Theory ,
+AE 719,Advanced CFD ,
+AE 720,Advanced Numerical Methods for Compressible Flows ,Mandal J.C.
+AE 722,Grid Generation for Computational Mechanics ,
+AE 724,Experimental Methods in Fluid Mechanics ,
+AE 725,Air Transportation ,
+AE 726,Heat Transfer - Aerospace Applications ,Ganapathi  Bhat
+AE 727,Aircraft Structural Mechanics Lab. ,Krishnendu  Haldar
+AE 728,Aircraft Production Technology ,
+AE 730,Experimental Methods in Structural Dynamics ,
+AE 732,Composite Structures Analysis and Design ,
+AE 736,Advanced Aeroelasticity ,
+AE 738,Tensors for Engineers ,
+AE 751,Systems Modeling and Simulation Theory ,
+AE 752,Application of Optimization - Laboratory ,
+AE 753,Aerospace Vehicle Mission Analysis ,
+AE 754,Modeling and Simulation - Laboratory ,
+AE 755,Optimization for Engineering Design ,
+AE 757,Communication Competencies and Seminar ,
+AE 759,Systems Engineering Principles ,
+AE 761,Aerospace Vehicle Dynamics and Control ,
+AE 763,Introduction to Avionics ,
+AE 769,"System Modelling, Control and Simulation ",
+AE 771,Matrix Computations ,
+AE 773,Applied Mechatronics ,
+AE 774,Special Topics in Aerodynamics and CFD ,
+AE 775,"System Modelling, Dynamics and Control ",Shashi Ranjan Kumar
+AE 779,Optimization of Multi-disciplinary Systems ,
+AE 780,Computational Heat Transfer and Fluid Flow ,
+AE 782,Flow Control ,
+AE 792,Communication Skills -II ,
+AE 796,I Stage Project ,
+AE 798,II Stage Project ,
+AE 899,Communication Skills ,Chandra Sekar  ThyagarajanP J Guruprasad
+AEP601,I Stage Project ,
+AEP602,II stage project ,
+AEP603,III stage project ,
+AEP604,I Stage Project ,
+AES601,Seminar ,
+AES802,Seminar ,Chandra Sekar  ThyagarajanP J Guruprasad
+GP 401,Global Geophysics ,Kumar Hemant Singh
+GP 402,Gravity and Magnetic Methods ,
+GP 403,Earthquake and Engineering Seismology ,Mohan G.Satish Maurya
+GP 407,Seismology Lab ,Satish Maurya
+GP 408,Gravity and Magnetic Lab ,
+GP 413,Mineralogy & Petrology ,Prabhakar Naraga
+GP 414,Electrical Methods ,
+GP 415,Mineralogy & Petrology Lab ,Patel S.C.
+GP 416,Structural Geology & Stratigraphy ,
+GP 418,Exploration Seismology I ,
+GP 420,Structural Geology & Stratigraphy Lab ,
+GP 422,Geological Field Work ,
+GP 502,Well Logging ,
+GP 503,Geophysical Signal Processing ,Vivek  Kumar
+GP 505,Electromagnetic Methods ,Anand  Singh
+GP 506,Geophysical Inverse Theory ,
+GP 517,Exploration Seismology II ,Bharath C. Shekar
+GP 518,"Process Geomorphology, Remote Sensing and GIS ",
+GP 519,Engineering & Ground Water Geology Lab ,D. RamakrishnanVikram Vishal
+GP 520,Project Work ,
+GP 521,Electromagnetic Lab ,Anand  Singh
+GP 523,Industrial Training ,Anand  Singh
+GP 525,Computational Geophysics ,Anand  Singh
+GP 591,Seminar ,
+GP 593,M.Sc.-Ph.D. Geophysical Project ,
+BB 101,Biology ,Patankar SwatiP.V.BalajiS. Srivastava
+BB 400,Molecular Biophysics ,
+BB 401,Mathematical Methods for Biologists ,
+BB 402,Cell Biology ,S. GhoshSwapnil Rohidas Shinde
+BB 403,Biomolecular Spectroscopy ,
+BB 404,Metabolism and Bioenergetics ,
+BB 405,Molecular Biology ,Sreelaja  Nair
+BB 406,Genetic Engineering ,
+BB 407,Analytical Biochemistry ,
+BB 408,Immunology ,
+BB 409,Biological thermodynamics and kinetics ,
+BB 410,Bioinformatics - I Lab ,
+BB 411,Molecular Cell Biology ,
+BB 412,Genomics and Proteomics ,
+BB 413,Biochemistry ,
+BB 414,Molecular Diagnostics ,
+BB 415,Cell and Molecular Biology ,
+BB 416,Research Methodology and Scientific Communication Skills ,
+BB 417,Plant and Animal Biotechnology ,
+BB 419,Microbiology ,
+BB 421,Genetics ,Sushil  Kumar
+BB 423,Basics of Mathematics and Statistics ,
+BB 425,Basics of Chemistry and Physics ,
+BB 450,Biophysics Laboratory ,
+BB 451,Biochemistry Laboratory ,
+BB 452,Microbiology Laboratory ,
+BB 453,Biochemistry and Analytical Techniques lab ,
+BB 454,Programming for Bioinformatics ,
+BB 455,Microbiology lab ,
+BB 456,Molecular Biology and Genetic Engineering Lab ,
+BB 457,Plant and Animal Biotechnology lab ,
+BB 458,Immunology Lab ,
+BB 501,Genetics ,
+BB 502,Project Stage II Dissertation ,
+BB 503,Genetic Engineering ,
+BB 505,Molecular Immunology ,Sushil  Kumar
+BB 507,Molecular Enzymology ,
+BB 509,Bioprocess Engineering and Technology ,
+BB 511,Emerging Technologies ,
+BB 513,Critical Analysis of Classical Papers (Seminar) ,
+BB 515,Bioentrepreneurship ,
+BB 517,"Intellectual Property Rights, Biosafety and Bioethics ",
+BB 519,Project Proposal Presentation and Dissertation ,Sreelaja  Nair
+BB 520,Analytical Biochemistry ,
+BB 521,Biochemistry and Bioenergetics ,P.V.Balaji
+BB 522,Microbiology ,
+BB 523,Mathematical and Numerical Methods for Biologists ,Deepak Kumar  Agrawal
+BB 524,Genetic Engineering ,
+BB 525,Biological Thermodynamics and Kinetics ,Ranjith P.
+BB 526,Biomolecular Spectroscopy ,
+BB 527,Molecular Enzymology ,Prasenjit  Bhaumik
+BB 528,Integrated Biology Lab ,
+BB 529,Research Methodology and Scientific Communication Skills ,Patankar Swati
+BB 551,Genetic Engineering Laboratory ,
+BB 553,Bioinformatics ,Prasenjit  Bhaumik
+BB 555,Bioprocess Engineering and Technology Lab ,
+BB 557,Bioinformatics - II Lab ,
+BB 591,Project Stage I ,
+BB 592,Project Stage II ,
+BB 600,Introduction to Biomedical Engineering ,Hari M. Varma
+BB 601,Introduction to Bio-nanotechnology ,R. Srivastava
+BB 602,Research philosophy ,
+BB 603,Physiology for Engineers ,Nivethida  ThirugnanasambandamVivek P. Soni
+BB 604,Biomathematics ,
+BB 606,Cellular Electricity: Physics & Modeling  ,
+BB 607,Proteomics- Principles and Techniques ,S. Srivastava
+BB 608,Advannced Biomaterials and Regeneratiion  ,
+BB 610,Biomedical Microsystems ,
+BB 612,Cell Mechanics and Mechanobiology ,
+BB 614,Biosensors ,
+BB 616,Cellular and Tissue Engineering ,
+BB 617,Biophysical Chemistry ,Ashutosh KumarSamir Maji
+BB 618,Medical Instrumentation ,
+BB 619,Mathematics for Biologists ,Sandip Laxman Kaledhonkar
+BB 620,Ergonomics ,
+BB 621,Biostatistics ,
+BB 622,Introduction to Medical Informatique ,
+BB 624,Microfluidics: physics and applications ,
+BB 625,Motor Control in Health and Disease  ,
+BB 626,Modeling Biological Systems and Processes ,
+BB 627,Medical Imaging Methods ,
+BB 628,Molecular Cell Signaling ,
+BB 629,Applied Immunology ,
+BB 632,Topics in Biotechnology II ,
+BB 633,Movement Neuroscience ,Neeta Kanekar
+BB 638,Topics in Evolution ,Kiran Kondabagilu
+BB 642,Protein Crystallography ,
+BB 651,Virtual Instrumentation in Biomedical Engineering  ,
+BB 653,Experimental Techniques in Biomedical Engineering ,Ambarish KunwarDebjani  PaulHari M. VarmaNivethida  Thirugnanasambandam
+BB 661,Biopotentials I: Cellular Signals ,Manchanda Rohit
+BB 663,Medical Imaging Physics ,Debjani  Paul
+BB 665,Biomaterials  ,
+BB 669,Signals & Systems in Biomedical Engineering ,Ambarish Kunwar
+BB 671,Biopotentials II: Clinical Signals ,
+BB 673,Medical Sensors ,
+BB 675,Elements of Circuits and Instrumentation ,
+BB 677,Introduction to Biomechanics ,Shamik Sen
+BB 679,Drug Delivery ,
+BB 694,Seminar  ,
+BB 701,Research Proposal ,Sushil  Kumar
+BB 702,Technology in Surgical Reconstruction ,
+BB 703,Cancer Genetics and Metabolism ,
+BB 704,Diffuse Optical Imaging ,
+BB 705,Fundamental Concepts in Developmental Biology ,Sreelaja  Nair
+BB 706,Fundamental and Practical Aspects of Microscopy ,Roop  Mallik
+BB 792,Communication Skills -II ,
+BB 797,I Stage Project ,Shamik Sen
+BB 798,II Stage Project ,Shamik Sen
+BB 899,Communication Skills ,Ambarish KunwarDebjani  PaulP.V.BalajiRajesh  PatkarSandeep Kumar  KalvaShamik SenSreelaja  NairSwapnil Rohidas Shinde
+BBS802,Seminar ,
+BM 600,Introduction to Biomedical Engineering ,
+BM 601,Biomathematics ,
+BM 602,Biostatistics ,
+BM 603,Physiology for Engineers ,
+BM 604,Clinical Physiology ,
+BM 606,Lasers in Medicine ,
+BM 607,Physiological Measurements and Quantitative Physiology ,
+BM 610,Experimental and Quantitative Physiology ,
+BM 611,Medical Physics ,
+BM 612,Computer in Medicine ,
+BM 618,Biomedical Fluid Dynamics ,
+BM 624,Bioelectricity ,
+BM 626,Biorheology ,
+BM 627,Virtual Instrumentation in Biomedical Engineering ,
+BM 628,Introduction to Medical Informatique ,
+BM 630,Molecular Basis of Disease Processes ,
+BM 631,Introduction to Bio-Nanotechnology ,
+BM 632,Medical Instrumentation ,
+BM 633,Introduction to Biomechanics ,
+BM 634,Physiological System Modelling ,
+BM 636,Bioelectricity ,
+BM 638,Biomedical Fluid Dynamics ,
+BM 640,Ergonomics ,
+BM 651,Cell Physiology and Biopotentials ,
+BM 653,Medical Imaging Physics ,
+BM 655,Biomaterials ,
+BM 656,Advanced Biomaterials ,
+BM 658,Biomedical Microsystems ,
+BM 659,Elements of Circuits and Instrumentation ,Ambarish Kunwar
+BM 661,Signals and Systems for Biomedical Engineering ,
+BM 663,"Electrodiagnostics, Therapy and Electrical Safety ",
+BM 665,Medical Sensors ,
+BM 694,Seminar ,
+BM 695,Credit Seminar ,
+BM 696,I Stage Project ,
+BM 697,II Stage Project ,
+BM 698,III Stage Project ,
+BM 797,I Stage Project ,
+BMP602,II stage project ,
+BMP603,III stage project ,
+BT 251,Molecular cell Biology ,
+BT 402,Introduction to Molecular Biology ,
+BT 404,Biomolecular Spectroscopy ,
+BT 412,Molecular Biophysics ,
+BT 414,Molecular Biology ,
+BT 415,Analytical Biochemistry ,
+BT 417,Catalysis and Mechanism ,
+BT 418,Molecular Genetics ,
+BT 419,Chemistry of Biomolecules ,
+BT 420,Catalysis and Mechanisms ,
+BT 421,Fundamentals of Microbiology ,
+BT 453,Biochemistry Laboratory ,
+BT 455,Computers in Biology I ,
+BT 456,Biophysics Laboratory ,
+BT 457,Computers in Biology ,
+BT 458,Microbiology Laboratory ,
+BT 459,Biochemistry Laboratory ,
+BT 460,Biophysics Laboratory ,
+BT 462,Microbiology Laboratory ,
+BT 501,Molecular Enzymology ,
+BT 503,Genetic Engineering ,
+BT 515,Metabolism and Bioenergetics ,
+BT 517,Molecular Immunology ,
+BT 518,Molecular Biophysics ,
+BT 520,Transgenic Engineering ,
+BT 522,Cell Biology ,
+BT 553,Genetic Engineering Laboratory ,
+BT 557,Bioinformatics ,
+BT 559,Genetic Engineering Laboratory ,
+BT 593,Project Stage I ,
+BT 594,Project Stage II ,
+BT 596,Project Stage II ,
+BT 601,Biopolymer Synthesis ,
+BT 602,Molecular Cell Signalling ,
+BT 603,Principles of Drug Action ,
+BT 604,Principles of Drug Design & Discovery ,
+BT 606,Modern NMR: Theory & Applications ,
+BT 607,Topics in Biotechnology  I ,
+BT 608,Topics in Biotechnology II ,
+BT 609,Applied Genetic Engineering ,
+BT 610,Perspectives in Biotechnology ,
+BT 611,Immuno Technology ,
+BT 612,Industrial Microbiology ,
+BT 614,Diffraction Techniques in Biology ,
+BT 616,Biological Enquiry:  History and Philosophy ,
+BT 651,Drug Design Laboratory I ,
+BT 652,Drug Design Laboratory II ,
+BT 653,Cell Technology Laboratory I ,
+BT 654,Cell Technology Laboratory II ,
+BT 701,Research Proposal ,
+BT 801,Advanced Biochemistry ,
+BT 802,Molecular Cell Biology ,
+BT 803,Biophysical Chemistry ,
+BT 804,Biopolymers ,
+BT 806,Cell Surface Structure ,
+BT 807,Computational methods in molecular biology ,
+BT 808,Principles of Biomolecular Interactions and Recognition ,
+BTS801,Seminar ,
+BTS802,Seminar ,
+CL 101,Introduction to Chemical Engineering ,
+CL 102,Material and Energy Balances ,
+CL 152,Introduction to Chemical Engg. ,
+CL 202,Introduction to Data Analysis ,ManibhushanSarika Mehra
+CL 203,Introduction to Transport Phenomena ,
+CL 205,AI and Data Science ,ManibhushanSarika Mehra
+CL 207,Chemical Engineering Thermodynamics ,Abhijit ChatterjeeGuruswamy  Kumaraswamy
+CL 208,Chemical Reaction Engineering ,
+CL 210,Separation Processes ,
+CL 231,Solid Mechanics ,
+CL 232,Chemical Engineering Lab. I ,
+CL 238,Introduction to Numerical Analysis ,
+CL 242,Fundamentals of Heat and Mass Transfer ,
+CL 244,Introduction to Numerical Analysis ,
+CL 246,Heat Transfer ,
+CL 249,Computational Methods Lab ,Swati Bhattacharya
+CL 250,Chemical Engineering Thermodynamics II ,
+CL 253,Chemical Engineering Thermodynamics ,
+CL 254,Process Fluid Mechanics ,Amol  SubhedarJason Ryan Picardo
+CL 255,Chemical Engineering Thermodynamics I ,
+CL 260,Molecular and Statistical Thermodynamics ,
+CL 302,Process Control ,Ravindra D. Gudi
+CL 305,Solid Mechanics ,
+CL 306,Chemical Processes ,Rahul  NabarVinjamur Madhu
+CL 308,Overview of Indian Chemical Industry  ,
+CL 310,Mass Transfer II ,
+CL 317,Mass Transfer Operations ,
+CL 319,Mass Transfer I ,
+CL 324,Chemical Reaction Engineering ,
+CL 325,Chemical Reaction Engineering II ,
+CL 326,Material Science ,
+CL 327,Chemical Process Design I ,Bharatkumar  SutharBhartiya S.Sanjay Mahajani
+CL 329,Process Control ,Ravindra D. GudiSayantan  Dutta
+CL 333,Chemical Engineering Lab. II ,Khakhar D.V.Ratul DasguptaSonali  Das
+CL 335,Chemical Engineering Lab. III ,
+CL 336,Advanced Transport Phenomena ,Tirumkudulu Mahesh
+CL 405,Process Equipment Selection ,Yogendra Shastri
+CL 407,Process Equipment Design ,
+CL 409,Material Science ,Adhikari J.Rajdip Bandyopadhyaya
+CL 419,Process Economics ,Juvekar V.A.Nanavati Hemant
+CL 433,Chemical Engineering Lab IV ,Mehra A.Mukta TripathyOjus  MohanSantosh Noronha
+CL 451,Chemical Process Design ,
+CL 452,Process Design Project ,
+CL 455,Design Lab I ,Moudgalya Kannan.Partha  S. Goswami
+CL 601,Advanced Transport Phenomena ,Sameer Ralph Jadhav
+CL 602,Mathematical and Statistical Methods in Chemical Engineering ,Rochish Thaokar
+CL 603,Optimization ,Sujit S. Jogwar
+CL 604,Process Plant Simulation ,
+CL 605,Advanced Reaction Engineering ,Ganesh Viswanathan
+CL 607,Advanced Thermodynamics ,Ateeque Malani
+CL 608,Fluidization Engineering ,
+CL 609,Pollution Control Systems ,
+CL 610,Experimental Methods ,
+CL 611,Electrochemical Reaction Engineering ,
+CL 612,Multiphase Flow Systems ,
+CL 613,Special Topics in Complex Fluids ,
+CL 614,Petroleum Refinery Engg. II ,
+CL 615,Polymer Reaction Engineering ,
+CL 618,Catalysis and Surface Chemistry ,Sonali  Das
+CL 620,Petroleum Refining Engineering I ,
+CL 624,Polymer Processing ,
+CL 625,Process Modelling and Identification ,
+CL 644,Modeling and Analysis of Bioprocesses ,
+CL 645,Polymer Dynamics ,
+CL 647,Advanced Process Optimization ,
+CL 649,Reaction Engineering in Dispersed Phase Systems ,
+CL 650,Process Monitoring and Fault Diagnosis ,
+CL 651,Rheology of Complex Fluids ,
+CL 653,State Estimation:  Theory and Applications ,
+CL 656,Colloid and Interfacial Engineering ,
+CL 657,Computational Flow Modelling ,
+CL 659,Bioprocess Principles ,
+CL 662,Introduction to Computational Biology ,Wangikar P.
+CL 663,Introduction to Systems Biology ,Supreet Saini
+CL 664,Polymer Thermodynamics ,Nanavati Hemant
+CL 665,Sustainable Engineering Principles ,Yogendra Shastri
+CL 669,Product Research & Development ,
+CL 671,Multiscale Simulations ,
+CL 672,Applied Multivariate Statistics in Chemical Engineering ,
+CL 673,Turbulent Multiphase Flow ,Partha  S. Goswami
+CL 676,Modeling and Simulation ,
+CL 678,Techno-Commerical Aspects of Fine Chemicals ,
+CL 682,Computer Aided Design & Engineering ,
+CL 684,Advanced Process Synthesis ,
+CL 686,Advanced Process Control ,
+CL 688,Artificial Intelligence in Process Engineering ,Santosh Noronha
+CL 692,Digital Control ,
+CL 694,Seminar ,
+CL 701,Computational Methods in Chemical Engineering ,Sachin Patwardhan
+CL 702,Lecture Series ,Swati Bhattacharya
+CL 704,Lecture Series ,
+CL 706,Molecular Principles in Chemical Engineering  ,
+CL 707,Processing with Supercritical Fluids ,
+CL 708,Introduction to Granular Mechanics ,Khakhar D.V.
+CL 710,Aerosol Technology ,
+CL 712,Process Data Analysis and Design of Experiments ,
+CL 713,Introduction to Network Analysis ,
+CL 714,Nonlinear Systems Analysis ,
+CL 716,Modelling  Chemical and Biiological Patterns ,
+CL 717,Evolutionary Dynamics ,
+CL 718,Introduction to Cell  Mechanics ,Abhijit Majumder
+CL 720,Introduction to Bio-membranes  ,
+CL 722,Introduction to Interfacial Waves ,Ratul Dasgupta
+CL 724,Technology Design and Development Laboratory ,
+CL 792,Communication Skills -II ,
+CL 797,I Stage Project ,
+CL 798,II Stage Project ,
+CL 899,Communication Skills ,Supreet Saini
+CLS601,Seminar ,
+CH 001,Preparatory Chemistry I ,
+CH 002,Preparatory Chemistry II ,
+CH 011,Preparatory Chemistry Laboratory I ,
+CH 022,Chemistry Lab ,
+CH 103,Chemistry ,
+CH 104,Chemistry II ,
+CH 105,Organic & Inorganic Chemistry ,Chandra M. R. VollaDeepti  KalsiNandita MadhavanR. B. SunojR. MurugavelSanjog Sunil NagarkarSantosh J. GharpureSrinivasan  Ramakrishnan
+CH 107,Physical Chemistry ,G. Naresh PatwariRahul  MaitraRajarshi ChakrabartiSandip Kar
+CH 109,Stimulating Topics in Chemistry ,
+CH 110,Interpretative Spectroscopy ,
+CH 111,Chemistry ,Chandra M. R. VollaDeepti  KalsiG. Naresh PatwariNandita MadhavanRahul  MaitraRajarshi ChakrabartiR. B. SunojR. MurugavelSandip KarSanjog Sunil NagarkarSantosh J. GharpureSrinivasan  Ramakrishnan
+CH 117,Chemistry Lab ,A.ChowdhuryArnab  DuttaDeepti  KalsiGhosh PrasenjitG. Naresh PatwariRahul  MaitraSanjog Sunil NagarkarSubramaniam Chandramouli
+CH 202,Transition Metal Chemistry ,
+CH 206,Principles of Chemical Analysis (Inorganic Chemistry Lab I) ,
+CH 207,Data Analysis and Interpretation ,
+CH 209,Basic Organic Chemistry ,Venkateswarlu  Yarlagadda
+CH 210,Inorganic Chemistry I ,
+CH 211,Physical Chemistry I ,
+CH 215,Physical Chemistry Lab I ,
+CH 216,Thermodynamics and Chemical Kinetics ,
+CH 218,Organic Chemistry Lab I ,
+CH 219,Inorganic Chemistry Lab-I ,Ghosh Prasenjit
+CH 220,Reactions of Carbonyl Compounds ,
+CH 221,Organic Chemistry I ,
+CH 222,Organic Chemistry II ,
+CH 223,Structure and Stereochemistry ,
+CH 224,Co-ordination Chemistry ,
+CH 225,Data Analysis for Chemists ,Anil Kumar
+CH 226,Inorganic Chemistry Lab-II ,
+CH 227,Introduction to Transition Metal Chemistry ,
+CH 228,Organic Chemistry Lab II ,
+CH 229,Chemical Thermodynamics ,
+CH 230,Physical Chemistry Lab I ,
+CH 231,Organic Chemistry Lab I ,Chidambar  Kulkarni
+CH 301,Co-ordination Chemistry and Magnetic Properties ,M. Ravikanth
+CH 305,Chemistry of Functional Groups ,Chidambar  KulkarniVenkateswarlu  Yarlagadda
+CH 309,Introduction to Electrochemistry ,Kamendra P. Sharma
+CH 311,Solid State ,Ruchi Anand
+CH 313,Organic Chemistry Lab III ,Pradeep Kumar P.I.
+CH 315,Physical Chemistry Lab II ,A. Datta
+CH 316,Inorganic Chemistry Lab II ,
+CH 317,Organic Chemistry Lab I ,
+CH 318,Organic Chemistry Lab II ,
+CH 401,Organic Reactions ,Kaliappan K P
+CH 402,Thermal and Photochemical Reactions ,
+CH 403,Electrochemistry of Solutions and Interfaces ,Nand KishoreSubramaniam Chandramouli
+CH 404,Physical Organic Chemistry ,
+CH 405,Advanced Transition Metal Chemistry ,Gopalan RajaramM. S. Balakrishna
+CH 406,Thermal and Photochemical Reactions ,
+CH 408,Molecular Energetics and Dynamics ,
+CH 410,Bio-Inorganic Chemistry ,
+CH 414,Pharmacological Chemistry ,
+CH 415,Inorganic Chemistry Lab II ,Gopalan Rajaram
+CH 416,Physical Organic Chemistry ,
+CH 417,Organic Chemistry Lab II ,Anil KumarI.N.N. Namboothiri
+CH 418,Organic Chemistry Lab. III ,
+CH 419,Separation Techniques Lab ,
+CH 423,Organic Chemistry III ,
+CH 425,Chemical Bond and Molecular Geometry ,A. DattaAmber  Jain
+CH 426,Rate Processes ,
+CH 427,Chemical and Statistical Thermodynamics ,
+CH 429,Modern Methods of Analysis ,
+CH 432,Inorganic Chemistry Lab III ,
+CH 433,Physical Chemistry Lab II ,Rajarshi Chakrabarti
+CH 434,Physical Chemistry Lab III ,
+CH 437,Chemistry of Transition Elements ,
+CH 438,Chemistry of Main Group Elements ,
+CH 442,Molecular Spectroscopy ,
+CH 481,Chemistry and Computers ,Achintya Kumar Dutta
+CH 507,Methods in Organic Synthesis ,Chandra M. R. VollaSantosh J. Gharpure
+CH 521,Interpretative Molecular Spectroscopy ,Goutam K. LahiriR. MurugavelSuvarn Kulkarni
+CH 546,Introduction to Biomolecules ,Pradeep Kumar P.I.
+CH 547,Organometallic Chemistry ,Arnab  DuttaD. Maiti
+CH 557,Topics in Chemistry ,
+CH 576,Statistical Mechanics ,
+CH 593,Project Stage I ,Sanjog Sunil Nagarkar
+CH 594,Project Stage II ,
+CH 595,M.Sc. Project I ,Sanjog Sunil Nagarkar
+CH 596,M.Sc. Project II ,
+CH 602,Characterization of Polymers ,
+CH 792,Communication Skills -II ,
+CH 801,Symmetry in Chemistry ,
+CH 802,Thermodynamics and Extra Thermodynamics Relations ,
+CH 804,Pulse and FTNMR Theory and Techniques ,
+CH 805,Stereochemistry and Reactivity of Organic Compounds ,
+CH 806,Molecular Photochemistry ,
+CH 807,Organic Synthesis ,
+CH 820,Structure Analysis by Diffraction Methods ,
+CH 821,Topics in Chemistry I ,
+CH 824,Organotransition Metal and Acceptor Ligand Complex ,
+CH 826,Topics in Chemistry ,
+CH 827,Inorganic Complexes ,Maheswaran S.
+CH 828,Spectra of Organic Compounds ,
+CH 831,Advanced Laboratory Techniques ,Goutam K. LahiriKaliappan K PShobhna Kapoor
+CH 840,Enzymes and Coenzymes ,
+CH 842,Elements of Advanced Molecular Quantum Mechanics ,
+CH 846,Atomic and Molecular Relativistic Quantum Mechanic ,
+CH 848,Advanced Molecular Energetics ,
+CH 849,Organic Spectroscopy ,
+CH 864,Biopolymers ,
+CH 867,Supervised Learning I ,
+CH 899,Communication Skills ,Amber  JainGhosh PrasenjitR. B. Sunoj
+CHS801,Seminar ,Chandra M. R. VollaD. MaitiIshita  Sengupta
+CHS802,Seminar ,
+CE 102,Engineering Mechanics ,
+CE 103,Introduction to Civil Engineering ,Albert  ThomasMahesh Kumar GuptaNagendra Rao Velaga
+CE 201,Solid Mechanics I ,
+CE 203,Solid Mechanics ,Arghadeep LaskarJayadipta GhoshNajeeb Mohammad Shariff
+CE 204,Engineering Surveying ,
+CE 205,Fluid Mechanics I ,
+CE 206,Hydraulic Engineering ,
+CE 207,Hydromechanics ,Basudev  BiswalSrineash  V.K.
+CE 209,Building Materials and Construction ,Muhammad SalmanPrakash NanthagopalanSwathy  Manohar
+CE 211,Solid Mechanics Lab I ,
+CE 213,Fluid Mechanics Lab I ,
+CE 216,Engineering Surveying Practical ,
+CE 218,Hydraulic Design Lab ,
+CE 219,Solid Mechanics Laboratory ,
+CE 221,Solid Mechanics ,
+CE 222,Structural Mechanics I ,
+CE 223,Fluid Mechanics ,
+CE 228,Applied Hydraulic Engineering ,
+CE 230,Hydraulic Engineering Lab ,
+CE 231,Solid Mechanics Lab ,
+CE 232,Building Materials and Construction ,
+CE 233,Fluid Mechanics Lab ,
+CE 234,Structural Mechanics ,
+CE 235,Artificial Intelligence & Data Science ,
+CE 236,Soil Mechanics ,A. Juneja
+CE 238,Land Surveying: Theory and Practice ,
+CE 240,Soil Mechanics Laboratory ,
+CE 242,Hydromechanics Laboratory ,
+CE 244,Transportation Engineering ,
+CE 303,Soil Mechanics I ,
+CE 304,Soil Mechanics II ,
+CE 307,Design of Structures I ,
+CE 308,Design of Structures II ,
+CE 310,Transportation Engg. I ,
+CE 314,Soil Mechanics Lab II ,
+CE 315,Design Laboratory I ,
+CE 317,Structural Mechanics II ,
+CE 318,Design Laboratory II ,
+CE 319,Soil Mechanics Lab I ,
+CE 321,Materials and Structures Lab ,
+CE 323,Geotechnical Engineering I ,
+CE 324,Engineering Law ,Milind S. WankhedeSinha Ravi
+CE 325,Structural Design I ,
+CE 327,Analysis and Design Software Lab ,
+CE 328,Transportation Engineering Lab I ,
+CE 329,Geotechnical Engineering Lab I ,
+CE 330,Geotechnical Engineering II ,
+CE 332,Structural Design II ,
+CE 333,Foundation Engineering ,Pinom  EringS. Dasaka MurthyViswanadham B.V.S.
+CE 334,Transportation Engineering II ,
+CE 336,Geotechnical Engineering Lab II ,
+CE 337,Introduction to Structural Design ,Amit Kumar Das Manish KumarMeera  Raghunandan
+CE 338,Estimation and Materials Testing Laboratory ,
+CE 341,Transportation Engineering Laboratory ,Dharamveer SinghNagendra Rao VelagaSangram Krishna NirmaleSolomon  Debbarma
+CE 397,Seminar ,
+CE 401,Water Resources Engineering ,Jothiprakash V.M.J.Reddy
+CE 403,Design of Structures III ,Goyal Alok
+CE 407,Foundation Engg. ,Prasenjit BasuSantiram Chatterjee
+CE 412,Transportation  Engg.Lab II ,
+CE 415,Transportation Engineering II ,
+CE 418,Introduction to Finite Elements Methods ,
+CE 448,Prestressed Concrete Design ,
+CE 463,Probabilistic and Statistical Methods in Civil Eng ,Arpita MondalSubimal GhoshSwagata Basu
+CE 465,Numerical Methods in Civil Engineering ,M.M.InamdarSangram Krishna Nirmale
+CE 482,Construction Management ,Albert  Thomas
+CE 593,Dual Degree Project I ,
+CE 602,Design of Offshore Structure ,
+CE 603,Numerical Methods ,Desai Yogesh M.
+CE 605,Applied Statistics ,Bellie  Sivakumar
+CE 607,Numerical Techniques in Hydraulic Engg ,
+CE 608,Eco-hydro-Climatology ,
+CE 609,Transportation Infrastructure Systems ,
+CE 610,Introduction to Earthquake Engineering ,
+CE 611,Advanced Structural Mechanics ,
+CE 613,Concrete Technology ,
+CE 615,Structural Optimization ,
+CE 616,Structural Dynamics ,Banerji P.
+CE 617,Plates and Shells ,
+CE 619,Structural Stability ,
+CE 620,Finite Element Methods ,
+CE 621,Plastic Analysis ,
+CE 622,Reliability Based Civil Engineering Design ,
+CE 623,Advanced Solids Mechanics ,Sauvik Banerjee
+CE 624,Nonlinear Analysis ,
+CE 625,Analysis of Offshore Structures ,
+CE 626,Groundwater Systems Planning and Management ,Bellie  Sivakumar
+CE 627,Structural Design ,Sinha Ravi
+CE 629,Elastic Waves in Solids ,
+CE 630,Geographical Information Systems in Civil Engineering ,Raaj Ramsankaran
+CE 632,Ground Improvement ,
+CE 633,Soil Structure Interaction ,
+CE 637,Rock Mechanics ,
+CE 639,Green Building Design ,
+CE 640,Foundation Engineering ,
+CE 641,Environmental Geomechanics ,Singh D.N.
+CE 643,Experimental Geotechnics ,A. JunejaChoudhury DeepankarPrasenjit BasuSantiram ChatterjeeS. Dasaka MurthySingh D.N.Viswanadham B.V.S.
+CE 645,Geotechnical Centrifuge Modelling ,
+CE 647,Soil Dynamics and Machine Foundations ,Choudhury Deepankar
+CE 648,Finite Element Methods in Geotechnical Engineering ,
+CE 651,Bridge Engineering ,
+CE 652,Foundations of Offshore Structures ,
+CE 653,Structural Reliability and Risk Analysis ,Ghosh Siddhartha
+CE 654,Advanced Hydrological Analysis and Design ,
+CE 656,Plasticity Theory and Applications in Geomechanics ,
+CE 657,Computing in Civil Engineering ,
+CE 658,Hydrogeomorphology ,
+CE 667,Hydraulic Structures ,
+CE 669,Physical and Stochastic Hydrology ,
+CE 672,River Mechanics & Control Structures ,
+CE 673,Ground Water Hydrology ,
+CE 675,Advanced Experimental Fluid Mechanics ,M.J.Reddy
+CE 676,Water Resources Systems ,
+CE 677,Design and Testing of Pile Foundations ,
+CE 679,Advanced Mechanics of Reinforced Concrete ,
+CE 680,Mechanics of Water Waves ,Manasa R. Behera
+CE 681,Advance Pavement Engineering Lab ,Dharamveer Singh
+CE 682,Finite Element Applications to Flow Problems ,
+CE 683,Marine Geotechnical Engg ,
+CE 684,Advanced Geotechnical Earthquake Engineering ,
+CE 686,Advanced Stochastic Hydrology ,
+CE 687,Offshore Construction ,
+CE 688,Risk Assessment & Management in Geotechnical Engineering ,
+CE 694,Seminar ,Tom V Mathew
+CE 699, Transportation Systems Studio ,
+CE 701,Remote Sensing Technology ,Eswar  Rajasekaran
+CE 702,Geotechnical Constitutive Models ,A. Juneja
+CE 703,Remote Sensing Laboratory ,Eswar  Rajasekaran
+CE 705,Photogrammetric Engineering ,
+CE 706,Ocean Engineering Laboratory ,R. BalajiSrineash  V.K.
+CE 707,"Coastal, Port and Harbor Engineering ",
+CE 708,Offshore Engineering ,
+CE 710,Remote Sensing and Geographical Information Systems in Water Resources Management ,
+CE 712,Digital Image Processing of Remotely Sensed Data ,J. Indu
+CE 713,Advanced Concrete Technology ,Prakash Nanthagopalan
+CE 716,Data Processing in Remote Sensing ,
+CE 717,Construction Planning and Control ,Venkata S. Delhi
+CE 718,Construction Materials Laboratory ,Swathy  Manohar
+CE 719,Construction Contracts ,
+CE 720,Non-Destructive Testing of Materials ,
+CE 722,Construction Management Studio ,
+CE 723,Construction Equipment and Personnel Management ,
+CE 725,Construction Economics and Finance ,Venkata S. Delhi
+CE 727,Construction Materials ,Muhammad Salman
+CE 728,Construction Management ,
+CE 729,Quality and Safety in Construction ,
+CE 731,Mechanics of Fluid Flow ,T I Eldho
+CE 736,Environment Impact Analysis of Water Resources Systems ,
+CE 738,Irrigation and Conveyance Network ,
+CE 740,Traffic Engineering ,Tom V Mathew
+CE 741,Formwork for Concrete Structures ,
+CE 742,Pavement Systems Engineering ,Dharamveer Singh
+CE 743,Condition Assessment and Rehabilitation of Structures ,
+CE 744,Analysis of Transportation System ,
+CE 746,Reinforced Earth and Geotextiles ,
+CE 749,Freight transportation Planning and Logistics ,
+CE 751,Urban Transportation Systems Planning ,K.V.Krishna Rao
+CE 754,Economic Evaluation and Analysis of Transportation Project ,
+CE 764,Hydroinformatics ,
+CE 765,Environmental Fluid Mechanics ,
+CE 766,Watershed Management ,Riddhi Singh
+CE 767,Hydrological Hazard Mitigation and  Management ,
+CE 768,Urban Water and Environmental Management ,
+CE 769,Coastal and Ocean Environment ,R. Balaji
+CE 770,Ocean Renewable Energy ,
+CE 771,Optimization in Civil Engineering ,Avijit Maji
+CE 772,Pavement Materials ,
+CE 773,Geometric Design and Analysis of High-Speed Roadways ,
+CE 774,Traffic Management and Design ,
+CE 775,Airport Planning and Design ,
+CE 776,Transportation Project Evaluation and Decision Making  ,
+CE 780,Behavioural Travel Modelling ,
+CE 781,Advanced Foundation Engineering ,
+CE 782,Advanced Soil Mechanics ,Prasenjit Basu
+CE 792,Communication Skills -II ,
+CE 797,I Stage Project ,
+CE 798,II Stage Project ,
+CE 899,Communication Skills ,Archak  MittalArnab  Jana
+CEP602,II stage project ,
+CEP603,III stage project ,
+CES601,Seminar ,
+CS 101,Computer Programming and Utilization ,Manoj Prabhakaran
+CS 103,Computing and Science ,
+CS 104,Software Systems Lab ,
+CS 105,Discrete Structures ,S. Akshay
+CS 108,Software Systems Lab ,
+CS 152,Abstractions and Paradigms for Programming ,
+CS 154,Programming Paradigms Laboratory ,
+CS 207,Discrete Structures ,
+CS 208,Automata Theory and Logic ,
+CS 210,Logic Design ,
+CS 213,Data Structures and Algorithms ,Ashutosh Kumar Gupta
+CS 215,Data Analysis and Interpretation ,S. Sarawagi
+CS 217,Artificial Intelligence and Machine Learning ,
+CS 218,Design and Analysis of Algorithms ,Diwan A.A.
+CS 219,Operating Systems ,
+CS 224,Computer Networks ,
+CS 226,Digital Logic Design ,
+CS 228,Logic for Computer Science ,Krishna Shankara Narayanan
+CS 230,Digital Logic Design and Computer Architecture ,Bhaskar RamanSayandeep  Saha
+CS 231,Digital Logic and Computer Architecture Lab ,Bhaskar RamanSayandeep  Saha
+CS 232,Digital Logic Design and Computer Architecture Lab ,
+CS 236,Operating Systems Lab ,
+CS 240,Artificial Intelligence and Machine Learning (Lab) ,
+CS 251,Software Systems Lab ,
+CS 252,Computer Networks Lab ,
+CS 254,Digital Logic Design Lab ,
+CS 288,Logic Design Lab ,
+CS 293,Data Structures and Algorithms Lab ,Ashutosh Kumar Gupta
+CS 296,Software Systems Lab ,
+CS 302,Implementation of Programming Languages ,
+CS 305,Computer Architecture ,
+CS 306,Implementation of Programming Languages Laboratory ,
+CS 308,Embedded Systems Lab ,
+CS 310,Automata Theory ,
+CS 316,Implementation of Programming Languages Lab ,
+CS 317,Database and Information Systems ,Suraj  Shetiya
+CS 333,Operating Systems Lab ,
+CS 335,Artificial Intelligence and Machine Learning (Lab) ,
+CS 337,Artificial Intelligence and Machine Learning ,
+CS 339,Abstractions and Paradigms for Programming ,Manas  Thakur
+CS 341,Computer Architecture Lab ,
+CS 344,Artificial Intelligence ,
+CS 347,Operating Systems ,Mythili Vutukuru
+CS 348,Computer Networks ,Vinay J. Ribeiro
+CS 355,Programming Paradigms Laboratory ,Manas  Thakur
+CS 377,Operating Systems Lab ,
+CS 378,Computer Networks Lab ,Vinay J. Ribeiro
+CS 386,Artificial Intelligence Lab ,
+CS 387,Database and Information Systems Lab ,
+CS 408,Graph Theory ,
+CS 419,Introducing to Machine Learning ,Abir  De
+CS 449,Topics in Artificial Intelligence Programming ,
+CS 467,Functional and Logic Programming ,
+CS 593,Dual Degree Project I ,
+CS 594,Dual Degree Project II ,
+CS 601,Algorithms and Complexity ,Akash  Kumar
+CS 602,Applied Algorithms ,Sujoy  Bhore
+CS 603,Geometric Algorithms ,
+CS 604,Combinatorics ,
+CS 605,Probability and Statistics for Computer Science ,
+CS 606,Foundations of Parallel Computation ,
+CS 608,Approximation Algorithms ,
+CS 613,Design & Implementation of Functional Programming Languages ,
+CS 614,Advanced Compilers ,
+CS 615,Formal Specification and Verification of  Programs ,
+CS 616,Parallelizing Compilers ,
+CS 618,Program Analysis ,Uday Khedkar
+CS 620,New Trend in Information Technology ,
+CS 621,Artificial Intelligence ,
+CS 626,Speech and Natural Language Processing and the Web ,Bhattacharya P.
+CS 631,Implementation Techniques for Relational Database Systems ,Sudarshan S.
+CS 632,Advanced Database Management Systems ,
+CS 635,Information Retrieval & Mining for Hypertext & the Web ,Chakrabarti Soumen
+CS 641,Computer Networks ,
+CS 646,Optical and Access Network ,
+CS 647,Advanced Wireless Networks ,
+CS 648,Special topics in Network Algorithms ,
+CS 649,Network Security ,
+CS 651,Advanced Microprocessor Systems ,
+CS 653,Mobile Computing ,
+CS 654,Current Topics in VLSI and System Design ,
+CS 663,Fundamentals of Digital Image Processing ,Ajit V. Rajwade
+CS 671,ICT for Socio-economic Development ,
+CS 674,Computer Vision Understanding ,
+CS 675,Computer Graphics ,
+CS 678,Current Topics in Intelligent Systems ,
+CS 681,Performance Analysis of Computer Systems and Network ,
+CS 682,Software Engineering ,
+CS 683,Advanced Computer Architecture ,Biswabandan  Panda
+CS 684,Embedded Systems ,
+CS 686,Object Oriented Systems ,
+CS 691,R & D Project ,Diwan A.A.
+CS 692,R & D Project II ,Diwan A.A.
+CS 694,Seminar ,Diwan A.A.
+CS 695,Topics in Virtualization and Cloud Computing ,
+CS 699,Software Lab. ,Om P. Damani
+CS 709,Convex Optimization ,
+CS 711,Topics in Computational Ring Theory and Algebras ,
+CS 713,Special Topics in Automata and Logics ,
+CS 715,Design and Implementation of Gnu Compiler Generation Framework ,
+CS 718,Software Architecture ,
+CS 719,Topics in Mathematical Foundations of Formal Verifications ,
+CS 720,Spatial Databases ,
+CS 721,Introduction to Computational Complexity ,
+CS 724,Network Security and Cryptography II ,
+CS 725,Foundations of Machine Learning ,Preethi Jyothi
+CS 726,Advanced Machine Learning ,
+CS 728,Organization of Web Information ,
+CS 729,Topics in Machine Learning ,
+CS 733,Advanced Distributed Computing - Engineering a Cloud ,
+CS 735,Formal Models for Concurrent and Asynchronous Systems ,
+CS 736,Medical Image Computing  ,
+CS 738,"Concepts, Algorithms and Tools for Model Checking ",
+CS 740,Mathematics for Visual Computing ,
+CS 741,Advanced Network Security and Cryptography ,
+CS 742,Foundations of Network Security and Cryptography ,
+CS 743,Wireless Networks ,
+CS 744,Design and Engineering of Computing Systems ,Purushottam Kulkarni
+CS 745,Principles of Data and System Security ,
+CS 746,Kernel Programming ,
+CS 747,Foundations of Intelligent  and Learning Agents ,
+CS 748,Advances in Intelligent and Learning Agents ,
+CS 749,Digital Geometry Processing ,
+CS 750,Linear Optimization ,
+CS 751,Principles of  Concurrent and Parallel Programming ,
+CS 752,System Dynamics: Modeling & Simulation for Development ,
+CS 753,Automatic Speech Recognition ,
+CS 754,Advanced Image Processing ,
+CS 756,Software Defined Networking and Network Function Virtualization ,
+CS 757,Design and Re-engineering of Object Oriented Programs ,
+CS 758,Advanced Tools from Modern Cryptography ,
+CS 759,Perfect Matchings: Algorithms and Complexity ,
+CS 760,Topics in Computational Complexity ,Rohit Gurjar
+CS 761,Derandomization and Pseudorandomness ,
+CS 762,Advanced Blockchain Technology ,
+CS 763,Computer Vision ,
+CS 764,Computer Vision Lab ,
+CS 765,"Introduction to Blockchains, Cryptocurrencies and Smart Contracts ",
+CS 766,Analysis of Concurrent Programs​ ,
+CS 767,Theoretical Machine Learning ,
+CS 768,Learning with Graphs ,
+CS 769,Optimization in Machine Learning ,
+CS 770,Process Engineering ,
+CS 771,Foundations of verification and automated reasoning ,Paritosh K. Pandya
+CS 772,Deep Learning for Natural Language Processing ,
+CS 773,Computer Architecture for Performance and Security ,
+CS 775,Advanced Computer Graphics ,
+CS 776,Principles of Mathematical Modeling ,
+CS 777,M.S. R&D 1 ,Sujoy  Bhore
+CS 778,M.S. R&D 2 ,
+CS 779,Extremal Combinatorics ,
+CS 792,Communication Skills -II ,
+CS 797,I Stage Project ,
+CS 798,II Stage Project ,
+CS 899,Communication Skills ,
+CSP608,M S Project (Stage I) ,
+CSP609,M S Project (Stage II) ,
+CSP611,M S Project (Stage IV) ,
+CSS601,Seminar ,
+GP 401,Global Geophysics ,Kumar Hemant Singh
+GP 402,Gravity and Magnetic Methods ,
+GP 403,Earthquake and Engineering Seismology ,Mohan G.Satish Maurya
+GP 404,Electrical Methods and Potential Field Theory ,
+GP 405,Earth Processes ,
+GP 406,Earth Resources ,
+GP 407,Seismology Lab ,Satish Maurya
+GP 408,Gravity and Magnetic Lab ,
+GP 409,Earth Processes Lab ,
+GP 410,Earth Resources Lab ,
+GP 412,Geological Field Work ,
+GP 413,Mineralogy & Petrology ,Prabhakar Naraga
+GP 414,Electrical Methods ,
+GP 415,Mineralogy & Petrology Lab ,Patel S.C.
+GP 416,Structural Geology & Stratigraphy ,
+GP 418,Exploration Seismology I ,
+GP 420,Structural Geology & Stratigraphy Lab ,
+GP 422,Geological Field Work ,
+GP 501,Exploration Seismology I ,
+GP 502,Well Logging ,
+GP 503,Geophysical Signal Processing ,Vivek  Kumar
+GP 504,Exoploration Seismology  II ,
+GP 505,Electromagnetic Methods ,Anand  Singh
+GP 506,Geophysical Inverse Theory ,
+GP 507,Geophysical Signal Processing Lab ,
+GP 508,Integrated Geophysical Field Work ,
+GP 509,Electrical and Electromagnetic Methods Lab ,
+GP 510,Project Work ,
+GP 511,Nuclear Geophysics ,
+GP 512,Rock Physics ,
+GP 513,Natural Hazards and Environmental Geophysics ,
+GP 514,Geomagnetism ,
+GP 516,Petroleum Geology and Petrophysics ,
+GP 517,Exploration Seismology II ,Bharath C. Shekar
+GP 518,"Process Geomorphology, Remote Sensing and GIS ",
+GP 519,Engineering & Ground Water Geology Lab ,D. RamakrishnanVikram Vishal
+GP 520,Project Work ,
+GP 521,Electromagnetic Lab ,Anand  Singh
+GP 523,Industrial Training ,Anand  Singh
+GP 525,Computational Geophysics ,Anand  Singh
+GP 591,Seminar ,
+GP 593,M.Sc.-Ph.D. Geophysical Project ,
+GS 318,Applied Geology for Civil Engineers ,
+GS 407,Strucural Geology ,Malay Mukul
+GS 413,Structural Geology Lab ,Malay Mukul
+GS 415,Applied Mineralogy and X-Ray Crystallography ,Mathew George
+GS 416,Petrology Lab ,
+GS 421,Palaeontology ,Jahnavi PunekarNibedita  Rakshit
+GS 422,"Geomorphology, Remote Sensing & GIS ",
+GS 430,Metamorphic Petrology ,
+GS 433,Palaeontology Lab ,Jahnavi PunekarNibedita  Rakshit
+GS 434,Igneous Petrology and Volcanology ,
+GS 435,"Mineralogy, Crystallography and Optics Lab ",Mathew George
+GS 436,Sedimentlogy  ,
+GS 438,Economic and Mining Geology ,
+GS 440,"Geomorphology, Remote Sensing and GIS lab ",
+GS 450,Geological field work ,
+GS 507,Engineering & Ground Water Geology ,D. RamakrishnanVikram Vishal
+GS 517,Solid Earth and Exploration Geophysics ,Mohan G.M. Radhakrishna
+GS 519,Ore Petrography Lab ,Sakthi Saravanan Chinnasamy
+GS 527,Ore Petrology ,Sakthi Saravanan Chinnasamy
+GS 534,Tectonics and Crustal Evolution ,
+GS 535,Statistical Methods in Geosciences ,Kumar Hemant Singh
+GS 536,Nuclear Geology and Geochemical Prospecting ,
+GS 537,Geochemistry and Geochemical Thermodynamics ,Prabhakar NaragaSheth C Hetu
+GS 538,Petroleum and Coal Geology ,
+GS 539,Engineering Geology and Groundwater Lab ,D. RamakrishnanVikram Vishal
+GS 541,Analytical Geochemistry Lab ,Patel S.C.
+GS 542,Isotope Geology ,
+GS 543,Computer Programming for Geosciences ,Anand  Singh
+GS 548,"Geodesy, GPS and Surveying ",
+GS 551,Industrial Training ,Nibedita  Rakshit
+GS 552,Geological Project ,
+GS 553,M.Sc.-Ph.D. Geological Project ,
+GS 591,Seminar ,
+GS 647,Principles and Applications in Isotope Geology ,Bivin Geo GeorgeSameer  Ranjan
+GS 649,Tectonics and Mechanism of Mobile Belts ,
+GS 650,Mantle Petrology and Diamonds ,
+GS 654,Mining Geostatistics ,
+GS 656,Geothermics ,
+GS 662,Petroliferous basins of India ,
+GS 663,Exploration Geophysics ,Srinivasa Rao  Gangumalla
+GS 666,Applied Ichnology ,Sudipta Dasgupta
+GS 669,Principles of Photogrammetry ,
+GS 671,Groundwater Exploration ,D. Ramakrishnan
+GS 672,Reservoir Sedimentology ,
+GS 673,Mineral Exploration ,Sakthi Saravanan ChinnasamySameer  Ranjan
+GS 674,Applied Rock Mechanics for River Valley Projects ,
+GS 675,Petroleum Exploration ,Banerjee SantanuSudipta Dasgupta
+GS 676,Well Logging ,
+GS 677,"Remote Sensing, GIS and GPS ",
+GS 678,Advanced Geomorphology ,
+GS 679,Basin Analysis and Applied Micropalaeontology ,Banerjee SantanuJahnavi Punekar
+GS 680,Rock Slope Analysis ,
+GS 681,Underground Excavation Technology ,
+GS 682,Industrial Mineralogy ,
+GS 683,Advanced Structural Analysis ,
+GS 684,Applied Multivariate Statistical Analysis in Geology ,
+GS 685,Aqueous Environmental Geochemistry ,
+GS 687,Methods in Structural Geology ,Soumyajit Mukherjee
+GS 688, Petroleum Geochemistry ,Suryendu Dutta
+GS 689,Modern Analytical Methods in Geosciences ,
+GS 691,R & D Project ,Suryendu Dutta
+GS 694,Seminar ,Banerjee SantanuSheth C Hetu
+GS 697,II Stage Project ,
+GS 698,III Stage Project ,
+GS 701,Seismic Data Processing and Seismic Stratigraphy ,Bharath C. Shekar
+GS 702,Well-site Geology and Formation Evaluation ,
+GS 703,Structural Geology and Subsurface Geological Mapping ,
+GS 704,Sequence Stratigraphy ,
+GS 705,Oilwell Drilling Technology ,
+GS 706,Petrophysics  ,
+GS 708,Petroleum Geostatistics ,
+GS 709,Reservoir Geomechanics ,Vikram Vishal
+GS 792,Communication Skills -II ,
+GS 795,I Stage Project ,
+GS 796,II Stage Project ,
+GS 797,I Stage Project ,
+GS 798,II Stage Project ,
+GS 818,Metamorphic Phase Equilibria ,
+GS 820,Continental Deformation and GPS Geodesy ,
+GS 822,Organic Geochemistry ,
+GS 824,Pegmatology ,
+GS 826,Topics in Isotope Geology ,
+GS 827,Seismology and Earth Structure ,Mohan G.Satish Maurya
+GS 899,Communication Skills ,Banerjee SantanuKumar Hemant Singh
+GSP602,II stage project ,
+GSP603,III stage project ,
+GSS801,Seminar ,Jahnavi Punekar
+EC 101,Economics ,Aditi Balkrishna ChaubalHaripriya GundimedaNeha GuptaPooja PadhiRadeef  ChundakkadanRama PalSubrato  BanerjeeTara S. Shaw
+EC 210,Intermediate Microeconomics II ,
+EC 212,Intermediate Macroeconomics II ,
+EC 214,Statistics II ,
+EC 221,Intermediate Microeconomics I ,Narayanan K.Subrato  Banerjee
+EC 223,Intermediate Macroeconomics-I ,Surajit Bhattacharya
+EC 225,Mathematics for Economics ,Aditi Balkrishna Chaubal
+EC 227,Statistics I ,Neha Gupta
+EC 302,International  Economics II ,
+EC 304,Development Economics II ,
+EC 306,Econometrics I ,Souvik  Banerjee
+EC 308,Econometrics I Lab ,Souvik  Banerjee
+EC 311,International Economics I ,Radeef  Chundakkadan
+EC 313,Development Economics I ,Rama Pal
+EC 315,Public Finance ,
+EC 402,Game Theory and Economic Analysis ,Saptarshi Prosonno Ghosh
+EC 405,Econometrics II ,
+EC 407,Econometrics II Lab ,
+EC 411,Indian Economy ,
+EC 495,BS Project Stage I ,Haripriya Gundimeda
+EC 497,BS Project Stage II ,
+EC 899,Communication Skills ,
+ECS801,Seminar ,Narayanan K.Saptarshi Prosonno GhoshTara S. Shaw
+ECS802,Seminar ,Tara S. Shaw
+EE 101,Introduction to Electrical and Electronics Circuits ,Agarwal Vivek
+EE 103,Introduction to Electrical Engineering ,Chatterjee KishoreDipankar SahaManjunath D.
+EE 111,Introduction to Electrical Systems ,
+EE 112,Introduction to Electronics ,
+EE 113,Introduction to Electrical Engineering Practice ,
+EE 114,Power Engineering - I ,
+EE 204,Analog Circuits ,M. B. PatilM.Shojaei Baghini
+EE 206,Digital Circuits ,
+EE 207,Electronic Devices & Circuits ,Arun  Surendran
+EE 209,Electrical/Electronics Lab. ,
+EE 214,Digital Circuits Lab ,Saurabh Lodha
+EE 224,Digital Systems ,Patkar SachinVirendra Singh
+EE 229,Signal Processing – I ,Gadre V.M.Preeti Rao
+EE 230,Analog Lab ,
+EE 236,Electronic Devices Lab ,Apurba LahaPradeep R. Nair
+EE 238,Power Engineering - II ,
+EE 240,Power Engineering Lab ,Himanshu J. BahiratPrashant NavalkarSandeep  AnandShiladri  Chakraborty
+EE 301,Electromagnetic Waves ,Bhaskaran MuralidharanShevgaonkar R.K.
+EE 302,Control Systems ,
+EE 309,Microprocessors ,
+EE 323,Analog Circuits ,
+EE 324,Control Systems Lab ,Debraj ChakrabortyDwaipayan  Mukherjee
+EE 325,Probability and Random Processes ,Manjunath D.Sharayu Moharir
+EE 326,Power System Lab ,
+EE 328,Digital Communications ,
+EE 334,Power Systems ,
+EE 337,Microprocessors Laboratory ,
+EE 338,Digital Signal Processing ,
+EE 340,Communications Lab ,Jayakrishnan NairS. Vijayakumaran
+EE 341,Communication Systems - I ,B.K.DeyKumar Appaiah
+EE 344,Electronic Design Lab ,
+EE 350,Technical Communication ,
+EE 352,Digital Signal Processing Lab ,
+EE 353,Introduction to Data Science and Machine Learning ,Amit Sethi
+EE 429,Discrete Data and Digital Control ,
+EE 451,Supervised Research Exposition ,Pillai Harish
+EE 462,Digital Signal Processing Software and Hardware Lab ,
+EE 465,Cryptocurrency and Blockchain Technologies ,
+EE 491,BTP I ,Pillai Harish
+EE 593,Dual Degree Project I ,
+EE 600,Mini Project ,
+EE 601,Statistical Signal Analysis ,P.Chaporkar
+EE 602,Radar Systems ,
+EE 603,Digital Signal Processing and its Applications ,Satish  Mulleti
+EE 605,Error Correcting Codes ,
+EE 606,Fibre Optic Communications ,
+EE 608,Adaptive Signal Processing ,
+EE 609,Radiating Systems ,J.Mukherjee
+EE 610,Image Processing ,
+EE6104,Internet of Things ,
+EE6105,Power System Modeling and Control ,Anupama Kowli
+EE 611,Microwave Integrated Circuits ,
+EE 612,Telematics ,
+EE 613,Nonlinear Dynamical Systems ,
+EE 614,Solid State Microwave Devices and their Applications ,
+EE 615,Control and Computational Laboratory ,
+EE 616,Electronic Systems Design ,Pandey P.C.
+EE 617,Sensors in Instrumentation ,Siddharth Tallur
+EE 618,CMOS Analog VLSI Design ,Rajesh H. Zele
+EE 619,Radio Frequency Microelectronics Chip Design ,
+EE 620,Physics of Transistors ,
+EE 621,Markov Chains and Queuing Systems ,
+EE 622,Optimal Control Systems ,
+EE 625,Bio Sensors & BioMEMS ,Pradeep R. Nair
+EE 629,Biomedical Instrumentation ,
+EE 631,Modern Filter Design ,
+EE 634,Simulation of Devices and Circuits ,
+EE 635,Applied Linear Algebra ,Dwaipayan  Mukherjee
+EE6351,Theory of Electron Devices ,
+EE 636,Matrix Computations ,
+EE 637,Microprocessors and Microcomputers ,
+EE 638,Estimation and Identification ,Debraj Chakraborty
+EE 639,Microprocessor Lab ,
+EE 640,Multivariable Control Systems ,M Belur
+EE 649,Finite Fields and their Applications ,
+EE 651,Digital Protection of Power Systems ,
+EE 653,Power Electronics -I ,M. Chandorkar
+EE 654,Power Electronics - II ,
+EE 655,Computer Aided Power System Analysis ,
+EE 656,Electrical Machine Analysis and Control ,
+EE 657,Electric Drives ,Fernandes B.G.
+EE 658,Power System Dynamics and Control ,Kulkarni A.M.
+EE 659,A First Course in Optimization ,Pillai Harish
+EE 660,Application of Power Electronics to Power Systems ,
+EE 665,IC Technology ,
+EE 668,Systems Design ,
+EE 669,VLSI Technology ,Anil K.G.Veeresh Vidyadhar Deshpande
+EE 671,VLSI Design ,Laxmeesha  Somappa
+EE 672,Microelectronics Lab ,
+EE 673,Power Systems & Power Electronics Laboratory ,
+EE 675,Microprocessor Applications in Power Electronics ,Himanshu J. Bahirat
+EE 677,Foundation of VLSI CAD ,Virendra Singh
+EE 678,Wavelets ,Gadre V.M.
+EE 679,Speech Processing ,
+EE 686,H V D C Transmission ,
+EE 687,Switchgear Principles ,
+EE 691,R & D Project ,Pillai Harish
+EE 692,R & D Project ,Pillai Harish
+EE 694,Seminar ,Pillai Harish
+EE 695,Research Seminar in Electrical Engg ,
+EE 697,II Stage Project ,
+EE 699,Delta Sigma Data Converters and their Applications ,
+EE 701,Introduction to MEMS ,S. Duttagupta
+EE 702,Computer Vision ,
+EE 703,Digital Message Transmission ,Sibi Raj B. Pillai
+EE 704,Artificial Neural Network ,
+EE 705,V L S I Design Lab ,
+EE 706,Communication Networks ,
+EE 708,Information Theory  & Coding ,
+EE 709,Testing and Verification of VLSI Circuits ,Desai Madhav
+EE 710,Large Sparse Matrix Computations ,Soman S.A.
+EE 712,Embedded Systems Design ,
+EE 713,Circuit Simulation in Power Electronics ,
+EE 714,Behavioral Theory of Systems ,
+EE 716,Advances in Communications Systems ,
+EE 719,Mixed-Signal VLSI Design ,
+EE 720,An Introduction to Number Theory and Cryptography ,S. Vijayakumaran
+EE 721,Hardware Description ,
+EE 722,Restructured Power Systems ,
+EE 723,Physics of Nanoelectronic Devices - I ,Kasturi Saha
+EE 724,Nanoelectronics ,
+EE 725,Computational Electromagnetics ,
+EE 727,Physics of Nanoscale Devices - II ,
+EE 728,Growth and Characterization of Nano-electronic Materials ,
+EE 731,Design and Analysis of Experiments Using Taguchi Method ,
+EE 732,Combinatorial Optimization I ,
+EE 733,Solid State Devices ,Debanjan  Bhowmik
+EE 734,Advanced Probability and Random Processes for Engineers ,
+EE 735,Microelectronics Simulations Lab ,
+EE 736,Introduction to Stochastic Optimization ,
+EE 739,Processor Design ,
+EE 740,Advanced Data Network ,
+EE 746,Neuromorphic Engineering  ,Veeresh Vidyadhar Deshpande
+EE 747,Simulation of Power System Transients ,
+EE 748,Advanced Topics in Computer Architecture ,Virendra Singh
+EE 749,Decentralized Control of Complex Systems ,
+EE 750,Digital Signal Processing - System Design and Implementation ,
+EE 751,Nanomagetism and Spintronics ,Debanjan  Bhowmik
+EE 753,High Power Converters and their Utility Applications ,
+EE 755,Quantum Transport in Nanoscale Devices ,
+EE 757,Crystalline Silicon Solar Cells: Theory and Practice ,
+EE 758,Internet Economics ,
+EE 759,Applied Mathematical Analysis in Engineering ,
+EE 760,Advanced Network Analysis ,
+EE 761,Advanced Concentration Inequalities ,
+EE 763,"Science of Information, Statistics, and Learning ",
+EE 764,Wireless & Mobile Communication ,
+EE 765,Reliability and Failure Analysis of Electronic Devices ,Narendra Shiradkar
+EE 766,Random Graphs : Theory and Applications ,
+EE 767,Photonics System Engineering ,
+EE 768,Electric Distribution Systems ,
+EE 769,Introduction to Machine Learning ,Amit Sethi
+EE 770,Design and Evaluation of Photovoltaic Power Plants ,
+EE 771,Recent Topics in Analytical Signal Processing ,
+EE 774,Computational Techniques in Electrical Engineering ,
+EE 777,Network Security ,
+EE 779,Advanced Topics in Signal Processing ,
+EE 780,Terahertz : Technology & Applications ,
+EE 781,Integrated Circuit  Design for Sensor Systems ,
+EE 782,Advanced Topics in Machine Learning ,
+EE 783,Advanced Semiconductor Devices Lab ,
+EE 784,2D Materials and Devices ,
+EE 785,Electromagnetic Interference and Compatibility ,Kushal R. Tuckley
+EE 786,"Developments, Trends and Economic Frontiers in EE ",
+EE 787,Topological Electronics ,Ashwin TulapurkarBhaskaran Muralidharan
+EE 788,Advanced CMOS Logic and Flash Memory  Devices ,Souvik Mahapatra
+EE 789,Algorithmic Design of Digital Systems ,
+EE 790,Solar Photovoltaics: Photons to Farms ,
+EE 791,Power Electronic Converters for Renewable Energy ,
+EE 792,Communication Skills -II ,
+EE 793,Topics in Cryptology ,
+EE 794,Microsystems: Analysis and Design ,
+EE 795,I Stage Project ,
+EE 797,I Stage Project ,
+EE 798,II Stage Project ,
+EE 799,Advanced Antennas ,
+EE 800,High Speed Interconnects: Signaling and Synchronization ,S.Gupta
+EE 899,Communication Skills ,Prashant NavalkarSandip  MondalSwaroop Ganguly
+EEP602,II stage project ,
+EEP603,III stage project ,
+EES401,Seminar ,
+EES801,Seminar ,Pillai Harish
+EN 101,Introduction to Energy ,
+EN 102,Energy Engineering Fundamentals ,
+EN 110,Energy Engineering Fundamentals ,Bandyopadhyay Santanu
+EN 203,Thermodynamics and Energy Conversion ,Lalit Kumar
+EN 204,Material Science for Energy Applications ,K.R. Balasubramaniam
+EN 205,Basic Electrical Engineering Lab ,
+EN 207,Data Analysis and Interpretation ,
+EN 209,Basic Electrical & Electronics Engineering ,
+EN 211,Mechanics of Materials ,
+EN 212,Electrical Machines ,
+EN 213,Electrical Networks and Machines ,D. SuryanarayanaRavi Prakash Reddy  Siddavatam
+EN 214,Transport Phenomena ,
+EN 216,Renewable Energy Technologies ,
+EN 218,"Energy Resources, Economics & Environment ",
+EN 220,Reactions for Energy ,
+EN 222,Fluid Mechanics and Heat Transfer ,
+EN 224,Electrical Networks and Machines Lab ,
+EN 226,Energy Conversion Lab ,
+EN 301,Introduction to Renewable Energy Technologies ,
+EN 302,Power Generation and System Planning ,
+EN 304,Electrical Energy Systems ,
+EN 308,Solar Energy Lab ,
+EN 309,Thermal & Fluid Engineering Lab ,Manaswita Bose
+EN 310,IC Engine and Combustion Lab ,
+EN 312,Control & Instrumentation ,
+EN 313,Power Electronics ,
+EN 314,Electrochemistry ,
+EN 315,Reaction Engineering & Combustion ,
+EN 317,Thermo-Fluid Devices ,
+EN 319,Electrical Machines & Power Electronics Lab ,
+EN 323,Renewable Energy Generation and Storage ,Sagar Mitra
+EN 325,Dynamics and Control ,Venkatramanan  D.
+EN 327,Power Electronics and Instrumentation Lab ,Ravi Prakash Reddy  SiddavatamVenkatramanan  D.V.S.S. Pavan Kumar Hari
+EN 401,Energy Systems modelling and analysis ,Venkatasailanathan RamadesiganV.S.S. Pavan Kumar Hari
+EN 405,Energy Innovation Lab ,Sandeep Kumar
+EN 406,Seminar ,Gurubalan  Annadurai
+EN 407,Chemistry for Energy Science ,Sankara Sarma V. Tatiparti
+EN 408,Energy design project ,
+EN 409,Mathematical Foundation for Energy Science ,Pratibha  Sharma
+EN 410,Energy Management ,
+EN 411,Physics for Energy Science ,Karthik  Sasihithlu
+EN 412,Thermodynamics and Statistical Mechanics ,
+EN 413,Materials Science for Energy ,Shaibal Sarkar
+EN 414,Methods in Analytical Techniques ,
+EN 415,Energy Laboratory I ,Lalit Kumar
+EN 416,Basics of Electrical and Electronic Systems ,
+EN 417,Computer Programming ,Dayadeep S. Monder
+EN 418,Introduction to Transport Phenomena ,
+EN 420,Energy Laboratory II ,
+EN 422,Seminar ,
+EN 593,Dual Degree Project I ,
+EN 601,Nonconventional Energy Sources ,P.C.Ghosh
+EN 602,Foundation for Energy Engineering ,D. SuryanarayanaManaswita Bose
+EN 604,Fuel Cells ,
+EN 606,"Energy Resources, Economics and Environment ",Sandeep Kumar
+EN 607,Energy Management ,
+EN 609,Energy Systems Laboratory ,Gurubalan  Annadurai
+EN 610,Hydrogen Energy ,
+EN 612,Non-conventional Energy Systems Lab. ,
+EN 613,Nuclear Reactor Theory ,
+EN 615,Wind Energy Conversion Systems ,
+EN 616,Direct Energy Conversion ,
+EN 617,Thermodynamic Analysis of Industrial Systems ,
+EN 618,Energy Systems Modelling & Analysis ,Seethamraju Srinivas
+EN 619,Solar Energy for Industrial Process Heat ,
+EN 624,Conservation of Energy in Buildings ,Gurubalan  Annadurai
+EN 628,Materials and Devices for Energy Applications ,
+EN 630,Utilisation of Solar Thermal Energy ,
+EN 632,Waste to Energy ,
+EN 634,Nuclear Reactor Thermal Hydraulics & Safety ,
+EN 637,Principles and Applications of Hydrogen storage ,
+EN 639,Renewable Energy Integration ,
+EN 640,"Solar Photovoltaic, Fundamentals, Technologies and Applications ",
+EN 642,Power Generation and Systems Planning ,
+EN 645,Process Integration ,
+EN 646,Energy and Climate ,
+EN 647,Distributed Generation and Microgrids ,
+EN 648,Combustion Engineering ,
+EN 649,Introduction to Particulate Flow ,
+EN 651,Multiphase Petroleum Transportation ,
+EN 653,Energy Policy Analysis ,
+EN 655,Energy Laboratory III ,Anish Modi
+EN 657,"IC Engine, Alternate Fuels and Emissions ",Asish  Sarangi
+EN 658,Electrochemical Energy Storage ,
+EN 659,Energy Efficient Industrial Drives ,
+EN 660,Diffraction-based Characterization of Energy Materials ,
+EN 661,Micro and Nanoscale Energy	Transport ,
+EN 691,M.Sc.-Ph.D. Project I ,Karthik  Sasihithlu
+EN 692,M.Sc.-Ph.D. Project II ,
+EN 693,M.Sc.-Ph.D. Project III ,
+EN 694,Seminar ,Venkatramanan  D.
+EN 703,Advanced Concepts in Solar Cell Technologies ,Rajesh Gupta
+EN 705,An Introduction to Energy Systems Engineering ,
+EN 792,Communication Skills -II ,
+EN 797,I Stage Project ,
+EN 798,II Stage Project ,
+EN 899,Communication Skills ,Anish Modi
+ENS801,Seminar ,Dayadeep S. Monder
+ENT601,Intellectual Property for Entrepreneurs ,
+ENT602,Technology Venture Creation ,Milind  KopikareSankalp  Pratap
+ENT603,Introduction to Entrepreneurship ,Anuradha  NarasimhanRajkumar R. Hirwani
+ENT604,Marketing for Entrepreneurs ,
+ENT605,Business Fundamentals for Technopreneurs ,
+ENT606,Developing a Proof of Concept- Basic ,
+ENT607,Managing Technological Innovation ,
+ENT899,Communication Skills ,Lina Elisabeth Sonne Vyas
+EP 201,Optics ,
+EP 207,Introduction to Special Theory of Relativity ,
+EP 209,Thermal Physics ,
+EP 213,Physics Laboratory I ,
+EP 214,Physics Laboratory II ,
+EP 215,Electronics Laboratory I ,
+EP 216,Electronics Laboratory II ,
+EP 219,Data Analysis and Interpretation ,
+EP 220,Computational Methods ,
+EP 222,Classical Mechanics I ,
+EP 223,Electronics Lab II ,
+EP 226,Waves & Oscillations & Thermodynamics ,
+EP 228,Quantum Mechanics I ,
+EP 230,Electronics Lab III ,
+EP 307,Quantum Mechanics I ,
+EP 309,Photonics ,
+EP 312,Physics Laboratory IV ,
+EP 313,Physics Laboratory III ,
+EP 315,Electronics Lab III (Microprocessor Lab)  ,
+EP 317,Electronics Laboratory-IV(Digital Laboratory) ,
+EP 318,Electronics Lab. IV ,
+EP 320,Statistical Physics ,
+EP 322,Supervised Learning ,
+EP 323,Classical Mechanics II ,
+EP 388,Practical Training ,
+EP 396,Works Visits ,
+EP 397,Seminar ,
+EP 405,Methods in Analytical Techniques ,
+EP 409,Applied Solid State Physics ,
+EP 411,Analytical Techniques ,
+EP 412,"Nanomaterials, Nanostructures & Nanofabrication ",
+EP 413,Advanced Statistical Mechanics ,
+EP 425,Introduction to Nanoscience and Nanotechnology ,
+EP 431,Semiconductor Physics ,
+EP 432,Physics of Nanostructures and nanoscale Devices ,
+EP 439,Advanced Laboratory Techniques  in Nanosience ,
+EP 497,B.Tech. Project I ,
+EP 498,B.Tech. Project II ,
+HS 001,English ,
+HS 002,English ,
+HS 101,Economics ,
+HS 102,History of Economic Analysis ,
+HS 200,Environmental Studies ,Haripriya GundimedaIlito H. AchumiRatikanta Panda
+HS 210,Intermediate Microeconomics II ,
+HS 212,Intermediate Macroeconomics II ,
+HS 214,Statistics II ,
+HS 216,Money and Banking ,
+HS 221,Intermediate Microeconomics I ,
+HS 223,Intermediate Macroeconomics-I ,
+HS 225,Mathematics for Economics ,
+HS 227,Statistics I ,
+HS 250,Environmental Studies ,Haripriya GundimedaIlito H. AchumiRatikanta Panda
+HS 302,International  Economics II ,
+HS 303,Psychology ,
+HS 304,Development Economics II ,
+HS 305,Reading Literature ,
+HS 306,Econometrics I ,
+HS 307,Sociology ,Mahendra Dindayal Shahare
+HS 308,Econometrics I Lab ,
+HS 311,International Economics I ,
+HS 313,Development Economics I ,
+HS 315,Public Finance ,
+HS 402,Game Theory and Economic Analysis ,
+HS 405,Econometrics II ,
+HS 406,Philosophy of Technology ,
+HS 407,Econometrics II Lab ,
+HS 411,Indian Economy ,
+HS 412,Social Movement and Social Change: Contemporary Reflections ,
+HS 414,"Justice, Ethics and Community ",
+HS 418,Human Cognitive Processes ,
+HS 420,Philosophy of Mind ,
+HS 423,Trends in Twentieth Century Drama ,
+HS 429,Sociology of Science ,
+HS 431,Reading Fiction ,
+HS 440,Industrial Economics ,
+HS 443,Philosophy and History of Science ,Vikram Singh Sirola
+HS 452,Economic Reforms in India ,
+HS 454,Principles of Management and Organisational Behaviour ,
+HS 456,Understanding Creativity and Creative Writing ,
+HS 457,Managerial Economics ,
+HS 466,Introduction to Linguistics ,
+HS 467,Indian Philosophy ,Ratikanta Panda
+HS 468,Philosophy of Religion ,
+HS 472,Psychology of Health ,
+HS 474,Postmodernism and Philosophy ,
+HS 476,Culture and Media ,
+HS 478,Industrial Sociology ,
+HS 485,Management of Human Resources in Organizations ,
+HS 487,Planning and Economic Policies in India ,
+HS 491,Contemporary Urban India; Sociological Perspective ,Kushal Deb
+HS 495,BS Project Stage I ,
+HS 496,Globalization: A Social Perspective ,
+HS 497,BS Project Stage II ,
+HS 498,Life Span Development : Infancy to Old Age ,
+HS 501,Vedanta Philosophy in the Vedic Tradition ,Mrinal  Kaul
+HS 502,Madhyamika Philosophy in the Buddhist Tradition ,
+HS 503,Philosophy in the Age of the Greeks ,Pravesh Jung Golay
+HS 504,Western Philosophy in the Time of Crisis ,
+HS 505,Western Philosophy and the Advent of Modern Science ,R.K. Panda
+HS 506,Writing and Research in Philosophy ,
+HS 507,Vedanta Philosophy in the Vedic Tradition ,
+HS 551,Introduction to Feminist Philosophy ,
+HS 556,Sankhya Philosophy ,C.D. Sebastian
+HS 597,Project Stage I ,R.K. Panda
+HS 598,Project Stage II ,
+HS 601,Development in South Asia: Issues & Debates ,
+HS 602,Science & Technology in India ,
+HS 603,Socio-Psychological Perspectives in Development & Change ,
+HS 605,Research Methods in Social Sciences ,
+HS 606,Environmental Planning Development ,
+HS 607,Human Resources Development ,
+HS 609,Public Administration for Development ,
+HS 610,Cost Benefit Analysis ,
+HS 611,Financing Economic Development ,
+HS 613,Information Integrity ,
+HS 615,Computer Aided Applied Statistics ,
+HS 618,Introduction to Indian Astronomy ,
+HS 619,Human Development : A Psychological Perspective ,
+HS 620,Linguistics and Natural Language Processing ,
+HS 621,Contemporary Indian Philosophy ,
+HS 622,Philosophy of Development ,
+HS 623,Problems in Social Ethics ,Siby K.George
+HS 624,Contemporary Issues in Philosophy of Mind ,
+HS 625,Philosophy of Education ,
+HS 626,Framing Caste ,Suryakant Waghmore
+HS 627,Development of Calculus: Indian and Western Context ,
+HS 629,Ecology and Society ,
+HS 631,Financial Economics ,
+HS 632,Making Choices : Ethical Decisions in Scientific Endeavour ,
+HS 633,Economtrics of Programme Evaluation ,
+HS 634,Theories of Verbal Congnition (Shaabdabodha) ,
+HS 635,Managerial Psychology ,
+HS 636,Development of Mathematics in India ,K. Ramasubramanian
+HS 637,Anthropology  and  Disaster ,
+HS 640,Civil Society: Its Foundations and Future ,
+HS 645,Fundamentals of Language ,
+HS 646,Understanding the Past ,Rachel A. Varghese
+HS 647,Social Theory - I ,Anush Kapadia
+HS 648,Literary Studies ,Suddhaseel Sen
+HS 650,Research Methods: Expository Writing & Analysis ,Suddhaseel Sen
+HS 651,Research Methods: Critical Reading ,A.P. Rajaram  
+HS 652,Research Methods: Qualitative Methods ,Raile Rocky Ziipao
+HS 653,Research Methods : Sources and Methods and the Past ,Neha  Chatterji
+HS 668,Studying Literature ,
+HS 669,Studying Performance ,
+HS 670,Studying Media ,
+HS 671,"Historicising Society, State and Culture ",
+HS 672,From the ground up: Basics of History and Archaeology ,
+HS 674,Fundamentals of Language Science ,
+HS 691,Field Visit ,
+HS 693,R & D Project ,
+HS 694,Seminar ,
+HS 698,III Stage Project ,
+HS 699,Communication and Presentation Skills ,
+HS 700,Applied Economics ,
+HS 702,"Law, Governance, Rights and Development ",
+HS 704,Engendering Development Theory and Practice ,
+HS 705,Historical Linguistics ,
+HS 706,Classical Indian Thought in Modern Times ,
+HS 710,Consumer Psychology ,
+HS 712,Research Project -I ,Suryakant Waghmore
+HS 713,Research Project -II ,
+HS 791,Communication Skills -I ,
+HS 792,Communication Skills -II ,
+HS 795,I Stage Project ,
+HS 796,II Stage Project ,
+HS 797,I Stage Project ,
+HS 798,II Stage Project ,
+HS 800,Research Methods in Social Sciences ,Sarmistha Pattanaik
+HS 801,Statistical Methods ,
+HS 802,Advanced Economic Theory ,
+HS 803,Advanced Psychological Theory ,A. KhanMrinmoyi KulkarniPooja PurangRashmi Gupta
+HS 804,Advanced Theory of Society ,
+HS 805,Theory of Knowledge ,
+HS 806,Contemporary Trends in Philosophical Analysis ,Rajkishore Nath
+HS 807,Phenomenology and Existentialism ,
+HS 808,Philosophy of Language ,
+HS 809,Practice and Theory of  Literary Research ,Paulomi Chakraborty
+HS 810,A Survey of Modern and Post Modern Literature ,
+HS 811,Literary Theory ,
+HS 813,"Structure of Language & its applications, Morphophonology and ELT	 ",Sarma Vaijayanthi
+HS 814,"Architecture of Grammer & its applications, Syntax Semantics and Sociolinguistics ",
+HS 815,Languages in Cognitive Science ,Sarma Vaijayanthi
+HS 818,Sociology of Social Stratification in India ,
+HS 820,Research Methods in Economics ,
+HS 821,Applied Econometrics ,
+HS 823,Logic: Formal and Philosophical ,
+HS 824,Cultural Studies ,
+HS 825,Gender Studies ,
+HS 828,Phillosophical Points of View & Major Thinkers ,
+HS 833,Community Psychology and its Social Impact ,
+HS 836,Linguistics and Literary Analysis ,
+HS 837,Aesthetics and Criticism ,
+HS 839,Major Issues in Economic Development ,
+HS 840,Paninian Grammar ,
+HS 842,Philosophy of Language in Sanskrit Literature ,
+HS 843,Vedanta Philosophy ,
+HS 844,Ethics:  Theory and Practic ,
+HS 845,Indian Logic ,
+HS 846,Advanced Course on Postcolonial Theory ,
+HS 847,Algorithms in Indian Astronomy ,
+HS 899,Communication Skills ,Amrita BanerjeeArun A. IyerK. RamasubramanianMrinmoyi KulkarniNeha  ChatterjiRamesh BairySharmila
+HSS801,Seminar ,Siby K.George
+HSS802,Seminar ,
+MA 001,Preparatory Mathematics I ,
+MA 002,Preparatory Mathematics II ,
+MA 101,Introductory Mathematics ,
+MA 103,Mathematics I ,
+MA 104,Mathematics II ,
+MA 105,Calculus ,Manoj Kumar keshariSwapneel A. Mahajan
+MA 106,Linear Algebra ,
+MA 107,An Introduction to Mathematical Concepts ,
+MA 108,Differential Equations ,
+MA 109,Calculus I ,Manoj Kumar keshariSwapneel A. Mahajan
+MA 110,Linear Algebra and Differential Equations ,
+MA 111,Calculus II ,Manoj Kumar keshariSwapneel A. Mahajan
+MA 113,Mathematics and Its History ,Madhusudan Manjunath
+MA 114,An Introduction to Mathematical Concepts ,Ronnie M. Sebastain
+MA 203,Mathematics III ,
+MA 204,Complex Analysis and Partial Differential Equation ,
+MA 205,Complex Analysis ,
+MA 207,Differential Equations II ,
+MA 210,Introduction to Numerical Methods ,
+MA 212,"Probability, Random Process and Statistical Inference ",
+MA 214,Introduction to Numerical Analysis ,
+MA 401,Linear Algebra ,Bata K. Das
+MA 402,Algebra -I ,
+MA 403,Real Analysis ,Santanu DeySourav Pal
+MA 404,Real Analysis II ,
+MA 405,Basic Algebra ,
+MA 406,General Topology ,
+MA 408,Measure Theory ,
+MA 410,Multivariable Calculus ,
+MA 411,Introduction to Probability ,
+MA 412,Complex Analysis ,
+MA 414,Algebra I ,
+MA 415,Mathematical Methods ,
+MA 416,Mathematical Methods I ,
+MA 417,Ordinary Differential Equations ,Saikat  Mazumdar
+MA 419,Basic Algebra ,Preeti RamanPuthenpurakal J Tony
+MA 420,Principles of Optimization ,
+MA 422,Probability Theory ,
+MA 424,Theory of Sampling ,
+MA 436,Partial Differential Equations ,
+MA 438,Introduction to Mathematical Statistics ,
+MA 444,Numerical Analysis ,
+MA 446,Complex Analysis ,
+MA 448,Multivariable Calculus ,
+MA 450,Independent Study ,
+MA 501,Algebra II ,
+MA 502,Algebraic Number Theory ,
+MA 503,Functional Analysis ,Chandan  Biswas
+MA 504,Operators on Hilbert Spaces ,
+MA 505,Algebra II ,
+MA 506,Commutative Algebra ,
+MA 507,Convex Analysis and Optimization ,
+MA 508,Mathematical Methods ,
+MA 509,Elementary Number Theory ,
+MA 510,Introduction to Algebraic Geometry ,
+MA5109,Graph Theory ,
+MA 511,Enumerative Combinatorics I ,
+MA 512,Enumerative Cimbinatiorics II ,
+MA 513,Fourier Analysis ,
+MA 514,Locally Convex Spaces and Distribution Theory ,
+MA 515,Partial Differential Equations ,Harsha  Hutridurga Ramaiah
+MA 516,Algebraic Topology ,
+MA 517,Operators on Hilbert Spaces ,
+MA 518,Spectral Approximation ,
+MA 519,Representation Theory of Finite Groups ,
+MA 520,Spline Theory and Variational Methods ,
+MA 521,Theory of Analytic Functions ,Garge Shripad M.
+MA 522,Fourier Analysis and Applications ,
+MA 523,Basic Number Theory ,
+MA 524,Algebraic Number Theory ,
+MA 525,Dynamical Systems ,
+MA 526,Commutative Algebra ,
+MA 527,Topics in Approximation Theory ,
+MA 529,Numerical Methods for Partial Differential Equatio ,
+MA 530,Nonlinear Analysis ,
+MA 532,Analytic Number Theory ,
+MA 533,Advanced Probability Theory ,
+MA 534,Modern Theory of PDE ,
+MA 538,Representation Theory of Finite Groups ,
+MA 539,Spline Theory and Variational Methods ,
+MA 540,Numerical Methods for Partial Differential Equations ,
+MA 543,Finite Element Methods and Applications ,
+MA 548,Non-Newtonian Fluid Mechanics ,
+MA 551,Numerical Analysis II ,
+MA 556,Differential Geometry ,
+MA 559,Functional Analysis ,
+MA 561,Abstract Measure and Integration ,
+MA 562,Mathematical Theory of Finite Elements ,
+MA 567,Compressible Fluid Flow ,
+MA 568,Functional Analysis II ,
+MA 569,Computational Commutative Algebra and Algebraic Ge ,
+MA 570,Design and Analysis of Experiments ,
+MA 572,Non-paramatic Statistical Inference ,
+MA 573,Mathematical Theory of Reliability ,
+MA 574,Generalized Linear Models ,
+MA 575,Multivariate Analysis ,
+MA 576,Statistical Decision Theory ,
+MA 577,Statistical Inference I ,
+MA 579,Stochastic Processes ,
+MA 580,Time Series Analysis ,
+MA 581,Elements of Differential Topology ,Sudarshan Gurjar
+MA 582,Basic Algebraic Topology ,
+MA 583,Introduction to Continuum Mechanics ,
+MA 585,Seminar ,
+MA 587,Lie Groups and Lie Algebras ,
+MA 588,Computational Finance ,
+MA 589,M.Sc. Project Stage I ,
+MA 590,Fluid Dynamics ,
+MA 591,Algebraic Geometery II ,
+MA 592,Non-linear Wave Phenomena ,
+MA 593,Optional Project I ,
+MA 594,Stochastic Calculus with Applications to Finance ,
+MA 597,Project Stage I ,
+MA 598,Optional Project  II ,
+MA 599,M.Sc. Project Stage II ,
+MA 603,Statistical Methods of Analysis and Design ,
+MA 811,Algebra I ,U.K.Anandavardhanan
+MA 812,Algebra II ,
+MA 813,Measure Theory ,Mallesham  Kummari
+MA 814,Complex Analysis ,
+MA 815,Differential Topology ,Ravi Raghunathan
+MA 816,Algebraic Topology ,
+MA 817,Partial Differential Equations I ,Debanjana  Mitra
+MA 818,Partial Differential Equations II ,
+MA 819,Weak Convergence and Martingale Theory ,
+MA 820,Stochastic Processes ,
+MA 821,Theory of Estimation ,
+MA 822,Testing of Hypothesis ,
+MA 824,Functional Analysis ,
+MA 825,Algebra ,
+MA 826,Topology ,
+MA 827,Analysis I ,
+MA 828,Functional Analysis ,
+MA 829,Mathematical Methods ,
+MA 830,Numerical Analysis ,
+MA 831,Fluid Mechanics ,
+MA 832,Elasticity ,
+MA 833,Weak Convergance and Martingale Theory ,
+MA 834,Theory of Testing of Hypotheses ,
+MA 835,Theory of Estimation ,
+MA 836,Asymptotic Theory of Statistical Inference ,
+MA 837,Special Topics in Mathematics I ,
+MA 838,Special Topics in Mathematics II ,
+MA 842,Topics in Algebra II ,
+MA 843,Topics in Analysis I ,Mayukh  Mukherjee
+MA 844,Topics in Analysis II ,
+MA 846,Topics in Combinatories II ,
+MA 848,Topics in Geometry II ,
+MA 850,Topics in Topology II ,
+MA 852,Topics in Number Theory II ,
+MA 854,Topics in Differential Equations II ,
+MA 856,Topics in Numerical Analysis II ,
+MA 858,Topics in Probability II ,
+MA 860,Topics in Statistics II ,
+MA 861,Combinatorics I ,K. Sivasubramanian
+MA 899,Communication Skills ,Ghorpade S.R.
+MAS801,Seminar ,Rekha Santhanam
+MAS802,Seminar ,
+ME 103,Mechanical Department Introductory Course I ,Neeraj Kumbhakarna
+ME 104,Engineering Mechanics ,
+ME 112,Workshop Practice II ,
+ME 113,Workshop Practice ,
+ME 119,Engineering Graphics & Drawing ,
+ME 201,Solid Mechanics ,
+ME 202,Strength of Materials ,
+ME 203,Fluid Mechanics I ,
+ME 205,Energy Conversion ,
+ME 206,Manufacturing Processes I ,
+ME 209,Thermodynamics ,Abhijeet  KumarAnkit  JainDipanshu  Bansal
+ME 213,Manufacturing Practice Lab ,
+ME 218,Solid Mechanics Lab ,Nitesh  YelveV. Kartik
+ME 219,Fluid Mechanics ,
+ME 220,Theory of Machines and Machine Design ,
+ME 221,Structural Materials ,Pradeep DixitSoham Mujumdar
+ME 223,Solid Mechanics and Strength of Materials ,Darshan Sunil ShahD.N. PawaskarR. Ganesh
+ME 224,Fluid Mechanics Lab ,
+ME 226,Mechanical Measurements ,
+ME 228,Applied Data Science and Machine Learning ,
+ME 230,Mechanical Processing of Materials ,
+ME 232,Kinematics and Dynamics of Machines ,
+ME 306,Applied Thermodynamics ,M.D.AtreyShankar KrishnanUpendra Bhandarkar
+ME 307,Mechanical Measurements Lab ,
+ME 308,Industrial Engineering and  Operations Research I ,
+ME 310,Microprocessors and Automatic Control Lab ,
+ME 311,Microprocessors and Automatic Control ,Abhishek  GuptaVivek Sangwan
+ME 312,Operations Modeling and Analysis ,
+ME 316,Kinematics and Dynamics of Machines ,
+ME 317,Fluid Mechanics Lab ,
+ME 323,Thermal and Chemical processing of materials ,Deepak MarlaGurminder  Singh
+ME 338,Manufacturing Processes II ,
+ME 346,Heat Transfer ,Arunkumar SridharanPrabhu S VSandip  Kumar Saha
+ME 370,Kinematics and Dynamics of Machines Lab ,
+ME 372,Heat Transfer and Metrology Lab ,
+ME 374,Manufacturing Processes Lab ,Amol A. GokhaleAsim TewariDe AmitavaGurminder  SinghPradeep DixitShyamprasad KaragaddeSushil Mishra
+ME 401,Microprocessors and Automatic Control ,
+ME 407,Industrial Engineering and  Operations Research I ,
+ME 409,Intelligent Manufacturing Systems Lab ,Asim TewariDeepak MarlaMakarand S. KulkarniShyamprasad KaragaddeSoham MujumdarSushil Mishra
+ME4101,Design of Welded Structures ,
+ME 412,CFD and HT Lab ,
+ME 415,Computational Fluid Dynamics and Heat Transfer ,
+ME 420,Cryogenic Engineering I ,
+ME 422,Analytical Combustion ,
+ME 423,Machine Design ,R.K.SinghSalil Kulkarni
+ME 426,Fire Dynamics ,
+ME 434,Finite Element and Boundary Element Methods ,
+ME 438,Introduction to modeling of materials from atomistics to continuum ,Amit  Singh
+ME 439,Cryogenic Engineering II ,
+ME 441,Applied Thermodynamics Lab ,Abhijeet  KumarArunkumar SridharanDipanshu  BansalNeeraj KumbhakarnaRane MilindShankar KrishnanSreedhara SheshadriSridhar Balasubramanian
+ME 445,Fuels and Combustion ,
+ME 456,Automobile Engineering (Transmission) ,
+ME 459,Combustion & Emissions in IC Engines ,
+ME 473,Advanced Computer Aided Solutions ,
+ME 477,Introduction to Optimization ,
+ME 478,Management Principles and Practice ,
+ME 480,Two Phase flow and Heat Transfer ,
+ME 593,Dual Degree Project I ,Nitesh  Yelve
+ME 594,Dual Degree Project II ,
+ME 601,Stress Analysis ,Tanmay  K. Bhandakkar
+ME 602,"Fatigue, Fracture and Failure Analysis ",
+ME 603,Kinematics and Dynamics of Machinery ,
+ME 604,Robotics ,
+ME 606,Computer Aided Design of Machines ,
+ME 610,Applied Tribology ,
+ME6101,Lattice Dynamics and Thermal Energy Transport ,
+ME6102,Design of Mechatronic Systems ,Gandhi Prasanna S.
+ME6106,Computational Structural Dynamics ,
+ME6108,"Quality Measurement, Monitoring and Improvement ",
+ME 611,Machine Tool Design ,
+ME6110,Nanomanufacturing Processes ,Rakesh G. Mote
+ME6112,Acoustics and hearing ,
+ME6119,Vibration and Control ,Gandhi Prasanna S.Nitesh  Yelve
+ME 613,Finite Element and Boundary Element Methods ,Seshu P.
+ME 615,Machinery Vibration and Diagnostics ,
+ME 616,Fracture Mechanics ,
+ME 617,Rapid Product Development ,Karunakaran K.P.
+ME 618,Pressure Vessel Design ,
+ME 619,Experimental  Methods in Thermal and Fluids Engg. ,
+ME 621,Mathematical Methods for Mechanics and Dynamics ,
+ME 623,Cryogenic Engineering II ,
+ME 630,Knowledge Based systems in Manufacturing ,
+ME 636,Advanced Joining Technology ,
+ME 637,Manufacturing Automation ,
+ME 639,Linear Systems Theory ,
+ME 642,Advanced Tool Design ,
+ME 643,Materials Processing and Simulation Laboratory ,
+ME 645,"MEMS - Design, Fabrication, and Characterisation ",
+ME 647,Automatic Control Engineering ,
+ME 649,Advanced Manufacturing Processes I ,
+ME 651,Fluid Dynamics ,Amit Agrawal
+ME 653,Boundary Layer Theory ,
+ME 654,Non-Newtonian Fluid Mechanics & Industrial Applications ,
+ME 655,Theory and Design of Fluid Machinery ,
+ME 657,Thermal and Fluids Engg Laboratory ,
+ME 659,Advanced Manufacturing Processes II ,
+ME 660,Numerical Methods in Fluid Flow Problems ,
+ME 661,Advanced Thermodynamics & Combustion ,Sreedhara Sheshadri
+ME 662,Convective Heat and Mass Transfer ,Avishek  Ranjan
+ME 663,Advanced Heat Transfer ,Atul Srivastava
+ME 664,Advanced Finite Element and Boundary Element Methods ,
+ME 665,Conduction and  Radiation Heat Transfer ,
+ME 666,Design of Heat-Exchange Equipment ,
+ME 667,Industrial Noise Control ,
+ME 669,Design for Manufacturing ,
+ME 670,Non-Linear System Analysis and Control ,
+ME 671,Spark Ignition Engines ,
+ME 673,Mathematical Methods in Engineering ,Alankar AlankarVedula R.P.
+ME 674,Compression Ignition Engines ,
+ME 675,Theory of Plasticity ,
+ME 676,Collaborative Engineering ,
+ME 677,Laser Material Processing ,
+ME 678,Fundamentals of Gas Dynamics ,
+ME 679,Micromechanics of Composites ,
+ME 680,Two Phase Flow and Heat Transfer ,
+ME 681,Thermal Environmental Engg ,Rane Milind
+ME 683,Cryogenic Engineering - I ,
+ME 684,Airconditioning System Design ,
+ME 685,Analytical Combustion ,
+ME 687,Fire Dynamics ,
+ME 694,Seminar ,
+ME 695,Introduction to Nuclear Engineering ,
+ME 698,III Stage Project ,
+ME 699,Magnetohydrodynamics and its engineering applications ,
+ME 701,Optimization Methods in Engineering Design ,
+ME 702,Experimental Engineering Project ,
+ME 704,Computational Methods in Thermal & Fluid Engg ,Rajneesh Bhardwaj
+ME 710,Vibration Engg. ,
+ME 711,Manufacturing Planning and Control ,
+ME 712,Computer Numerical Control and Programming. ,
+ME 714,Computer Integrated manufacturing ,
+ME 721,Design Engg. Lab ,
+ME 722,Analysis and Control in Flexible Manufacturing Systems ,
+ME 724,Essentials of Turbulence ,
+ME 725,Introduction to Transport Phenomena ,
+ME 726,Methods Engineering and Work Measurement ,
+ME 727,Nuclear Lab ,
+ME 728,Intelligent Product Design and Manufacturing ,
+ME 729,Nuclear Reactor Analysis ,
+ME 730,Ultra-Precision Machining ,
+ME 732,Selected Applications of Operations Research & Artificial Intelligence in Manufacturing Systems ,
+ME 733,Nuclear Safety and Reliability ,
+ME 734,Vibro-acoustics ,
+ME 735,Computer Graphics and Product Modeling ,Pande S.S.
+ME 738,Nuclear Reactor Thermal Hydraulics ,
+ME 739,Combustion & Emissions in IC Engines ,
+ME 741,Turbulence and Combustions Modeling ,
+ME 743,Optical Methods in Mechanical Engineering ,
+ME 744,Applied Random Vibrations ,
+ME 747,Interfacial Transport Phenomena ,
+ME 748,Computer Aided Simulation of Machines ,
+ME 750,Sheet Metal Engineering ,
+ME 751,Mechanics of Deformable Bodies ,Shrinidhi Shrikant Pandurangi
+ME 753,Mechanics of Polymers ,
+ME 754,Textile Machines Design & Automation ,
+ME 755,Advanced Mechanics of Solid ,
+ME 756,Numerical Modelling of Manufacturing Processes ,De Amitava
+ME 757,Galerkin Methods for Fluid Dynamics ,
+ME 758,Microfluidics ,
+ME 759,Nonlinear Finite Element Methods  ,
+ME 760,Fuels  and Combustion  ,
+ME 761,Advanced Stereology and Microstructural Analysis ,
+ME 762,Advanced Engineering Dynamics ,
+ME 765,Micro-forming ,
+ME 766,High Performance Scientific Computing ,Shivasubramanian Gopalakrishnan
+ME 768,Introduction to Microsystems Packaging ,
+ME 769,Combustion in Automobile and Gas Turbine Engines ,
+ME 770,Thermal Design of Electronic Equipment ,
+ME 772,Processing of Aerospace Materials-I ,
+ME 773,Reliability Modelling and Analysis for Engineering Systems ,
+ME 774,Processing of Aerospace Materials-II ,Amol A. Gokhale
+ME 775,Mechanisms in Crystal Plasticity ,
+ME 776,Fluid-Structure Interaction ,
+ME 778,Moving Boundary Problems in Solidification ,
+ME 779,Control Systems ,
+ME 780,Introduction to Biofluid Mechanics ,
+ME 781,Statistical Machine Learning and Data Mining ,Asim Tewari
+ME 782,Design Optimization ,Manik Dhanesh
+ME 784,Non-Destructive Testing and Evaluation ,
+ME 785,Machining Processes ,Rakesh G. Mote
+ME 786,Welding Processes ,De Amitava
+ME 787,Deformation Processes ,Sushil Mishra
+ME 788,Liquid Material Processing ,Date P.P.
+ME 789,Computational Tools for Process Modeling ,
+ME 790,Materials modelling using atomistic first-principles calculations ,
+ME 791,Acoustic Devices ,
+ME 792,Communication Skills -II ,
+ME 793," Multiscale Materials Informatics, Discovery and Design ",
+ME 794,Statistical Design of Experiments ,
+ME 795,Cellular Solids: Properties and Engineering Applications ,
+ME 797,I Stage Project ,
+ME 798,II Stage Project ,
+ME 899,Communication Skills ,Alankar AlankarAmber ShrivastavaGuha AnirbanShyamprasad KaragaddeSushil Mishra
+MES601,Seminar (Thermal & Fluids Engg.) ,
+MS 101,Makerspace ,Abhilash ChandyBhalchandra PuranikDipankar SahaJ.JohnKulkarni S VKushal R. TuckleyPandey P.C.Parag TandaiyaSandip  MondalShyamprasad KaragaddeUdayan Ganguli
+MM 103,It`s a materials world ! ,
+MM 104,Materials Tetrahedron ,
+MM 105,It’s a materials world! ,
+MM 152,Materials & Technology ,
+MM 201,Structure of Materials ,
+MM 202,Thermodynamics of Materials ,
+MM 203,Mechanics of Materials ,
+MM 204,Transport Phenomena ,
+MM 206,Experimental Techniques in Materials Science ,
+MM 207,Engineering Metallurgy ,
+MM 209,Thermodynamics of Materials ,
+MM 210,Numerical Methods for Materials Engineers ,
+MM 212,Metallography and Structural Characterisation Lab ,
+MM 215,Experimental and Measurement Laboratory ,
+MM 217,Data Analysis and Interpretation ,
+MM 218,Process Kinetics and Transport ,
+MM 219,Structure of Materials ,Abhijeet  SangleNagamani J. Balila
+MM 220,Computation Lab ,
+MM 221,Sensors and Measurements Lab ,Khosla N.K.Tanushree H. ChoudhuryTitas Dasgupta
+MM 222,Electrochemistry of Materials and its Applications ,
+MM 223,Thermodynamics of Materials ,Aswani YellaDurga  A.
+MM 224,Electrochemistry and Corrosion Lab ,
+MM 225,AI and Data Science ,Hina Amol GokhaleM.P. GururajanN.N.Viswanathan
+MM 301,Phase Transformations ,
+MM 305,Kinetics of Processes ,
+MM 312,Heat Treatment Laboratory ,
+MM 318,Electronic Properties of Materials ,
+MM 319,Mechanical Behaviour of Materials ,Abhinandan  GangopadhyayMJNV Prasad
+MM 320,Principles of Process Metallurgy ,
+MM 322,Casting and Joining Lab ,
+MM 323,Manufacturing Processes Laboratory ,
+MM 325,Phase Transformations  ,
+MM 327,Mechanical Behaviour of Materials ,
+MM 329,Diffusion and Phase Transformations ,Ashutosh Gandhi
+MM 331,Mechanical Behaviour of Materials ,Abhinandan  GangopadhyayMJNV Prasad
+MM 333,"Electronic, Magnetic and Optical Properties of Materials ",Tanushree H. ChoudhuryTriratna  Muneshwar
+MM 335,Alloy Processing and Characterization Lab ,Manish M. PandePrabhu N.Prita Pant
+MM 341,Processing and Characterization Lab: Thin Films ,Avradeep  PalDusane Rajiv O.
+MM 357,Ceramics and Powder Metallurgy ,
+MM 359,Metal Casting and Joining ,
+MM 362,Mech. Testing Lab. ,
+MM 396,Seminar ,Aswani YellaMural S Prasanna Kumar
+MM 406,Semiconductor Devices and Processing ,
+MM 408,Mechanical Working of Metals  ,
+MM 409,Colloidal & Interfacial Science ,
+MM 417,Entrepreneurship in Materials Engineering ,
+MM 426,Equipment and Processes Design Lab. ,
+MM 433,Manufacturing Process Seminar ,Parag Bhargava
+MM 435,Instrumentation and controls laboratory ,Khosla N.K.
+MM 439,Iron and Steelmaking ,Manish M. PandeSomnath Basu
+MM 445,Continuum Plasticity of Metals ,Anirban Patra
+MM 448,Thin Films Lab ,
+MM 451,Instrumentation and Process Control Theory ,Khosla N.K.
+MM 452,Plant Engineering ,Sanjay  Chandra
+MM 453,Engineering Polymers & Composites ,Mural S Prasanna Kumar
+MM 454,Corrosion & Protection of Materials ,
+MM 462,Corrosion & Protection Lab ,
+MM 477,Ceramic Processing Techniques ,
+MM 593,Dual Degree Project I ,Ajay Singh PanwarVijayshankar  Dandapani
+MM 611, Processing and Characterization of Steel (Lab.)  ,Jayasree  BiswasK. BhanumurthyNarsimhan K.Samajdar I.
+MM 612,Computational Laboratory  ,
+MM 621,Advanced Physical and Mechanical Metallurgy ,Samajdar I.
+MM 622,Advanced Concepts in Iron Making ,
+MM 624,Advanced Concepts in Steel Making ,
+MM 626,Thermomechanical Processing and Forming of Steel ,
+MM 630,Mineral Process Engineering  ,
+MM 632,Surface Engineering ,
+MM 638,Polymer Blends and Composites ,
+MM 640,Modelling of Microstructural evalution ,
+MM 641,Numerical Methods in Materials Processing ,Narsimhan K.
+MM 642,Modelling of Metallurgical Processes ,
+MM 644,Mathematical Methods of Materials Engineering. ,
+MM 650,Protective Coatings ,
+MM 651,Thermodynamics of Materials ,Prasanna T.R.S.
+MM 652,Advanced Ceramics ,
+MM 654,Advanced Composites ,Amartya MukhopadhyayMithun  Chowdhury
+MM 655,Modelling and Analysis ,
+MM 656,Simulation and Optimisation ,
+MM 657,Design and Application of Engineering Materials ,
+MM 658,Fracture Mechanics and Failure Analysis ,
+MM 659,Transport Phenomena ,Deepoo  KumarJayasree  Biswas
+MM 665,Process Engineering ,
+MM 668,Computational Methods for Metal Forming Analysis ,
+MM 669,Mechanical Behavior of Thin Films ,
+MM 670,Powders and Sintered Products ,
+MM 672,Solidification Processing ,
+MM 674,Materials & Processes for Semiconductor Devices ,
+MM 676,"Superconductivity, Materials and Applications ",
+MM 677,Diffusion and Kinetics ,
+MM 678,"Magnetism, Magnetic Materials and their applications ",
+MM 680,Welding Science and Technology ,K. Bhanumurthy
+MM 681,Plastic Deformation and Microstructure Evolution ,
+MM 682,Grain Boundaries and Interfaces ,
+MM 684,X-Ray Diffraction and Electron Microscopy ,
+MM 685,Electrical Materials: fundamentals and applications ,Titas Dasgupta
+MM 687,Surface Science and Engineering ,
+MM 688,Non-Crystalline Materials ,
+MM 691,Topics in Phase Transformations ,
+MM 694,Seminar ,Triratna  Muneshwar
+MM 695,High Temperature Corrosion ,Vijayshankar  Dandapani
+MM 699,Corrosion Laboratory ,Smrutiranjan ParidaVijayshankar  Dandapani
+MM 700,Electrochemical and Materials Perspective in Energy Storage ,
+MM 706,Control of Erosion and Wear in Corrosive Environment ,
+MM 708,Cathodic Protection Engineering ,
+MM 709,Surface Engineering of Engineering Materials ,
+MM 711,Materials for Corrosion Prevention at High Temperatures ,
+MM 712,Advances in Design and Control of Corrosion ,
+MM 713,Aqueous Corrosion and its Control ,Smrutiranjan Parida
+MM 716,Nanomaterials for Advanced Electrochemical Energy Storage and Conversion ,
+MM 717,Electrochemical Materials Science ,Raja V. S.
+MM 718,Laser Processing and Nanostructures ,
+MM 719,Inttroduction to Ab-initio Methods in Materials Modelling ,Sumit Saxena
+MM 720,Organic Semiconductors and Devices ,
+MM 721,"Fatigue, Creep and Superplasticity ",
+MM 722,Molecular Simulations for Mateirals Engineering  ,Ajay Singh Panwar
+MM 723,Thermoelectric Materials  ,
+MM 724,Plasma Processing of Materials  ,
+MM 725,Tribology of Materials ,
+MM 726,Corrosion Management and Modeling ,
+MM 727,"Cossosion in Oil & Gas, Refineries & Petrochemical Industry ",
+MM 728,Topics in Corrosion Research ,
+MM 729,Characterization of Materials for Corrosion Control ,Raja V. S.
+MM 730,Topics in Mechanical Behaviour of Materials ,Prita Pant
+MM 731,Experiments in Advanced Materials Processing (Lab) ,Dinkar S. PatilTriratna  Muneshwar
+MM 732,Structural Characterization of Materials ,Amartya Mukhopadhyay
+MM 733,Mechanical Characterization of Materials ,Aparna Singh
+MM 734,Electrical Characterization of Materials ,Dipti Gupta
+MM 735,Material Chracterization at High Temperatures ,Somnath Basu
+MM 737,Physical Metallurgy ,Prabhu N.
+MM 738,Physics of Materials ,Kulkarni Ajit R.
+MM 739,Semiconductor Photoelectrochemistry and Photocatalysis ,
+MM 740,Silicon Manufacturing Technology Laboratory ,
+MM 741,Introduction to Silicon Manufacturing Technology ,
+MM 742,Science & Technology of Electric Furnace Steel Making  ,
+MM 743,Multiferroic Materials : Fundamentals and Devices ,
+MM 745,Strengthening Mechanisms in Crystalline Solids ,
+MM 746,Concepts of Advanced Polymer Science & Engineering ,
+MM 747,First Principles Approach to Materials Science ,Amrita  Bhattacharya
+MM 748,Fatigue of Materials ,
+MM 749,Statistics and Probability for Materials Engineers ,
+MM 750,Vibrational Spectroscopy for Materials Scientists ,
+MM 753,Micro-mechanics of Thin Films and Small Structures ,
+MM 755,Kinetics of High Temperature processes  ,Deepoo  Kumar
+MM 756,Physical Metallurgy and Mechanical Properties of Steels ,
+MM 792,Communication Skills -II ,
+MM 797,I Stage Project ,Ajay Singh PanwarVijayshankar  Dandapani
+MM 798,II Stage Project ,
+MM 899,Communication Skills ,Shobha Shukla
+MMM694,Seminar ,
+MMM797,I Stage Project ,
+MMM798,II Stage Project ,
+MMS601,Seminar ,
+MMS801,Seminar ,Dipti Gupta
+PH 001,Physics - I ,
+PH 002,Physics II ,
+PH 011,Physics (Lab) ,
+PH 012,Physics Lab ,
+PH 103,Electricity & Magnetism ,
+PH 105,Modern Physics ,
+PH 106,Modern Physics ,
+PH 107,Quantum Physics and Application ,
+PH 108,Basics of Electricity & Magnetism ,
+PH 109,Fundamental Themes in Physics ,Sankar S.Uma
+PH 110,Introduction to Classical and Quantum Physics ,
+PH 111,Introduction to classical Physics ,
+PH 112,Introduction to Quantum Physics ,
+PH 113,Oscillations and Waves ,P. Ramadevi
+PH 114,Thermal Physics ,Soumya Bera
+PH 117,Physics Lab ,Mohamad  AslamNitin  Kumar
+PH 201,Physics IV(Optics) ,
+PH 202,Waves & Oscillations & Optics ,
+PH 203,Physics V (Thermodynamics) ,
+PH 204,Quantum Mechanics I ,
+PH 207,Introduction to Special Theory of Relativity ,
+PH 215,Thermal Physics ,
+PH 216,Statistical Physics ,
+PH 217,Classical Mechanics ,Nitin  Kumar
+PH 219,Data Analysis and Interpretation ,
+PH 221,Analog Electronics ,Pradeep Sarin
+PH 222,Digital Electronics and Microprocessors ,
+PH 223,Complex Analysis and Integral Transforms ,Dibyendu Das
+PH 225,Quantum Mechanics I ,
+PH 227,AI and Data Science , Alok ShuklaSadhana Dash
+PH 230,Electronics Lab III (Digital Electronics) ,
+PH 231,Electronics Lab I (Basic circuits) ,
+PH 232,Physics Laboratory I (General Physics Lab) ,
+PH 233,Electronics Lab II (Op amp circuits) ,
+PH 301,Quantum Mechanics II ,
+PH 303,Supervised Learning ,Himadri Shekhar Dhar
+PH 304,Statistical Physics ,
+PH 306,Continuum Mechanics ,
+PH 307,Introduction to Numerical Analysis ,
+PH 309,Quantum Mechanics II ,
+PH 310,Introduction to Condensed Matter Physics ,
+PH 312,Electromagnetic Theory ,Kantimay Das Gupta
+PH 401,Classical Mechanics ,Anirban Sain
+PH 403,Quantum Mechanics I ,Shankaranarayanan Subramaniam
+PH 405,Electronics ,Varun Bhalerao
+PH 407,Mathematical Physics I ,Siddhartha  Santra
+PH 408,Mathematical Physics II ,
+PH 409,Introduction to Condensed Matter Physics I ,
+PH 410,Statistical Physics ,
+PH 411,Physics Lab I ,
+PH 412,Physics Lab II ,
+PH 413,Programming Lab ,
+PH 414,Electronics Laboratory ,
+PH 418,Introduction to Condensed Matter Physics ,
+PH 421,Photonics ,
+PH 422,Quantum Mechanics II ,
+PH 423,Quantum Mechanics II ,
+PH 424,Electromagnetic Theory I ,
+PH 429,Introduction to Condensed Matter Physics I ,
+PH 430,Introduction to Condensed Matter Physics II ,
+PH 434,Programming Lab ,Sai Vinjanampathy
+PH 435,Electronics Lab  IV (Microprocessors) ,
+PH 436,Introduction to Condensed Matter Physics ,Hridis Kumar  Pal
+PH 438,Statistical Physics ,
+PH 440,Introduction  to Atomic and Molecular Physics ,
+PH 441,Physics Lab (General Physics) ,
+PH 443,Electronics Laboratory ,Maniraj  Mahalingam
+PH 444,Electromagnetic Theory ,
+PH 446,Physics Laboratory (Solid state and Nuclear Physics) ,Sadhana DashSunita Srivastava
+PH 447,Physics Lab (Optics and Spectroscopy) ,Anshuman Kumar
+PH 454,Light Matter Interaction ,
+PH 500,Thin Film Physics & Technology ,
+PH 501,Quantum Mechanics II ,
+PH 504,Quantum Electronics ,
+PH 505,Introduction to Nuclear  & Particle Physics ,B NandiVarma Raghava
+PH 507,Statistical Physics ,
+PH 509,Methods in Analytical Techniques ,
+PH 510,Electromagnetic Theory II ,
+PH 511,Physics Lab III ,
+PH 512,Physics Lab (Optics and Spectroscopy) ,Dinesh Kabra
+PH 515,Introduction  to Atomic and Molecular Physics ,Kundu TapanenduSuresh K.G.
+PH 517,Methods in Analytical Techniques ,Mohamad  Aslam
+PH 521,Introduction to Photonics ,
+PH 525,Electromagnetic Theory II ,
+PH 527,Physics Lab (Solid State and Nuclear Physics) ,
+PH 530,Light Matter Interaction ,
+PH 542,Non-linear Dynamics ,
+PH 552,Project Stage II ,
+PH 555,Project  Stage III ,Himadri Shekhar Dhar
+PH 570,Advanced Laboratory Techniques  in Nanosience ,
+PH 574,Physics of Semiconductor Devices ,
+PH 575,Nanoscience: Fundamentals to Fabrication ,P Vasa
+PH 576,Nanoscale Quantum Transport ,
+PH 587,B.Tech Project I ,Himadri Shekhar Dhar
+PH 591,Dual Degree Project I ,
+PH 592,Dual Degree Project II ,
+PH 595,M.Sc. project stage 1 ,Himadri Shekhar Dhar
+PH 597,Project Stage I ,
+PH 598,Project Stage II ,
+PH 792,Communication Skills -II ,
+PH 801,Classical Methods of Particles and Fields ,
+PH 802,Quantum and Statistical Mechanics:  Advanced Methods ,
+PH 803,Computer Programming and Numerical Methods ,
+PH 804,Laboratory Techniques ,
+PH 805,Application of Quantum Mechanics ,
+PH 806,Special Topics in Elementary Particle Physics ,
+PH 807,Current Trends in Physics ,
+PH 808,Current Trends in Physics ,
+PH 810,Advanced Simulation Techniques in Physics ,
+PH 811,Laboratory Techniques ,
+PH 820,Applications of Mathematical Techniques in Physics ,
+PH 899,Communication Skills ,
+PHS801,Seminar ,Himadri Shekhar Dhar
+PHS802,Seminar ,
+SI 402,Statistical Inference ,
+SI 403,Mathematical Modelling ,
+SI 404,Applied Stochastic Processes ,
+SI 405,Mathematical Systems Theory ,
+SI 406,Applied Stochastic Processes ,
+SI 408,Data Structures ,
+SI 409,Discrete Structures  Lab ,
+SI 410,Programming Language Lab ,
+SI 411,Computer Lab ,
+SI 412,Algorithms ,
+SI 413,Combinatorics ,
+SI 414,Optimization ,
+SI 415,Introduction to Computer Architecture and Operator Systems ,
+SI 416,Optimization ,
+SI 417,Introduction to Probability Theory ,
+SI 418,Advanced Programming and Unix Environment ,
+SI 419,Combinatorics ,Srinivasan M.K.
+SI 420,Algorithms ,
+SI 421,Introduction to Mathematical Software ,
+SI 422,Regression Analysis ,
+SI 423,Linear Algebra and its Applications ,Ananthnarayan Hariharan
+SI 424,Statistical Inference I ,Debraj  Das
+SI 425,Basic Real Analysis ,
+SI 426,Algorithms ,
+SI 427,Probability I ,Koushik SahaK. Sureshkumar
+SI 429,Real analysis ,Prachi Mahajan
+SI 431,Introduction to Data Analysis using R ,Radhendushka Srivastava
+SI 501,Topics in Theoretical Computer Science ,
+SI 502,Stochastic Programming Applications ,
+SI 503,Categorical Data Analysis ,Ashish Das
+SI 504,Experimental Designs ,
+SI 505,Multivariate Analysis ,S. Mukhopadhyay
+SI 506,Introduction to Automata Theroy & Languages ,
+SI 507,Numerical Analysis ,S.Baskar
+SI 508,Network Models ,
+SI 509,Time Series Analysis ,
+SI 510,Mathematical Elements for Computer Graphics ,
+SI 511,Computer Aided Geometric Design ,
+SI 512,Finite Difference Methods for Partial Differential Equations ,
+SI 513,Theory of Sampling ,
+SI 514,Statistical Modeling ,
+SI 515,Statistical Techniques in Data Mining ,
+SI 516,Reliability Techniques ,
+SI 518,Statistical Quality Control ,
+SI 519,Probabilistic Techniques in Machine Learning ,
+SI 520,Informatics Lab ,
+SI 521,Biostatistics ,
+SI 522,Large Scale Scientific Computation ,
+SI 523,Mathematical Modelling and Numerical Simulation ,
+SI 524,Data Mining ,
+SI 525,Testing of Hypothesis ,
+SI 526,Experimental Designs ,
+SI 527,Introduction to Derivative Pricing ,
+SI 528,Biostatistics ,
+SI 529,Applied Algorithms ,
+SI 530,Statistical Quality Control ,
+SI 531,Discrete Algorithms ,
+SI 532,Decision Theory ,
+SI 533,Finite Difference Methods for Partial Differential Equations ,
+SI 534,Nonparametric Statistics ,
+SI 535,Categorical  Data Analysis and Regression ,
+SI 540,Stochastic Programming and Applications ,
+SI 542,Mathematical Theory of Reliability ,
+SI 593,Project Stage I ,Vellaisamy P.
+SI 594,Project Stage II ,
+SI 596,Work Visits ,
+SI 597,Project I (grade points will be included in SI 598 ,
+SI 598,Project (Stage II) ,
+PS 601,Public Policy Theory I ,Himanshu  BurtePrabhir Vishnu  Poruthiyil
+PS 604,"Technology, Culture and Policy ",
+PS 605,Social Science Perspective in Public Policy ,N.C.NarayananRahul Suresh Sapkal
+PS 606,"Public Policy in India: History, Institutions and Practice ",Jha Shishir KumarNaveen  Bharathi
+PS 607,Public Policy Theory II ,
+PS 608,Writing Lab ,
+PS 609,Research Methodology and Design ,Anjali  SharmaAnupam  Guha
+PS 610,Quantitative and Qualitative Research Methods ,
+PS 612,Science and Technology Policy -I ,
+PS 613,Water Policy I- Introduction to Water Science and Policy  ,
+PS 615,Information Economy and Governance I ,
+PS 616,Information Economy and Governance II ,
+PS 619,Health Policy: An Introduction  ,
+PS 621,Internship ,Malish  C.M.
+PS 626,"AI, Data and Policy ",
+PS 627,"Values in Public Policy: The Rhetoric of Political ""Isms"" ",
+PS 633,Writing Policy ,
+PS 694,Seminar ,
+PS 792,Communication Skill -II ,
+PS 797,MPP Dissertaion -I Stage ,Malish  C.M.
+PS 798,MPP Dissertaion -II Stage ,
+PS 899,Communication Skills ,
+PSS801,Seminar ,Prabhir Vishnu  Poruthiyil
+PSS802,Seminar ,
+LE 102,Digital Lives ,Mehra A.
+LE 301,Seminar ,Mehra A.
+DS 203,Programming for Data Science ,Vinay Kulkarni
+DS 303,Introduction to Machine Learning ,Manjunath D.
+DS 691,R & D Project ,
+DS 694,Seminar ,
+DS 899,Communication Skills ,
+DSS801,Seminar ,
+NT 899,Communication Skills ,
+NTS801,Seminar ,
+TD 390,Supervised Learning - Study ,Priyadarshani Jadhav
+TD 601,Development Theory & Policy: Indian Context ,
+TD 602,"Soil, Land Use, GIS and Agriculture ",Amit  Y. AroraParmeshwar Digamber Udmale
+TD 603,Water Resources Management  ,Parmeshwar Digamber Udmale
+TD 604,Social Science Research Methods and Systems Dynamics ,
+TD 605,Appropriate Technology ,
+TD 606,Public Policy and Governance in Technology and Development ,
+TD 607,Energy Sources and their Utilization ,Priyadarshani JadhavVishal R. Sardeshpande
+TD 608,Project Management and Project Analysis ,Chaaruchandra  Korde
+TD 609,Field Work ,Pankajkumar SekhsariaParmeshwar Digamber Udmale
+TD 610,Contemporary Critical Issues in Technology and Development ,
+TD 611,Agro-based Industries: Design and Case Studies ,
+TD 613,Ecology and Environment ,Anand B. RaoBakul Rao
+TD 614,Rural Electrification and the Power Sector in India ,
+TD 615,Rural Enterprises ,
+TD 616,Environmental Systems Assessing and Monitoring ,
+TD 617,Healthtech Innovation and Design ,
+TD 619,Energy Policy and Planning ,
+TD 620,"Micro, Small and Medium Enterprises in Rural Areas ",
+TD 621,Food Processing and Nutrition Delivery ,Amit  Y. AroraRupal M DalalSatish B. Agnihotri
+TD 622,Food Processing : Technology and Policy Perspective ,
+TD 623,Rural Electrification and Development in India ,
+TD 624,Advanced Themes in Public Policy ,
+TD 625,Development Monitoring & Evaluation ,
+TD 626,"Technology, Society and Development ",Pankajkumar SekhsariaVishal R. Sardeshpande
+TD 627,Field Research Methods ,
+TD 630,Public Policy: Theory and Practice ,
+TD 633,Directed Research Project ,
+TD 638,"Development Perspectives: Ideas, Approaches, and Theories ",Subodh M. Wagle
+TD 651,Technology in Practice ,Amit  Y. Arora
+TD 652,Development in Practice ,
+TD 653,Biofuels: Technology and Policy Perspective ,
+TD 654,Rural Environmental  Services: Planning and Design ,
+TD 655,Hydro-Meteorological Hazards Risk Assessment ,
+TD 691,Development Protocols ,
+TD 694,Seminar ,Amit  Y. Arora
+TD 695,I Stage Project ,Priyadarshani Jadhav
+TD 696,II Stage Project ,Chaaruchandra  Korde
+TD 792,Communication Skills -II ,
+TD 899,Communication Skills ,Pankajkumar SekhsariaPennan  ChinnasamySatish B. Agnihotri
+TDE601,"Technology, Development and Environment ",Pankajkumar SekhsariaSubodh M. Wagle
+TDE602,Methods for Development Research ,
+TDE603,Communication Skills for Development Practitioners ,Anand B. RaoPennan  ChinnasamySatish B. Agnihotri
+TDE604,Public Policies for Development Practitioners ,
+TDE605,Management and Evaluation of Development Project & Programs ,Bakul Rao
+TDE606,Analytical Skills for Development Professionals ,Pennan  ChinnasamyPriyadarshani JadhavSatish B. Agnihotri
+TDE609,MDP Project ,
+TDE611,Seminar ,Chaaruchandra  Korde
+US 601,Urban  Geomatics and Analytics ,
+US 602,Fundamentals of Urban Science & Engineering ,
+US 603,Research Methods in Urban Science ,
+US 604,Management Techniques for Urban Systems  ,
+US 605,Introduction to Building: Functional Design and Science ,
+US 606,Urban Environmental Infrastructure ,
+US 607,Sustainability Assessment of Urban Systems ,
+US 608,Green Building Design ,
+US 609,Introduction to Urban Design ,
+US 610,Design for Sustainable Development and Urbanization ,
+US 611,Urban Design and Engineering Laboratory ,
+US 612,Urban Design and Engineering Studio ,
+US 613,"Urban Planning in India: Theory, Challenges and Approaches ",
+US 614,Urban Space: Theories and Critical Perspectives ,
+US 694,Seminar ,
+US 792,Communication Skills -II ,
+US 797,Dissertation I Stage ,
+US 798,Dissertation II Stage ,
+US 899,Communication Skills ,
+GNR402,Introduction to Geographic Information Systems ,
+GNR602,Advanced Methods in Satellite Image Processing ,
+GNR603,Principles of Remote Sensing ,Alok PorwalAvik Bhattacharya
+GNR605,Principles of Geographic Information Systems ,Surya Durbha
+GNR607,Principles of Satellite Image Processing ,Mohan B.Krishna
+GNR612,Marine and Coastal Environment ,
+GNR613,Atmospheric Remote Sensing ,
+GNR615,GIS Laboratory ,Surya Durbha
+GNR616,Terrain Evaluation ,
+GNR617,Image Interpretation Laboratory ,Rao Y.S.
+GNR618,Remote Sensing and GIS Applications to Cryosphere ,
+GNR619,Natural Resources : Lithosphere and Biosphere ,Adinarayana J.Alok Porwal
+GNR621,"Natural Resources: Hydroshpere, Cryosphere and Atmosphere ",Deepak  SinghGulab SinghKarthikeyan  Lanka
+GNR622,Sub-surface Water Resource Assessment and Management ,
+GNR623,GPS : Principles and Applications ,Gedam S.S.
+GNR624,Water Resources and River Basin Management ,
+GNR625,Geo-chemical Analysis of Planetary Materials ,
+GNR626,Climate and Natural Resources ,
+GNR627,Geospatial Predictive Modelling ,Alok Porwal
+GNR628,Planetary Spectroscopy and Remote Sensing ,
+GNR629,"Advances in Geospatial Standards, Interoperability and Knowledge Discovery ",
+GNR630,Introduction to Geospatial Technologies ,
+GNR631,Rural Informatics ,
+GNR633,Remote Sensing and GIS Applications to Mineral and Hydrocarbon Exploration ,
+GNR634,Remote Sensing of Envirnmental and Climate Change  ,
+GNR636,Remote Sensing of Vegetation ,Surya Durbha
+GNR638,Machine Learning for Remote Sensing - II ,
+GNR639,Natural Disaster Assessment and Management ,
+GNR640,Geospatial Statistics ,
+GNR641,Remote Sensing in Water Resources and River Basin Management ,
+GNR642,Scattering Models in Microwave Remote Sensing ,
+GNR647,Microwave Remote Sensing ,
+GNR651,Digital Photogrammetry and Cartography ,
+GNR652,Machine Learning for Remote Sensing-I ,
+GNR653,Data Analysis Methods for Geospatial Applications  ,Avik BhattacharyaDeepak  SinghKarthikeyan  LankaMohan B.Krishna
+GNR694,Seminar ,
+GNR792,Communication Skills -II ,
+GNR797,I Stage Project ,Deepak  Singh
+GNR798,II Stage Project ,Deepak  Singh
+GNR899,Communication Skills ,Avik BhattacharyaDeepak  Singh
+NR 601,Natural Resources Exploration and Management ,
+NR 602,Advanced Methods in Satellite Image Processing ,
+NR 603,Principles of Remote Sensing ,
+NR 604,Digital Cartography ,
+NR 605,Principles of Geographic Information Systems ,
+NR 606,Hydro-Meterological Applications of Remote Sensing ,
+NR 607,Principles of Satellite Image Processing ,
+NR 608,Computer Processing of Visual Information ,
+NR 609,Mathematics and Physics for Remote Sensing ,
+NR 610,Advanced Microwave Remote Sensing Techniques and Applications ,
+NR 611,Digital Photogrammetry ,
+NR 612,Marine and Coastal Environment ,
+NR 613,Atmospheric Remote Sensing ,
+NR 614,Analysis Techniques for Planetary Materials ,
+NR 615,GIS Laboratory ,
+NR 616,Terrain Evaluation ,
+NR 617,Image Interpretation Laboratory ,
+NR 618,Remote Sensing and GIS Applications to Cryosphere ,
+NR 619,Natural  Resources: Lithosphere and Biosphere ,
+NR 620,Advanced GIS Technology ,
+NR 621,"Natural Resources: Hydrosphere, Cryosphere and Atmosphere ",
+NR 622,Sub-surface Water Resource Assessment and Management ,
+NR 623,GPS: Principles and Applications ,
+NR 624,Water Resources and River Basin Management ,
+NR 625,Geo-chemical Analysis of Planetary Materials ,
+NR 626,Climate and Natural Resources ,
+NR 627,Natural Resources Potential Modeling ,
+NR 628,Spectroscopic Analysis of Planetary Materials ,
+NR 630,Introduction to Geospatial Technologies ,
+NR 631,Rural Informatics ,
+NR 633,Remote Sensing and GIS Applications to Mineral and Hydrocarbon Exploration ,
+NR 635,Remote Sensing in Terrin Evaluation ,
+NR 639,Natural Disaster Assessment and Management ,
+NR 641,Remote Sensing in Water Resources and River Basin Management ,
+NR 643,Remote Sensing for Sub-Surface Water Resources ,
+NR 645,Advanced Methods in Satellite Image Processing ,
+NR 647,Microwave Remote Sensing ,
+NR 651,Digital Photogrammetry and Cartography ,
+NR 694,Seminar ,
+NR 696,I Stage Project ,
+NR 697,II Stage Project ,
+NR 698,III Stage Project ,
+NR 797,I Stage Project ,
+NR 801,Theory of Geospatial Information Science ,
+NR 802,Surface Modeling ,
+NR 803,Satellite Image Analysis Theory ,
+NR 804,Distributed Hydrologic Modeling ,
+NR 805,Advanced Concepts in Polarimetric SAR Image Analysis ,
+NR 806,Climate Dynamics for Natural Resources ,
+NR 807,Digital Elevation Modelling : Tools and Techniques ,
+ENT601,Intellectual Property for Entrepreneurs ,
+ENT602,Technology Venture Creation ,Milind  KopikareSankalp  Pratap
+ENT603,Introduction to Entrepreneurship ,Anuradha  NarasimhanRajkumar R. Hirwani
+ENT604,Marketing for Entrepreneurs ,
+ENT605,Business Fundamentals for Technopreneurs ,
+ENT606,Developing a Proof of Concept- Basic ,
+ENT607,Managing Technological Innovation ,
+ENT899,Communication Skills ,Lina Elisabeth Sonne Vyas
+ES 101,Introduction to Environmental Science & Engineering ,Tabish  NawazVirendra Sethi
+ES 102,Water Quality Management ,
+ES 200,Environmental Studies: Science and Engineering ,Anurag GargTabish  NawazVirendra Sethi
+ES 201,Applied Environmental Microbiology and Ecology ,Swatantra Pratap  Singh
+ES 202,Fundamentals of Environmental Chemistry ,
+ES 203,Water and Wastewater Engineering ,Renuka  Verma
+ES 204,Environmental Chemistry ,
+ES 206,Water Resources & Open Channel Flow ,
+ES 208,Mass Transfer Process in Environmental Systems ,
+ES 209,Data Analysis & Interpretation ,Indrajit  Chakraborty
+ES 210,Introduction to Solid Mechanics ,
+ES 212,Environmental Geodesy ,
+ES 216,GIS Aided Environmental Planning and Management ,Srinidhi  Balasubramanian
+ES 221,Mathematics Foundation ,
+ES 225,Artificial Intelligence & Data Science ,Manoranjan  Sahu
+ES 250,Environmental Studies : Science and Engineering ,Anurag GargTabish  NawazVirendra Sethi
+ES 252,Environmental Chemistry Lab  ,
+ES 253,Environmental Microbiology Laboratory ,Swatantra Pratap  Singh
+ES 296,Seminar ,Abhishek  ChakrabortySwatantra Pratap  Singh
+ES 301,Introduction to Fluid Mechanics ,
+ES 302,Environmental Biotechnology ,
+ES 307,Wastewater Engineering ,
+ES 308,Solid and Hazardous Waste Laboratory ,Munish Kumar Chandel
+ES 312,Seminar ,
+ES 315,Solid Waste Management - Basic Principles and Technical Aspects ,Anurag Garg
+ES 317,Fundamentals of Air Pollution Science and Engineering ,Abhishek  ChakrabortyManoranjan  Sahu
+ES 319,Computational Laboratory for Environmental Engineering ,
+ES 321,Energy and Environmental Sustainability ,
+ES 351,Air Pollution Monitoring Laboratory ,Abhishek  Chakraborty
+ES 404,Planning and Design of Environmental Engineering Facilities ,
+ES 407,Simulation & Optimization Techniques in Environmental Systems ,Subhankar KarmakarTabish  Nawaz
+ES 451,Field Studies ,Swatantra Pratap  Singh
+ES 493,MSc-PhD Project I ,
+ES 494,MSc-PhD Project II ,Abhishek  ChakrabortySwatantra Pratap  Singh
+ES 495,MSc-PhD Project III ,
+ES 505,"Health, Safety and Environment ",
+ES 593,Dual Degree Project Stage  I ,Venkata Sai Vamsi  Botlaguduru
+ES 600,Environmental Science and Engineering ,
+ES 616,Energy Conversion and Environment ,
+ES 624,Hazardous Waste Management ,
+ES 631,Environmental Chemistry ,Tabish  Nawaz
+ES 633,Enviornmental Microbiology and Ecology ,Indrajit  ChakrabortySuparna Mukherji
+ES 635,Air Pollution Science and Engineering ,Harish C. PhuleriaSrinidhi  Balasubramanian
+ES 637,Municipal Water and Wastewater Systems ,Sanjeev Chaudhari
+ES 639,Physico-Chemical Treatment Technologies ,Suparna MukherjiVenkata Sai Vamsi  Botlaguduru
+ES 642,Industrial Wastewater Management and Reuse ,
+ES 644,Industrial Pollution Prevention and Clean Technologies ,
+ES 645,Environmental Law and Policy ,Munish Kumar ChandelPradip P. Kalbar
+ES 647,Municipal Solid and Biomedical Waste Management ,A.K.DikshitMunish Kumar Chandel
+ES 651,Environmental Monitoring Laboratory ,Amritanshu ShriwastavHarish C. PhuleriaIndrajit  Chakraborty
+ES 653,Environmental Impact Assessment ,A.K.Dikshit
+ES 654,Groundwater Flow & Contaminant Transport through Porous Media ,
+ES 655,Environmental Management ,Amritanshu ShriwastavPradip P. Kalbar
+ES 656,Bioremediation - Principles and Applications ,
+ES 657,Water Resources and Environmental Hydraulics” ,Subhankar KarmakarVenkata Sai Vamsi  Botlaguduru
+ES 658,Environmental Change and Sustainable Development ,
+ES 659,Mathematics and Statistics for Environmental Engineering” ,Amritanshu ShriwastavManoranjan  Sahu
+ES 664,Environmental Systems Modelling ,
+ES 666,Biological Treatment Technologies ,
+ES 668,Environmental Computation Laboratory ,
+ES 670,Environmental Statistics ,
+ES 672,Air Pollution Control Technologies ,
+ES 674,Aerosol Science and Engineering ,
+ES 676,Membrane Processes ,
+ES 678,Soil Science ,
+ES 680,GIS for Environmental Planning and Management ,
+ES 682,Numerical Methods for Environmental Systems ,
+ES 684,Design of Water and Wastewater Systems ,
+ES 694,Seminar ,Manoranjan  SahuMunish Kumar Chandel
+ES 792,Communication Skills -II ,
+ES 797,I Stage Project ,Manoranjan  SahuMunish Kumar Chandel
+ES 798,II Stage Project ,
+ES 899,Communication Skills ,Venkata Sai Vamsi  BotlaguduruVirendra Sethi
+ESS801,Seminar ,Swatantra Pratap  SinghVenkata Sai Vamsi  Botlaguduru
+DH 899,Communication Skills ,
+DHS801,Seminar ,Ashutosh Kumar
+DE 101,Art and Design Fundamental 2D ,K. B. JinanMohanty Raja
+DE 102,Art and Design Fundamentals 3D ,
+DE 103,Image Representation and Transformations I ,
+DE 104,Image Representation and Transformations II ,
+DE 105,Captured Audio and Image Design (Photography & Videography) ,
+DE 106,Typography Fundamentals and Exploratory Printing ,
+DE 107,A Study of the Power of Words ,
+DE 108,"Exploration in Drawing, Tonalities ",
+DE 110,Form Exploration in Pottery ,
+DE 111,Communication through Sculptural Forms  ,Arun Mascarenhas
+DE 112,Communication Through Illustrations ,
+DE 113,Introduction to Film Making ,Bharat Chhitubhai Parmar
+DE 114,Basics of Film Editing ,
+DE 115,"Drawing Tools, Lines and Forms ",Amitesh Sant Shrivastava
+DE 116,"Exploration in Drawing, Tonalities and Textures ",
+DE 117,Introduction to Writing ,Sampurna  Chattarji
+DE 119,Material Exploration ,Avinash ShendeLatha  TummuruMohanty Raja
+DE 121,Design Studio I - Problem Identification ,
+DE 122,Design Studio II - Problem Analysis ,
+DE 123,Introduction to Writing ,
+DE 125,"Drawing Tools, Lines and Forms ",
+DE 127,Basic Forms in Pottery ,
+DE 129,Introduction to Weaving ,
+DE 131,Design and Human Evolution ,
+DE 132,World of Images and Objects ,
+DE 133,Applied Science for Designers ,
+DE 134,Knowledge Organisation and Communication ,
+DE 135,Design Studio Project I ,G.V.SreekumarMohanty RajaVinayak  Nabar
+DE 136,Design Studio Project II ,
+DE 201,2D Visual Studies I - Word and Image ,Shilpa Ranade
+DE 202,2D Visual Studies II ,
+DE 203,"3D Form Studies I - Aesthetics , Identity and Expressions ",Dinesh Korjan
+DE 204,3D Form Studies II ,
+DE 205,Creative Thinking Process and Methods ,
+DE 206,"Communication Theories, Visual Perception and Semiotics ",
+DE 207,Understanding Space and Perspective ,Sanket  Pethkar
+DE 208,"Design, Storytelling and Narratives ",
+DE 209,Sculptural Ceramics ,Mohanty Raja
+DE 210,Understanding Human Anatomy ,
+DE 212,Ceramic Glazes and Colour Development ,
+DE 213,Material Exploration-1 ,
+DE 214,Writing by Design ,
+DE 215,Reading the World through Many Lenses ,Sampurna  Chattarji
+DE 221,Design Studio III - Creative Explorations ,Jinal  SangoiMazhar KamranSanket  PethkarVinayak  Nabar
+DE 222,Design Studio IV - Prototyping ,
+DE 224,Natural Dyeing Techniques  ,Latha  Tummuru
+DE 231,"Design, Society, Culture and Environment ",Jinal  Sangoi
+DE 232,"Design, Media and Technology ",
+DE 250,Design Thinking for Innovation ,
+DE 302,Animation Design ,Shilpa Ranade
+DE 303,Information Graphics and Visualisation ,Venkatesh Rajamanickam
+DE 304,Communication Design ,
+DE 305,Moving Image Design ,Mazhar Kamran
+DE 306,Film-Video Design ,
+DE 307,Product Design - I ,Pradip  Save
+DE 308,Product Design II ,
+DE 309,Design for Interactive Media ,
+DE 310,Interaction Design ,
+DE 311,Mobility and Vehicle Design ,Kanika  JollyPankaj  Jhunja
+DE 312,Transportation Design ,
+DE 313,3D Modeling and Prototyping ,
+DE 314,Game Design ,
+DE 315,Applied Ergonomics ,
+DE 316,Product Ergonomics ,
+DE 318,Interaction Techniques ,
+DE 319,Interaction Design Process and Methods ,Joshi Anirudha
+DE 320,Designing Books for children ,Deepa  Balsavar
+DE 322,Materials and Processes ,
+DE 323,Stopmotion Animation ,Swati  Agarwal
+DE 324,Digital Media Technologies ,
+DE 327,Basics of Materials and Processes ,Nishant  Kamboj
+DE 329,Ceramics through the Ages ,Mohanty RajaYann-Pierre  Montelle
+DE 331,"Design, Technology and Innovation ",Milouni  Kapoor
+DE 332,"Design Management, Planning and Professional Practice ",
+DE 337,Introduction to Sound Design ,P M Satheesh
+DE 403,Studio Project I ,Phani Tetali
+DE 405,Studio Project II ,Phani Tetali
+DE 410,Perspectives on World Cinema ,Mazhar Kamran
+DE 415,Understanding Design ,
+DE 417,Physical Ergonomics ,Swati  Pal
+DE 419,Visual and Cognitive Ergonomics ,Wricha  Mishra
+DE 431,Global Design Thoughts and Discourse ,R. Sandesh
+DE 601,Introduction to Studio Photography ,Sanket Parshuram Patil
+DE 602,Product Interface Design ,
+DE 603,Presentation and Communication Skills ,Milouni  Kapoor
+DE 604,Introduction to Product Ergonomics ,
+DE 605,Workshop Skills ,Nishant  Kamboj
+DE 606,Studies in Form II ,
+DE 607,Studies in Form-1 ,Avinash Shende
+DE 608,Product Design -2 ,
+DE 609,Product Design-1 ,R. Sandesh
+DE 610,Nature of Materials and Processes ,R. Sandesh
+DE 611,Elements of Design ,P Kumaresan
+DE 612,Design Issues ,
+DE 613,Visual Language Syntactics ,Poovaiah Ravi
+DE 614,Design Workshop ,
+DE 615,Studies in Typography ,G.V.Sreekumar
+DE 616,Introduction to User Studies ,
+DE 617,Introduction to Advanced Photography ,Sanket Parshuram Patil
+DE 618,Semantics and Communication Theory ,
+DE 619,The Speaking Image ,Mohanty Raja
+DE 620,Introdction to 3D Form ,
+DE 621,Media Technology ,Deepa  Balsavar
+DE 622,Introduction to Animation ,
+DE 623,Visual Design ,Mandar S.Rane
+DE 624,Introduction to Film Making ,
+DE 625,Introduction to Filmmaking ,Bharat Chhitubhai Parmar
+DE 626,Human Factors in Interaction Design ,
+DE 627,Indian Thought and Tradition ,Sumant Rao
+DE 628,Interaction Design ,
+DE 629,Introduction to Photography ,
+DE 630,Trends in Interactive Technologies ,Jayesh S. Pillai
+DE 631,Introduction to Typography ,
+DE 632,Acting and Staging ,
+DE 633,"Colour, Composition and Layout ",
+DE 634,Digital Animation 2 ,
+DE 635,Interface Design ,
+DE 636,Animation Theory-2 ,
+DE 637,User Studies ,Joshi Anirudha
+DE 638,Animation Principles-2 ,
+DE 639,Usability Evaluation ,
+DE 640,Animation Design-2 ,
+DE 641,"Interactions, Media, Senses ",Poovaiah Ravi
+DE 642,Sketching and Anatomy-2 ,
+DE 643,Digital Animation-1 ,Sumant Rao
+DE 644,Exposure to Grid System in Visual Design ,
+DE 645,Animation Theory-1 ,Abhishek  VermaShilpa RanadeSomnath  Pal
+DE 646,CAID Modeling for Automotive Design ,
+DE 647,Animation Principles-1 ,Phani TetaliProsenjit  Ganguly
+DE 648,Historyof Transportation and Automobile Design ,
+DE 649,Animation Design-1 ,Abhishek  VermaDhimant  Vyas
+DE 650,Studies in 3D Form ,
+DE 651,Sketching and Anatomy-1 ,Shyam Subhashrao Wanare
+DE 652,Mobility Design-2 ,
+DE 653,Material and Manufacturing ,Kanika  Jolly
+DE 654,Sketching-2 ,
+DE 655,Automobile Engineering and Technology ,Sugandh MalhotraUnni Mohan  Mohanan
+DE 656,Model Making-2 ,
+DE 657,Vehicle Ergonomics ,Swati  Pal
+DE 658,Advanced Typography ,
+DE 659,Forms Space and Order ,Sridhar  MahadevanUnni Mohan  Mohanan
+DE 660,Graphic Narratives ,
+DE 661,Mobility Design-1 ,Kanika  JollySridhar  MahadevanSugandh Malhotra
+DE 662,Handmade Books and Book Structures ,
+DE 663,Sketching-1 ,Kanika  Jolly
+DE 664,Information Graphics ,
+DE 665,Model Making-1 ,Unni Mohan  Mohanan
+DE 666,Craft Creativity and Post Modernism ,
+DE 667,Design and Social Entrepreneurship ,
+DE 668,Instructional Design ,
+DE 669,Packaging and Label Design  ,Mandar S.RanePurba Joshi
+DE 670,Field Study and Design  ,Nishant Sharma
+DE 671,Experiential  Learning ,
+DE 672,Design Detailing ,
+DE 673,Sketching for Interaction Design ,
+DE 674,Introduction to World Cinema:Filmmaker Perspectives ,
+DE 675,Sketchning for Mobilty and Vehicle Design ,Kanika  Jolly
+DE 676,Rendering for Mobility Design  ,
+DE 677,Design for Virtual Reality - Basic ,Jayesh S. Pillai
+DE 678,Structures and Spaces Furniture ,
+DE 679,Experimental Animation ,Aditi  Chitre
+DE 680,Product Detailing ,
+DE 681,Design for Immersive Media -Advanced ,
+DE 682,Advanced Service Design ,
+DE 683,Sustainable Design ,
+DE 685,Human Factors in Technological Systems ,
+DE 686,Handmade Character Design ,
+DE 687,Design Exploration Seminar I ,Jayesh S. PillaiMandar S.Rane
+DE 688,Sketching for Communication Design ,Jinal  Sangoi
+DE 689,Theoretical Perspectives in Design ,Girish V. Dalvi
+DE 699,Basics of Entrepreneurship for Designers ,Pankaj  Jhunja
+DE 701,Visual Ergonomics & Human Perception ,Swati  Pal
+DE 702,Arts Design and Society-1 ,Aditi  ChitreAman Rupesh Xaxa
+DE 704,Interaction Design for Development ,
+DE 705,Interactive Data Visualization ,Venkatesh Rajamanickam
+DE 706,Story and Narrative ,
+DE 707,Design Research Methodologies ,
+DE 708,Introduction to Interface Design ,Sudhir Ram BhatiaVenkatesh Rajamanickam
+DE 709,Sound and Camera ,P M SatheeshSumant Rao
+DE 710,Design Evaluation ,Vidhya  AppuWricha  Mishra
+DE 711,Animation Production ,Abhishek  VermaSomnath  Pal
+DE 712,Immersive Media Design ,
+DE 713,Seminar and Critical Writing ,Lalit Kumar DasSugandh Malhotra
+DE 714,Design Fiction ,Venkatesh Rajamanickam
+DE 715,Pattern Language for Interaction Design ,
+DE 717,Service Design ,
+DE 719,Computer Game Design ,
+DE 721,Representation Techniques for Animation ,Aditi  Chitre
+DE 723,Design Management and Professional Practice ,
+DE 725,Designing Games for Children ,
+DE 727,Prodcut Semantics ,
+DE 731,On Ways of Seeing ,
+DE 801,Mini Project-I ,Prasad  Bokil
+DE 802,Mini Project-II ,Prasad  Bokil
+DE 803,Quantitative Design Research Methods ,Girish V. DalviJoshi Anirudha
+DE 804,Qualitative Design Research Methods ,Girish V. Dalvi
+DE 899,Communication Skills ,Prasad  Bokil
+DEP102,Self-Initiated Summer Project ,Shilpa Ranade
+DEP204,Summer Project ,Bharat Chhitubhai Parmar
+DEP301,Collaborative Design Project ,Poovaiah RaviVinayak  Nabar
+DEP302,System Design Project ,
+DEP304,Summer Project (Focus on Industry Experience) ,Avinash ShendeBharat Chhitubhai Parmar
+DEP401,Re-Design Project ,
+DEP403,Design Research Seminar I ,Prasad  Bokil
+DEP404,BDes Design Project - 2 ,
+DEP405,BDes Design Project - 1 ,Avinash ShendeBharat Chhitubhai Parmar
+DEP406,BDes Design Project - 2 ,
+DEP408,Design Research Project ,
+DEP410,B. Des. Design Project II ,Bharat Chhitubhai Parmar
+DEP501,Design Research Project-Part I ,Jayesh S. PillaiMazhar KamranSumant Rao
+DEP502,Design Research Seminar II ,
+DEP504,Design Research Project-Part II ,
+DEP602,Communication Design Project ,
+DEP701,M.Des. Project-1 ,Mazhar KamranR. SandeshSumant RaoUnni Mohan  Mohanan
+DEP702,M.Des. Project- 2 ,Jayesh S. PillaiMazhar KamranR. SandeshSumant RaoUnni Mohan  Mohanan
+DEP703,M.Des. Project- 3 ,Jayesh S. Pillai
+DEP704,Design Research Project - I  ,Joshi Anirudha
+DEP706,Design Research Seminar ,Jayesh S. PillaiMandar S.Rane
+CM 602,Atmosphere and Climate Change ,
+CM 605,Public Policy and Governance in Technology and Development ,
+CM 606,"Energy Resources, Economics and Environment ",
+CM 608,Sustainable Engineering Principles ,
+CM 801,Introduction to Risk Analysis ,
+CM 802,Atmosphere and Climate Change ,
+CM 803,Introduction to Climate Change ,
+CM 899,Communication Skills ,Angshuman  ModakSubimal Ghosh
+CMS801,Seminar ,Vishal  Dixit
+ET 601,Introduction to Educational Technology ,Ramkumar  Rajendran
+ET 602,Research Project ,
+ET 604,Research Methods in Educational Technology ,
+ET 605,Adaptive Tutoring Systems ,
+ET 606,Educational Technology -Tools Lab ,Syaamantak  Das
+ET 609,Discipline-based Education Research ,
+ET 610,Learning Analytics and Educational Data Mining ,Ramkumar  Rajendran
+ET 611,Learning Sciences ,
+ET 612,Statistical Methods for Educational Research ,Sahana Murthy
+ET 613,Human-Computer Interaction for Educational Technology ,S. R. Iyer
+ET 614,Instructional Systems Design ,
+ET 619,Field Work in Educational Technology ,Ramkumar  Rajendran
+ET 694,Seminar ,Ramkumar  Rajendran
+ET 792,Communication Skills -II ,
+ET 797,I Stage Project ,Ramkumar  Rajendran
+ET 798,II Stage Project ,
+ET 801,Introduction to Educational Technology ,
+ET 802,Research Project ,
+ET 807,Educational Game Design ,
+ET 899,Communication Skills ,S. R. Iyer
+ETS801,Seminar ,
+IE 101,Introduction to IE and OR ,J. Venkateswaran
+IE 102,Probability and Statistics ,
+IE 501,Optimization Models ,Avinash  Bhardwaj
+IE 502,Probabilistic Models ,
+IE 503,Operations Analysis ,Ashutosh  MahajanPriyank  Sinha
+IE 504,Service and Infrastructure Systems ,
+IE 505,Computer Programming and Algorithms ,
+IE 507,Modeling & Computation Lab ,N. HemachandraVeeraruna Kavitha
+IE 509,Computer Programming Lab ,P. BalamuruganUrban  Larsson
+IE 601,Optimization Techniques ,
+IE 602,Service Engineering and Management ,
+IE 603,Discrete Event System Simulation ,
+IE 604,Systems Dynamics Modeling & Analysis ,
+IE 605,Engineering Statistics ,Manjesh K. Hanawal
+IE 606,Analysis & Control of Queues ,
+IE 607,Polyhedra and Combinatorial Optimization ,
+IE 609,Mathematical Optimisation Techniques ,V. Narayanan
+IE 610,"Networks, Games and Algorithms ",
+IE 611,Introduction to Stochastic Models ,
+IE 612,Introduction to Financial Engineering ,
+IE 613,Online Learning  ,
+IE 614,Linear Systems ,
+IE 615,Data Analytics in Operations Research ,
+IE 616,Decision Analysis and Game Theory ,
+IE 618,Advanced Stochastic Processes for Operations Research ,
+IE 621,Probability and Stochastic Processes I ,K.S.Mallikarjuna Rao
+IE 622,Probability and Stochastic Processes II ,
+IE 630,Simulation Modeling and Analysis ,
+IE 635,Facilities Planning ,
+IE 641,Network Flow Models and Applications ,
+IE 642,Engineering Economic Analysis ,
+IE 643,Deep Learning - Theory and Practice  ,P. Balamurugan
+IE 645,Industrial Scheduling ,
+IE 646,Quality Control & Reliability ,
+IE 647,Applied Integer Programming ,
+IE 648,Quantitative Analysis in Finance and Marketing ,
+IE 650,Modelling and Optimisation in Flexible Manufacturing System ,
+IE 651,Inventory Control and Management Systems ,
+IE 683,Topics in Learning Algorithms ,
+IE 684,IEOR Lab ,
+IE 685,MSc.Phd. Research Project I ,V. Narayanan
+IE 686,MSc.Phd. Research Project II ,
+IE 688,R & D Project ,P. Balamurugan
+IE 689,MSc-PhD Project I ,
+IE 692,MSc-PhD Project II ,
+IE 694,Seminar ,
+IE 695,MSc-PhD Project III ,
+IE 702,"Neural Nets, Fuzzy Systems and Applications ",
+IE 703,Introduction to Knowledge Based Systems and Applications ,
+IE 704,Selected Topics in A.I. in Operations Research ,
+IE 705,Quantitative Methods in Project Management ,
+IE 706,Pricing & Revenue Management ,
+IE 707,Multi-player Decision Making Models ,
+IE 708,Markov Decision Processes ,N. Hemachandra
+IE 709,IEOR for Health Care ,
+IE 710,OR Applications in Infrastructural and Service Sectors ,
+IE 712,Selected Application of Stochastic Models ,
+IE 714,Quantitative Models for Supply Chain Management ,
+IE 716,Integer Programming:  Theory and Computations ,
+IE 718,"Networks, Games and Algorithms ",
+IE 792,Communication Skills -II ,
+IE 797,I Stage Project ,P. Balamurugan
+IE 798,II Stage Project ,
+IE 802,Topics in Industrial Engineering and Operations Research ,Rangaraj Narayan
+IE 803,Advanced Stochastic Simulation ,
+IE 804,Convex Analysis ,
+IE 805,Advanced Topics in Discrete Optimization ,
+IE 806,Game Dynamics ,
+IE 899,Communication Skills ,N. Hemachandra
+IES601,Seminar ,
+SC 403,System Modelling and Simulation ,
+SC 601,Modelling  and Identification of Dynamical  Systems ,
+SC 602,Control of Nonlinear Dynamical Systems ,
+SC 604,Optimal Control System ,
+SC 605,Optimization Based Control of Stochastic Systems ,
+SC 607,Optimization ,
+SC 612,Introduction to Linear Filtering and Beyond ,
+SC 613,Multivariable Control Systems ,
+SC 616,Large Scale Systems ,
+SC 617,Adaptive Control Theory ,
+SC 618,Analytical and Geometric Dynamics ,Sukumar Srikant
+SC 619,Control of Langrangian and Hamiltonian Systems ,
+SC 620,Automation and Feedback Control ,
+SC 621,Advanced Feedback Theory ,
+SC 622,Qantitative Feedback Theory II ,
+SC 623,Optimal and Robust Control ,
+SC 624,Differential Geometric Methods in Control ,
+SC 625,Systems Theory ,Vivek Natarajan
+SC 626,Systems and Control Engineering Laboratory ,
+SC 627,Motion Planning & Coordination of Autonomous Vehicles ,
+SC 628,Guidance Strategies for Autonomous Vehicles ,
+SC 629,Introduction to Probability and Random Processes ,
+SC 630,Variable Structure and Sliding Mode Control ,
+SC 631,Games and Information  ,Ankur Kulkarni
+SC 633,Geometric and Analytic Aspects of Optimal Control ,
+SC 634,Introduction to Wheeled Mobile Robotics ,
+SC 635,Advanced Topics in Mobile Robotics ,
+SC 636,Theory of Output Regulation ,
+SC 639,Mathematical Structures for Control ,Banavar R.N.
+SC 640,Applied Predictive Analytics  ,
+SC 643,Stochastic and Networked Control ,
+SC 645,Intelligent Feedback and Control ,
+SC 655,Random Processes in Learning and Control ,Debasish Chatterjee
+SC 694,Seminar ,Sukumar Srikant
+SC 700,Embeded Control System ,
+SC 702,Linear Systems Theory for PDEs ,
+SC 792,Communication Skills -II ,
+SC 797,I Stage Project ,Sukumar Srikant
+SC 798,II Stage Project ,
+SC 899,Communication Skills ,Ankur KulkarniArpita SinhaAvishek  GhoshBanavar R.N.Debasish ChatterjeeLeena VachhaniNavin KhanejaSukumar SrikantVivek Natarajan
+SCS801,Seminar ,Sukumar Srikant
+SCS802,Seminar ,Sukumar Srikant
+IWE701,Strategic Management ,
+IWE702,Organizational Behavior and Design ,
+IWE703,Data Modeling and Decisions ,
+IWE704,Introduction to Financial Accounting ,
+IWE705,Marketing Management ,
+IWE706,Managerial Economics ,
+IWE707,Communication and Negotiation Skills ,S.V.D.Nageswara Rao
+IWE708,Operations and Manufacturing Management ,Indrajit Mukherjee
+IWE709,Strategic Cost Analysis ,S.V.D.Nageswara Rao
+IWE710,Corporate Finance ,
+IWE711,Leadership ,
+IWE712,"Growth, Valuations, and Sustainability ",
+IWE713,Managing Power and Influence in Organizations ,S.V.D.Nageswara Rao
+IWE714,Global Supply Chain Management ,
+IWE715,Competitive Strategy & Industry Analysis ,
+IWE716,Macroeconomics ,Vinish Kathuria
+IWE719,Strategic Management of Innovation ,
+IWE720,Business Start-up Consulting Project ,
+IWE721,Washington D C Residency ,
+IWE722,Data-Driven Decision Making: Analysis to Action ,
+IWE723,Customer Analytics ,
+IWE725,The Entrepreneurial Mindset ,S.V.D.Nageswara Rao
+MG 621,Strategic Management of Technology ,
+MG 625,Legal Aspects of Business ,
+MG 634,Project Management ,
+MG 635,Manufacturing Strategy ,
+MG 641,Purchasing and Supply Management ,
+MG 648,Marketing Research ,
+MG 651,Communication and Presentation Skills ,
+MG 652,Maintenance Management ,
+MG 654,Logistics and Supply Chain Management ,
+MG 655,Corporate Strategy ,
+MG 659,Management of World Class Manufacturing System ,
+MG 689,Large-Scale Optimization ,
+MGP601,Project Work ,
+MGS601,Seminar ,
+MGS801,Credit Seminar ,Sarthak Gaurav
+MGS802,Seminar ,Sarthak Gaurav
+MGT601,Self Awareness and Interpersonal Skills Lab ,
+MGT602,Management of Human Resources ,
+MGT603,Statistical Methods ,
+MGT604,Financial Management -I ,
+MGT605,Introduction to Marketing ,
+MGT606,Operations Management-II ,
+MGT607,Managerial Accounting & Control ,
+MGT608,Management of Technology ,
+MGT609,Managerial Economics ,
+MGT610,Information Systems ,
+MGT611,Organizational Behaviour ,
+MGT612,Business Research Methods ,
+MGT613,Communication Skills Lab ,
+MGT614,International Business ,
+MGT615,Marketing Management ,
+MGT616,Financial Management -II ,
+MGT617,Decision Models in Management ,
+MGT618,Advanced Planning and Scheduling ,
+MGT619,Economic Environment and Policy ,
+MGT620,Business and Sustainable Development ,
+MGT621,Operations Management 1 ,
+MGT622,Corporate Strategy ,
+MGT623,Quantitative Skills Lab ,
+MGT624,Business Ethics ,
+MGT625,Legal Aspects of Business ,
+MGT627,Patterns of Enterprenuership ,
+MGT628,Leadership and Vision ,
+MGT630,Introduction to ERP ,
+MGT631,Logistics and Supply Chain Management ,
+MGT632,Lean Management ,
+MGT633,Quality Management ,
+MGT634,Purchasing and Supply Management ,
+MGT640,Service Operations Management ,
+MGT647,Innovation and Entreprenurship ,
+MGT650,"Mergers,Acquisitions and Business Valuation ",
+MGT651,International Finance ,
+MGT652,Indian Financial and Business Model ,
+MGT653,Security Analysis and Portfolio Management ,
+MGT654,Fixed Income Securities ,
+MGT655,Derivatives and Risk Management ,
+MGT656,Management Control Systems ,
+MGT661,Advertising and Media Management ,
+MGT662,Customer Relationship Management ,
+MGT663,Brand Management ,
+MGT664,Business to Business Marketing ,
+MGT665,Consumer Behavior ,
+MGT668,Services Marketing ,
+MGT670,Management of New Ventures ,
+MGT671,International Competitiveness ,
+MGT673,Managerial Effectiveness Skills ,
+MGT677,Management of Change ,
+MGT678,Policy Responses to Climate Change ,
+MGT679,Competitiveness for Sustainable Enterprise ,
+MGT680,Managing Intellectual Property ,
+MGT681,Historical and Contemporary Perspectives in International Business. ,
+MGT682,Applied Industrial Organization ,
+MGT683,Managing with New Business Models in a Knowledge Economy ,
+MGT686,Strategic Transformation ,
+MGT689,International Trade ,
+MGT690,Software Project Management ,
+MGT691,Intelligent Systems ,
+MGT693,Information Technology Infrastructure Management ,
+MGT696,Strategies for Growth ,
+MGT697,Electronic Business Strategies and Implementation ,
+MGT701,Online Marketing ,
+MGT703,Sales and Distribution Management  ,
+MGT742,Large-Scale Optimization ,
+MGT783,Experimental Design for Productivity and Quality Improvement ,
+MGT801,Introduction to Research Methods ,Ashish Singh
+MGT802,Statistics for Management Researc ,
+MGT803,Economics ,
+MGT804,Qualitative Research Methodologies ,T.T. Niranjan
+MGT805,Survey Research & Experimentation  ,Arti D Kalro
+MGTP01,Collaborative Practicum Stage -I ,
+MGTP02,Collaborative Practicum Stage -II ,
+MNG601, Communication and Inter-Personal Skills ,
+MNG602,Management of Human Resources ,
+MNG603,Statistical Methods ,
+MNG604,Corporate Finance - I ,
+MNG605,Marketing Management - I ,
+MNG606,Operations Management II ,
+MNG607,Financial Reporting and Analysis ,
+MNG608,Strategic Management of Technnology ,
+MNG609,Microeconomics ,
+MNG610,Information Systems ,
+MNG611,Organization Behavior ,
+MNG614,International Business ,
+MNG615,Marketing Management -II ,
+MNG616,Corporate Finance - II ,
+MNG617,Decision Models in Management ,
+MNG619,Macroeconomics ,
+MNG621,Operations Management - I ,
+MNG622,Corporate Strategy ,
+MNG623,Legal Aspects of Business ,
+MNG624,Business Ethics ,
+MNG625,Cost Accounting and Control ,
+MNG629,Technology Design and End To End Innovation -I ,
+MNG630,Technology Design and End To End Innovation -II ,
+MNG637,Project Management ,
+MNG639,Technology Strategy Lab ,
+MNG744,Multivariate Data Analysis ,
+MNG792,Communication Skills -II  ,
+MNG802,Statistics for Management Research ,Sudeep R. Bapat
+MNG803,Economics ,Ashish Singh
+SOM601,Communication and Interpersonal Skill ,Ashish Pandey
+SOM602,Microeconomics ,Trupti Mishra
+SOM603,Fundamentals of Financial and Managerial Accounting ,Varadraj B. Bapat
+SOM604,Marketing Management - I ,Arti D Kalro
+SOM605,Statistical Methods ,Usha Ananthakumar
+SOM606,Corporate Finance - I ,S.N.Rao
+SOM607,Macroeconomics ,Sarthak Gaurav
+SOM608,Decision Models in Management ,Pankaj Dutta
+SOM609,Information Systems ,Sonar M Rajendra
+SOM610,Marketing Management - II ,Dinesh Sharma
+SOM611,Operations Management – I ,Indrajit MukherjeeT.T. Niranjan
+SOM612,Business Research Methods ,
+SOM613,Corporate Finance - II ,
+SOM614,Organization Behavior & Human Resources I ,
+SOM615,Operations Management II ,
+SOM616,Technology Management ,
+SOM617,Corporate Strategy ,
+SOM618,Organization Behavior & Human Resources II ,
+SOM619,Corporate Governance and Business Ethics ,
+SOM620,Business and Sustainable Development ,Trupti Mishra
+SOM621,Legal Aspects of Business ,
+SOM625,Summer Project Work ,Varadraj B. Bapat
+SOM626,Advanced Planning and Scheduling ,Rahul Patil
+SOM627,Patterns of Entrepreneurship ,
+SOM628,Leadership and Vision ,
+SOM629,Technology Design and End to End Innovation- I ,
+SOM630,Technology Design and End to End Innovation- II ,
+SOM631,Game Theory for Business Decisions ,
+SOM632,Lean Management ,
+SOM633,Quality Management ,
+SOM634,Purchasing and Supply Management ,Atul Kanyalkar
+SOM635,Operations Strategy ,Gajendra Adil
+SOM636,Innovation Management ,
+SOM637,Project Management ,
+SOM638,Innovation and Sustainability Lab ,
+SOM639,Technology Strategy Lab ,
+SOM640,Service Operations Management ,
+SOM641,Technology Forecasting and Assessment ,
+SOM642,Business Forecasting ,Pankaj Dutta
+SOM644,Managerial Decision Making under Risk and Uncertainty ,
+SOM645,Logistics and Supply Chain Management ,
+SOM646,Business Dynamics Modeling and Simulation ,
+SOM647,Innovation and Entrepreneurship ,
+SOM648,Simulation of Business Systems ,
+SOM649,Corporate Competitiveness ,
+SOM650,"Mergers, Acquisitions and Business Valuation ",S.N.Rao
+SOM651,International Finance ,S.V.D.Nageswara Rao
+SOM652,Indian Financial and Business Model ,
+SOM653,Security Analysis and Portfolio Management ,S.N.Rao
+SOM654,Fixed Income Securities ,Piyush  Pandey
+SOM655,Derivatives and Risk Management ,Piyush  Pandey
+SOM656,Management Control Systems ,
+SOM657,Strategic Financial Management ,
+SOM661,Advertising and Media Management ,Dinesh Sharma
+SOM662,Customer Relationship Management ,Arti D Kalro
+SOM663,Brand Management ,Dinesh Sharma
+SOM664,Business to Business Marketing ,
+SOM665,Consumer Behaviour ,
+SOM666,Product Management ,
+SOM667,Marketing Research ,
+SOM668,Services Marketing ,
+SOM669,International Marketing ,
+SOM670,Management of New Ventures ,
+SOM671,International Competitiveness ,Kiran Kumar Momaya
+SOM672,Performance Evaluation and Management System ,
+SOM673,Managerial Effectiveness Skills ,
+SOM674,Environmental Management ,
+SOM675,Organization Theory and Design ,
+SOM676,Infrastructure Development and Financing ,
+SOM677,Management of Change ,
+SOM678,Policy Responses to Climate Change ,
+SOM679,Competitiveness for Sustainable Enterprise ,
+SOM680,Managing Intellectual Property ,
+SOM681,Historical and Contemporary Perspectives in International Business ,
+SOM682,Applied Industrial Organization ,
+SOM683,Managing with New Business Models in a Knowledge Economy ,
+SOM684,Aviation Business Strategies ,
+SOM685,Managing International Business and Policy ,
+SOM686,Strategic Transformation ,Snehal  Awate
+SOM687,WTO and Indian Business ,
+SOM688,Economics of Regulation ,
+SOM689,International Trade ,
+SOM690,Software Project Management ,Sonar M Rajendra
+SOM691,Intelligent Systems ,
+SOM692,Hospital Information System ,
+SOM693,Information Technology Infrastructure Management ,
+SOM695,Systems Analysis and Design ,
+SOM696,Strategies for Growth ,
+SOM697,Electronic Business Strategies and Implementation ,Sonar M Rajendra
+SOM701,Online Marketing ,
+SOM702,Design of Manufacturing Systems ,
+SOM703,Sales and Distribution Management ,Mayank  Pareek
+SOM705,Supply Chain Optimization ,Rahul Patil
+SOM706,Business Entrepreneurship Development ,
+SOM707,Behavioral Finance ,
+SOM716,Economics of Firm Strategy ,
+SOM730,"Technology Acquisition, Transfer and Absorption ",
+SOM732,High Tech Ventures: From Concept to Commercialization ,
+SOM734,"Science, Technology and Innovation policy ",
+SOM742,Large-Scale Optimization ,
+SOM744,Multivariate Data Analysis ,
+SOM899,Communication Skills ,Sarthak Gaurav

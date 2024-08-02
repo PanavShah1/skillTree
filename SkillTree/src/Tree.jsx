@@ -25,13 +25,4 @@ const Tree = ({ data }) => {
     );
 };
 
-const App = () => {
-    return (
-        <div>
-            <h1>Tree Component</h1>
-            <Tree data={treeData} />
-        </div>
-    );
-};
-
-export default App;
+export default Tree;

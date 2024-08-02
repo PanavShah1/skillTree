@@ -10,10 +10,13 @@ const TreeCont = () => {
         setAllExpand(!allExpand);
     }
     return (
-        <div>
+        <div className="tree-cont">
             <Context.Provider value={{ allExpand, setAllExpand }}>
                 <Tree data={treeData}/>
-                <button onClick={handleExpand}>{allExpand ? <p>Minimise All</p> : <p>Expand All</p>}</button>
+                <div className="right-cont">
+                    <button onClick={handleExpand} className="expand-all">{allExpand ? <p>Minimise All</p> : <p>Expand All</p>}</button>
+                    <p>This course is offered only for B.Tech and B.S students</p>
+                </div>
             </Context.Provider>
         </div>
     );

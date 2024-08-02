@@ -1,0 +1,619 @@
+<html><head><title>Running courses</title></head>
+<body>
+
+	<table width="85%" align="center" border="0">
+		<tbody><tr>
+			<td align="center"><font color="green"><h3 align="center"><b>Running Courses in <font color="red">Shailesh J. Mehta School of Management</font> </b></h3></font>
+			</td>
+		</tr>
+	</tbody></table>
+	<table color="gray" border="1" cellpadding="5" cellspacing="0" width="75%" align="center">
+		<form method="post" action="./RunningCourses.jsp"></form>
+		<tbody><tr bgcolor="#E0E0E0">
+			<td colspan="8" align="center">
+				<font size="2" face="verdana" color="222277"><b>Select Year</b>&nbsp;<select name="year">
+					
+						<option value="2022">2022-2023
+						</option>
+					
+						<option value="2023">2023-2024
+						</option>
+					
+						<option selected="" value="2024">2024-2025
+						</option>
+					
+						<option value="2025">2025-2026
+						</option>
+					
+					
+				</select>&nbsp; 
+				<font size="2" face="verdana" color="222277"><b>Semester</b>&nbsp;<select name="semester">
+					<option selected="" value="1">1 - Autumn</option>
+					<option value="2">2 - Spring</option>
+				</select>
+				<input type="hidden" name="deptcd" value="MG,MGT,MNG,SOM,IWE,MGS,">
+				<input type="submit" name="submit" value="GO">
+			</font></font></td>
+		</tr>
+		
+		<tr bgcolor="#F2F2F2">
+			<th><b>Sr no.</b></th>
+			<th><b>Course Code</b></th>
+			<th><b>Course Name</b></th>
+			<td><b>Instructor Name</b></td>
+			<!--<td><b>Instructor Status</b></td>
+			<td><b>Slot</b></td>
+			<td><b>Division</b></td>-->
+		</tr>
+
+			<tr>
+				<td align="center">1</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=IWE707" title="Click Here to view Course Details"><font color="#0000CC">IWE707</font></a>
+				</td>
+				<td align="left" bgcolor="white">Communication and Negotiation Skills</td>
+				<td align="left" bgcolor="white">S.V.D.Nageswara Rao<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">2</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=IWE708" title="Click Here to view Course Details"><font color="#0000CC">IWE708</font></a>
+				</td>
+				<td align="left" bgcolor="white">Operations and Manufacturing Management</td>
+				<td align="left" bgcolor="white">Indrajit Mukherjee<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">3</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=IWE709" title="Click Here to view Course Details"><font color="#0000CC">IWE709</font></a>
+				</td>
+				<td align="left" bgcolor="white">Strategic Cost Analysis</td>
+				<td align="left" bgcolor="white">S.V.D.Nageswara Rao<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">4</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=IWE713" title="Click Here to view Course Details"><font color="#0000CC">IWE713</font></a>
+				</td>
+				<td align="left" bgcolor="white">Managing Power and Influence in Organizations</td>
+				<td align="left" bgcolor="white">S.V.D.Nageswara Rao<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">5</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=IWE716" title="Click Here to view Course Details"><font color="#0000CC">IWE716</font></a>
+				</td>
+				<td align="left" bgcolor="white">Macroeconomics</td>
+				<td align="left" bgcolor="white">Vinish Kathuria<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">6</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=IWE725" title="Click Here to view Course Details"><font color="#0000CC">IWE725</font></a>
+				</td>
+				<td align="left" bgcolor="white">The Entrepreneurial Mindset</td>
+				<td align="left" bgcolor="white">S.V.D.Nageswara Rao<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">7</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MG 401" title="Click Here to view Course Details"><font color="#0000CC">MG 401</font></a>
+				</td>
+				<td align="left" bgcolor="white">Marketing Management</td>
+				<td align="left" bgcolor="white">Arti D Kalro<br>Dinesh Sharma<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">8</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MG 402" title="Click Here to view Course Details"><font color="#0000CC">MG 402</font></a>
+				</td>
+				<td align="left" bgcolor="white">Human Resource Management</td>
+				<td align="left" bgcolor="white">Soumya G. Rajan<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">9</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MG 403" title="Click Here to view Course Details"><font color="#0000CC">MG 403</font></a>
+				</td>
+				<td align="left" bgcolor="white">Accounting and Finance</td>
+				<td align="left" bgcolor="white">Piyush  Pandey<br>Varadraj B. Bapat<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">10</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MG 405" title="Click Here to view Course Details"><font color="#0000CC">MG 405</font></a>
+				</td>
+				<td align="left" bgcolor="white">Project Management</td>
+				<td align="left" bgcolor="white">Karuna Jain<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">11</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MGS801" title="Click Here to view Course Details"><font color="#0000CC">MGS801</font></a>
+				</td>
+				<td align="left" bgcolor="white">Credit Seminar</td>
+				<td align="left" bgcolor="white">Sarthak Gaurav<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">12</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MGS802" title="Click Here to view Course Details"><font color="#0000CC">MGS802</font></a>
+				</td>
+				<td align="left" bgcolor="white">Seminar</td>
+				<td align="left" bgcolor="white">Sarthak Gaurav<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">13</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MGT801" title="Click Here to view Course Details"><font color="#0000CC">MGT801</font></a>
+				</td>
+				<td align="left" bgcolor="white">Introduction to Research Methods</td>
+				<td align="left" bgcolor="white">Ashish Singh<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">14</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MGT804" title="Click Here to view Course Details"><font color="#0000CC">MGT804</font></a>
+				</td>
+				<td align="left" bgcolor="white">Qualitative Research Methodologies</td>
+				<td align="left" bgcolor="white">T.T. Niranjan<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">15</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MGT805" title="Click Here to view Course Details"><font color="#0000CC">MGT805</font></a>
+				</td>
+				<td align="left" bgcolor="white">Survey Research &amp; Experimentation </td>
+				<td align="left" bgcolor="white">Arti D Kalro<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">16</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MNG802" title="Click Here to view Course Details"><font color="#0000CC">MNG802</font></a>
+				</td>
+				<td align="left" bgcolor="white">Statistics for Management Research</td>
+				<td align="left" bgcolor="white">Sudeep R. Bapat<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">17</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=MNG803" title="Click Here to view Course Details"><font color="#0000CC">MNG803</font></a>
+				</td>
+				<td align="left" bgcolor="white">Economics</td>
+				<td align="left" bgcolor="white">Ashish Singh<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">18</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM101" title="Click Here to view Course Details"><font color="#0000CC">SOM101</font></a>
+				</td>
+				<td align="left" bgcolor="white">Introduction to Management</td>
+				<td align="left" bgcolor="white">Ashish Pandey<br>Mayank  Pareek<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">19</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM601" title="Click Here to view Course Details"><font color="#0000CC">SOM601</font></a>
+				</td>
+				<td align="left" bgcolor="white">Communication and Interpersonal Skill</td>
+				<td align="left" bgcolor="white">Ashish Pandey<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">20</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM602" title="Click Here to view Course Details"><font color="#0000CC">SOM602</font></a>
+				</td>
+				<td align="left" bgcolor="white">Microeconomics</td>
+				<td align="left" bgcolor="white">Trupti Mishra<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">21</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM603" title="Click Here to view Course Details"><font color="#0000CC">SOM603</font></a>
+				</td>
+				<td align="left" bgcolor="white">Fundamentals of Financial and Managerial Accounting</td>
+				<td align="left" bgcolor="white">Varadraj B. Bapat<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">22</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM604" title="Click Here to view Course Details"><font color="#0000CC">SOM604</font></a>
+				</td>
+				<td align="left" bgcolor="white">Marketing Management - I</td>
+				<td align="left" bgcolor="white">Arti D Kalro<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">23</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM605" title="Click Here to view Course Details"><font color="#0000CC">SOM605</font></a>
+				</td>
+				<td align="left" bgcolor="white">Statistical Methods</td>
+				<td align="left" bgcolor="white">Usha Ananthakumar<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">24</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM606" title="Click Here to view Course Details"><font color="#0000CC">SOM606</font></a>
+				</td>
+				<td align="left" bgcolor="white">Corporate Finance - I</td>
+				<td align="left" bgcolor="white">S.N.Rao<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">25</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM607" title="Click Here to view Course Details"><font color="#0000CC">SOM607</font></a>
+				</td>
+				<td align="left" bgcolor="white">Macroeconomics</td>
+				<td align="left" bgcolor="white">Sarthak Gaurav<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">26</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM608" title="Click Here to view Course Details"><font color="#0000CC">SOM608</font></a>
+				</td>
+				<td align="left" bgcolor="white">Decision Models in Management</td>
+				<td align="left" bgcolor="white">Pankaj Dutta<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">27</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM609" title="Click Here to view Course Details"><font color="#0000CC">SOM609</font></a>
+				</td>
+				<td align="left" bgcolor="white">Information Systems</td>
+				<td align="left" bgcolor="white">Sonar M Rajendra<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">28</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM610" title="Click Here to view Course Details"><font color="#0000CC">SOM610</font></a>
+				</td>
+				<td align="left" bgcolor="white">Marketing Management - II</td>
+				<td align="left" bgcolor="white">Dinesh Sharma<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">29</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM611" title="Click Here to view Course Details"><font color="#0000CC">SOM611</font></a>
+				</td>
+				<td align="left" bgcolor="white">Operations Management  I</td>
+				<td align="left" bgcolor="white">Indrajit Mukherjee<br>T.T. Niranjan<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">30</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM620" title="Click Here to view Course Details"><font color="#0000CC">SOM620</font></a>
+				</td>
+				<td align="left" bgcolor="white">Business and Sustainable Development</td>
+				<td align="left" bgcolor="white">Trupti Mishra<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">31</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM622" title="Click Here to view Course Details"><font color="#0000CC">SOM622</font></a>
+				</td>
+				<td align="left" bgcolor="white">Strategic Marketing</td>
+				<td align="left" bgcolor="white">Mayank  Pareek<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">32</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM624" title="Click Here to view Course Details"><font color="#0000CC">SOM624</font></a>
+				</td>
+				<td align="left" bgcolor="white">Warehouse Operations</td>
+				<td align="left" bgcolor="white">Gajendra Adil<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">33</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM625" title="Click Here to view Course Details"><font color="#0000CC">SOM625</font></a>
+				</td>
+				<td align="left" bgcolor="white">Summer Project Work</td>
+				<td align="left" bgcolor="white">Varadraj B. Bapat<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">34</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM626" title="Click Here to view Course Details"><font color="#0000CC">SOM626</font></a>
+				</td>
+				<td align="left" bgcolor="white">Advanced Planning and Scheduling</td>
+				<td align="left" bgcolor="white">Rahul Patil<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">35</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM634" title="Click Here to view Course Details"><font color="#0000CC">SOM634</font></a>
+				</td>
+				<td align="left" bgcolor="white">Purchasing and Supply Management</td>
+				<td align="left" bgcolor="white">Atul Kanyalkar<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">36</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM635" title="Click Here to view Course Details"><font color="#0000CC">SOM635</font></a>
+				</td>
+				<td align="left" bgcolor="white">Operations Strategy</td>
+				<td align="left" bgcolor="white">Gajendra Adil<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">37</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM642" title="Click Here to view Course Details"><font color="#0000CC">SOM642</font></a>
+				</td>
+				<td align="left" bgcolor="white">Business Forecasting</td>
+				<td align="left" bgcolor="white">Pankaj Dutta<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">38</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM650" title="Click Here to view Course Details"><font color="#0000CC">SOM650</font></a>
+				</td>
+				<td align="left" bgcolor="white">Mergers, Acquisitions and Business Valuation</td>
+				<td align="left" bgcolor="white">S.N.Rao<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">39</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM651" title="Click Here to view Course Details"><font color="#0000CC">SOM651</font></a>
+				</td>
+				<td align="left" bgcolor="white">International Finance</td>
+				<td align="left" bgcolor="white">S.V.D.Nageswara Rao<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">40</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM653" title="Click Here to view Course Details"><font color="#0000CC">SOM653</font></a>
+				</td>
+				<td align="left" bgcolor="white">Security Analysis and Portfolio Management</td>
+				<td align="left" bgcolor="white">S.N.Rao<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">41</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM654" title="Click Here to view Course Details"><font color="#0000CC">SOM654</font></a>
+				</td>
+				<td align="left" bgcolor="white">Fixed Income Securities</td>
+				<td align="left" bgcolor="white">Piyush  Pandey<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">42</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM655" title="Click Here to view Course Details"><font color="#0000CC">SOM655</font></a>
+				</td>
+				<td align="left" bgcolor="white">Derivatives and Risk Management</td>
+				<td align="left" bgcolor="white">Piyush  Pandey<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">43</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM661" title="Click Here to view Course Details"><font color="#0000CC">SOM661</font></a>
+				</td>
+				<td align="left" bgcolor="white">Advertising and Media Management</td>
+				<td align="left" bgcolor="white">Dinesh Sharma<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">44</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM662" title="Click Here to view Course Details"><font color="#0000CC">SOM662</font></a>
+				</td>
+				<td align="left" bgcolor="white">Customer Relationship Management</td>
+				<td align="left" bgcolor="white">Arti D Kalro<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">45</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM663" title="Click Here to view Course Details"><font color="#0000CC">SOM663</font></a>
+				</td>
+				<td align="left" bgcolor="white">Brand Management</td>
+				<td align="left" bgcolor="white">Dinesh Sharma<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">46</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM671" title="Click Here to view Course Details"><font color="#0000CC">SOM671</font></a>
+				</td>
+				<td align="left" bgcolor="white">International Competitiveness</td>
+				<td align="left" bgcolor="white">Kiran Kumar Momaya<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">47</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM686" title="Click Here to view Course Details"><font color="#0000CC">SOM686</font></a>
+				</td>
+				<td align="left" bgcolor="white">Strategic Transformation</td>
+				<td align="left" bgcolor="white">Snehal  Awate<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">48</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM690" title="Click Here to view Course Details"><font color="#0000CC">SOM690</font></a>
+				</td>
+				<td align="left" bgcolor="white">Software Project Management</td>
+				<td align="left" bgcolor="white">Sonar M Rajendra<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">49</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM697" title="Click Here to view Course Details"><font color="#0000CC">SOM697</font></a>
+				</td>
+				<td align="left" bgcolor="white">Electronic Business Strategies and Implementation</td>
+				<td align="left" bgcolor="white">Sonar M Rajendra<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">50</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM698" title="Click Here to view Course Details"><font color="#0000CC">SOM698</font></a>
+				</td>
+				<td align="left" bgcolor="white">Management of Banking and Financial Services</td>
+				<td align="left" bgcolor="white">Piyush  Pandey<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">51</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM703" title="Click Here to view Course Details"><font color="#0000CC">SOM703</font></a>
+				</td>
+				<td align="left" bgcolor="white">Sales and Distribution Management</td>
+				<td align="left" bgcolor="white">Mayank  Pareek<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">52</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM705" title="Click Here to view Course Details"><font color="#0000CC">SOM705</font></a>
+				</td>
+				<td align="left" bgcolor="white">Supply Chain Optimization</td>
+				<td align="left" bgcolor="white">Rahul Patil<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">53</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM709" title="Click Here to view Course Details"><font color="#0000CC">SOM709</font></a>
+				</td>
+				<td align="left" bgcolor="white">International Business</td>
+				<td align="left" bgcolor="white">Snehal  Awate<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">54</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM713" title="Click Here to view Course Details"><font color="#0000CC">SOM713</font></a>
+				</td>
+				<td align="left" bgcolor="white">Predictive Analytics</td>
+				<td align="left" bgcolor="white">Usha Ananthakumar<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">55</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM726" title="Click Here to view Course Details"><font color="#0000CC">SOM726</font></a>
+				</td>
+				<td align="left" bgcolor="white">Political Economy of Development in India</td>
+				<td align="left" bgcolor="white">Ashish Singh<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">56</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM727" title="Click Here to view Course Details"><font color="#0000CC">SOM727</font></a>
+				</td>
+				<td align="left" bgcolor="white">Applied Quality Engineering and Management</td>
+				<td align="left" bgcolor="white">Indrajit Mukherjee<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">57</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM729" title="Click Here to view Course Details"><font color="#0000CC">SOM729</font></a>
+				</td>
+				<td align="left" bgcolor="white">Consumer Behaviour and Consumer Neuroscience</td>
+				<td align="left" bgcolor="white">Arti D Kalro<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">58</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM787" title="Click Here to view Course Details"><font color="#0000CC">SOM787</font></a>
+				</td>
+				<td align="left" bgcolor="white">Spatial Analytics-I</td>
+				<td align="left" bgcolor="white">Sarthak Gaurav<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">59</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM793" title="Click Here to view Course Details"><font color="#0000CC">SOM793</font></a>
+				</td>
+				<td align="left" bgcolor="white">Compulsory IDDDP Project</td>
+				<td align="left" bgcolor="white">Indrajit Mukherjee<br>Piyush  Pandey<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">60</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM794" title="Click Here to view Course Details"><font color="#0000CC">SOM794</font></a>
+				</td>
+				<td align="left" bgcolor="white">Optional IDDDP Project</td>
+				<td align="left" bgcolor="white">Indrajit Mukherjee<br>Piyush  Pandey<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">61</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM801" title="Click Here to view Course Details"><font color="#0000CC">SOM801</font></a>
+				</td>
+				<td align="left" bgcolor="white">Core Topics in Strategic Management</td>
+				<td align="left" bgcolor="white">Snehal  Awate<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">62</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM804" title="Click Here to view Course Details"><font color="#0000CC">SOM804</font></a>
+				</td>
+				<td align="left" bgcolor="white">Entrepreneurship as Practice</td>
+				<td align="left" bgcolor="white">Rohan  Chinchwadkar<br></td>				
+			</tr>
+
+			<tr>
+				<td align="center">63</td>
+				<td align="center">
+					<a href="./crsedetail.jsp?ccd=SOM899" title="Click Here to view Course Details"><font color="#0000CC">SOM899</font></a>
+				</td>
+				<td align="left" bgcolor="white">Communication Skills</td>
+				<td align="left" bgcolor="white">Sarthak Gaurav<br></td>				
+			</tr>
+
+	</tbody></table>
+
+
+</body></html>

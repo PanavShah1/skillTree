@@ -97,7 +97,18 @@ const treeData = [
             name: 'Number Theory',
             course_offered: true,
             instructor: 'Dr. John Doe',
-            children: [],
+            children: [
+                [
+                    {
+                        id: 12,
+                        code: 'MA240',
+                        name: 'Statistics',
+                        course_offered: true,
+                        instructor: 'Dr. Mary Doe',
+                        children: []
+                    }
+                ]
+            ],
         },
         {
             id: 11,
