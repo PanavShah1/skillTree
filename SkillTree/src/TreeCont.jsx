@@ -2,6 +2,7 @@ import React from "react";
 import Tree from "./Tree";
 import treeData from "./treeData";
 import Context from "./Context";
+import TreeHeader from "./TreeHeader";
 
 const TreeCont = () => {
 
@@ -12,6 +13,7 @@ const TreeCont = () => {
     return (
         <div className="tree-cont">
             <Context.Provider value={{ allExpand, setAllExpand }}>
+                <TreeHeader />
                 <Tree data={treeData}/>
                 <div className="right-cont">
                     <button onClick={handleExpand} className="expand-all">{allExpand ? <p>Minimise All</p> : <p>Expand All</p>}</button>

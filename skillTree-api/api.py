@@ -29,7 +29,18 @@ with open('../database/data/formatted.csv') as f:
 
 @app.get("/course/{course_code}")
 async def get_course(course_code: str):
-    return {"code": course_code, "name": df[df['Course Code'] == course_code]['Course Name'].values[0]}
+    print(course_code)
+    course = df.loc[df['Course Code'] == course_code]
+    course = course.fillna('N/A')
+    if course.empty:
+        print(course)
+        return {"error": "Course not found"}
+    index = course.index[0]
+
+    course_dict = course.iloc[0].to_dict()
+    course_dict["index"] = int(index)
+    print(course_dict)
+    return course_dict
     
 
 
