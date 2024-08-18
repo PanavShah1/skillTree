@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-def parse_prerequisites(prereq_str):
+def parse_prerequisites(prereq_str): # Takes the prereq list and converts OR and AND
     prerequisites = prereq_str.split(' AND ')
     formatted_prerequisites = []
     for group in prerequisites:
@@ -12,10 +12,10 @@ def parse_prerequisites(prereq_str):
     return formatted_prerequisites
 
 def build_tree_for_course(course_code, courses, prereqs, seen_courses):
-    if course_code in seen_courses:
+    if course_code in seen_courses: # seen_courses is a list of courses it's encountered
         return None
     
-    course = courses.get(course_code)
+    course = courses.get(course_code) # courses is a pd DataFrame our courses
     if not course:
         return None
     
@@ -23,6 +23,7 @@ def build_tree_for_course(course_code, courses, prereqs, seen_courses):
     
     course_name = course['Course Name']
     course_id = len(seen_courses)  # Unique ID based on the number of seen courses
+
     
     # Find prerequisites for the current course
     prereq_str = prereqs.get(course_code, '')
@@ -46,6 +47,8 @@ def build_tree_for_course(course_code, courses, prereqs, seen_courses):
         'name': course_name,
         'course_offered': True,  # Assuming the course is offered
         'instructor': '',  # Placeholder for instructor
+        'department': '',
+        'applicable_program': '',
         'children': children
     }
     
@@ -55,19 +58,26 @@ def get_course_tree(course_code):
     # Read data
     df_courses = pd.read_csv('data/formatted.csv')
     df_prereq = pd.read_csv('data/pre_req.csv')
+ #   df_dept = df_prereq
     
     # Ensure all values are strings
     df_prereq['Courses'] = df_prereq['Courses'].astype(str)
     
     # Check for duplicates
-    if df_courses['Course Code'].duplicated().any():
-        df_courses = df_courses.drop_duplicates(subset='Course Code')
+    if df_courses['Course Code'].duplicated().any(): # is this check useless?
+        df_courses = df_courses.drop_duplicates(subset='Course Code', keep="first")
     if df_prereq['CourseCode'].duplicated().any():
         df_prereq = df_prereq.groupby('CourseCode')['Courses'].apply(lambda x: ' OR '.join(x)).reset_index()
-    
+
+#    if df_dept["Applicable forDepartment(s)"].duplicated().any():
+#        df_dept = df_prereq.groupby('CourseCode')['Courses']    
+
     # Convert DataFrame to dictionary for quick lookup
     courses = df_courses.set_index('Course Code').to_dict(orient='index')
     prereqs = df_prereq.set_index('CourseCode')['Courses'].to_dict()
+
+#    print("this is prereqs")
+#    print(df_dept)
     
     # Set to track seen courses to avoid cycles
     seen_courses = set()
@@ -82,5 +92,7 @@ def get_course_tree(course_code):
     return tree_data
 
 # Example usage
-tree = get_course_tree('AE 308')
-print(json.dumps(tree, indent=4))
+#tree = get_course_tree('AE 234')
+#print(json.dumps(tree, indent=4))
+
+
