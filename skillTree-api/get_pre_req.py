@@ -58,7 +58,7 @@ def get_course_tree(course_code):
     # Read data
     df_courses = pd.read_csv('data/formatted.csv')
     df_prereq = pd.read_csv('data/pre_req.csv')
- #   df_dept = df_prereq
+    df_dept = df_prereq
     
     # Ensure all values are strings
     df_prereq['Courses'] = df_prereq['Courses'].astype(str)
@@ -69,15 +69,15 @@ def get_course_tree(course_code):
     if df_prereq['CourseCode'].duplicated().any():
         df_prereq = df_prereq.groupby('CourseCode')['Courses'].apply(lambda x: ' OR '.join(x)).reset_index()
 
-#    if df_dept["Applicable forDepartment(s)"].duplicated().any():
-#        df_dept = df_prereq.groupby('CourseCode')['Courses']    
+    df_prereq["Applicable forDepartment(s)"] = df_dept["Applicable forDepartment(s)"]
+    df_prereq["Applicable forprogram(s)"] = df_dept["Applicable forprogram(s)"]
 
     # Convert DataFrame to dictionary for quick lookup
     courses = df_courses.set_index('Course Code').to_dict(orient='index')
     prereqs = df_prereq.set_index('CourseCode')['Courses'].to_dict()
 
-#    print("this is prereqs")
-#    print(df_dept)
+    print("this is prereqs")
+    #print(df_prereq['Applicable forprogram(s)'])
     
     # Set to track seen courses to avoid cycles
     seen_courses = set()
@@ -96,5 +96,4 @@ def get_course_tree(course_code):
 if __name__ == '__main__':
     tree = get_course_tree('AE 649')
     print(json.dumps(tree, indent=4))
-
 
