@@ -9,6 +9,7 @@ const TreeHeader = () => {
 
     React.useEffect(() => {
         console.log(courseCode);
+        setCourseCode(courseCode.toUpperCase());
     }, [courseCode]);
 
     React.useEffect(() => {
@@ -23,9 +24,16 @@ const TreeHeader = () => {
         setCourseCode(event.target.value);
     };
 
+    const handleKeyPress = (event) => {
+        if (event.key === "Enter") {
+            codeCheckCallAPI();
+        }
+    };
+
     async function codeCheckCallAPI() {
         let courseCodeSpace = "";
         let courseCodeNoSpace = "";
+
 
         if (courseCode.includes(" ")) {
             courseCodeSpace = courseCode;
@@ -43,8 +51,8 @@ const TreeHeader = () => {
         let result = await callAPI(courseCode);
         if (result && !("error" in result)) {
             console.log("Result found with original course code:", result);
-            // setCourseData(result);
-            console.log("children", result.childred)
+            setCourseData(result);
+            console.log("children", result.children)
             setTreeChildData(result.children);
             setError(""); // Clear error if result is found
             return; // Exit if result is found
@@ -54,7 +62,7 @@ const TreeHeader = () => {
         result = await callAPI(courseCodeSpace);
         if (result && !("error" in result)) {
             console.log("Result found with course code with space:", result);
-            // setCourseData(result);
+            setCourseData(result);
             setTreeChildData(result.children);
             setError(""); // Clear error if result is found
             return; // Exit if result is found
@@ -64,7 +72,7 @@ const TreeHeader = () => {
         result = await callAPI(courseCodeNoSpace);
         if (result && !("error" in result)) {
             console.log("Result found with course code without space:", result);
-            // setCourseData(result);
+            setCourseData(result);
             setTreeChildData(result.children);
             setError(""); // Clear error if result is found
             return; // Exit if result is found
@@ -95,22 +103,27 @@ const TreeHeader = () => {
     }
 
     return (
-        <div>
-            <h1>Welcome to SkillTree</h1>
-            <textarea 
-                placeholder="Enter course code"
-                value={courseCode}
-                onChange={handleChange}
-            />
-            <button onClick={codeCheckCallAPI}>Log In</button>
-            {error && <div style={{ color: 'red' }}>{error}</div>}
-            <div>
-                {Object.entries(courseData).map(([key, value]) => (
-                    <p key={key}>
-                        {key}: {value}
-                    </p>
-                ))}
+        <div className="header">
+            <div className="course-code-input-cont">
+                <input 
+                    className="course-code-input"
+                    placeholder="Enter course code"
+                    value={courseCode}
+                    onChange={handleChange}
+                    onKeyDown={handleKeyPress}
+                />
+                <button className="course-code-enter-button" onClick={codeCheckCallAPI}>Enter</button>
             </div>
+            {error && <div style={{ color: 'red' }}>{error}</div>}
+            {courseData && Object.keys(courseData).length > 0 &&
+                <div className="course-details">
+                    Course Name : {courseData['Course Name'] || 'N/A'} <br />
+                    Course Code : {courseData['Course Code'] || 'N/A'} <br />
+                    Course Offered : {courseData['Instructor Name'] === 'N/A' ? "No" : "Yes"} <br />
+                    {courseData['Instructor Name'] !== 'N/A' && <>Instructor : {courseData['Instructor Name']} <br /> </>} 
+                    {courseData['children'].length > 0 ? <span>Any Prerequisites : Yes</span> : <span>Any Prerequisites : <span style={{color: "red"}}>No</span></span>} 
+                </div>
+            }
         </div>
     );
 };

@@ -25,7 +25,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-with open('../database/data/formatted.csv') as f:
+with open('data/formatted.csv') as f:
     df = pd.read_csv(f)
 
 @app.get("/course/{course_code}")
