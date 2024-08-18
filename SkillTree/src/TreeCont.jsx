@@ -7,7 +7,11 @@ import TreeHeader from "./TreeHeader";
 const TreeCont = () => {
 
     const [allExpand, setAllExpand] = React.useState(false);
+<<<<<<< HEAD
     const [treeChildData, setTreeChildData] = React.useState([]);
+=======
+    const [treeChildData, setTreeChildData] = React.useState(treeData);
+>>>>>>> f33917764f69bbd071aeb6e4c6b4e4130d7b9c06
     function handleExpand() {
         setAllExpand(!allExpand);
     }

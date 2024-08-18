@@ -51,8 +51,13 @@ const TreeHeader = () => {
         let result = await callAPI(courseCode);
         if (result && !("error" in result)) {
             console.log("Result found with original course code:", result);
+<<<<<<< HEAD
             setCourseData(result);
             console.log("children", result.children)
+=======
+            // setCourseData(result);
+            console.log("children", result.childred)
+>>>>>>> f33917764f69bbd071aeb6e4c6b4e4130d7b9c06
             setTreeChildData(result.children);
             setError(""); // Clear error if result is found
             return; // Exit if result is found
@@ -62,7 +67,11 @@ const TreeHeader = () => {
         result = await callAPI(courseCodeSpace);
         if (result && !("error" in result)) {
             console.log("Result found with course code with space:", result);
+<<<<<<< HEAD
             setCourseData(result);
+=======
+            // setCourseData(result);
+>>>>>>> f33917764f69bbd071aeb6e4c6b4e4130d7b9c06
             setTreeChildData(result.children);
             setError(""); // Clear error if result is found
             return; // Exit if result is found
@@ -72,7 +81,11 @@ const TreeHeader = () => {
         result = await callAPI(courseCodeNoSpace);
         if (result && !("error" in result)) {
             console.log("Result found with course code without space:", result);
+<<<<<<< HEAD
             setCourseData(result);
+=======
+            // setCourseData(result);
+>>>>>>> f33917764f69bbd071aeb6e4c6b4e4130d7b9c06
             setTreeChildData(result.children);
             setError(""); // Clear error if result is found
             return; // Exit if result is found
