@@ -5,11 +5,19 @@ const TreeHeader = () => {
     const [courseCode, setCourseCode] = React.useState("");
     const [courseData, setCourseData] = React.useState({});
     const [error, setError] = React.useState("");
-    const { allExpand } = React.useContext(Context);
+    const { allExpand, treeChildData, setTreeChildData } = React.useContext(Context);
 
     React.useEffect(() => {
         console.log(courseCode);
     }, [courseCode]);
+
+    React.useEffect(() => {
+        console.log("course data", courseData);
+    }, [courseData]);
+
+    React.useEffect(() => {
+        console.log("tree child data", treeChildData);
+    }, [treeChildData]);
 
     const handleChange = (event) => {
         setCourseCode(event.target.value);
@@ -35,7 +43,9 @@ const TreeHeader = () => {
         let result = await callAPI(courseCode);
         if (result && !("error" in result)) {
             console.log("Result found with original course code:", result);
-            setCourseData(result);
+            // setCourseData(result);
+            console.log("children", result.childred)
+            setTreeChildData(result.children);
             setError(""); // Clear error if result is found
             return; // Exit if result is found
         }
@@ -44,7 +54,8 @@ const TreeHeader = () => {
         result = await callAPI(courseCodeSpace);
         if (result && !("error" in result)) {
             console.log("Result found with course code with space:", result);
-            setCourseData(result);
+            // setCourseData(result);
+            setTreeChildData(result.children);
             setError(""); // Clear error if result is found
             return; // Exit if result is found
         }
@@ -53,7 +64,8 @@ const TreeHeader = () => {
         result = await callAPI(courseCodeNoSpace);
         if (result && !("error" in result)) {
             console.log("Result found with course code without space:", result);
-            setCourseData(result);
+            // setCourseData(result);
+            setTreeChildData(result.children);
             setError(""); // Clear error if result is found
             return; // Exit if result is found
         }

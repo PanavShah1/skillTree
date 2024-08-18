@@ -7,14 +7,15 @@ import TreeHeader from "./TreeHeader";
 const TreeCont = () => {
 
     const [allExpand, setAllExpand] = React.useState(false);
+    const [treeChildData, setTreeChildData] = React.useState(treeData);
     function handleExpand() {
         setAllExpand(!allExpand);
     }
     return (
         <div className="tree-cont">
-            <Context.Provider value={{ allExpand, setAllExpand }}>
+            <Context.Provider value={{ allExpand, setAllExpand, treeChildData, setTreeChildData }}>
                 <TreeHeader />
-                <Tree data={treeData}/>
+                <Tree data={treeChildData}/>
                 <div className="right-cont">
                     <button onClick={handleExpand} className="expand-all">{allExpand ? <p>Minimise All</p> : <p>Expand All</p>}</button>
                     <p>This course is offered only for B.Tech and B.S students</p>
