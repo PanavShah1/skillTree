@@ -6,9 +6,10 @@ from sudoku import Sudoku
 from pydantic import BaseModel
 from typing import List
 import pandas as pd
-
+from get_pre_req import get_course_tree
 
 app = FastAPI()
+
 
 origins = [
     "http://localhost",
@@ -39,8 +40,13 @@ async def get_course(course_code: str):
 
     course_dict = course.iloc[0].to_dict()
     course_dict["index"] = int(index)
+    course_dict["children"] = get_course_tree(course_code)
     print(course_dict)
     return course_dict
+
+    # course_dict = get_course_tree(course_code)
+    # print(course_dict)
+    # return course_dict
     
 
 

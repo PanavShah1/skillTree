@@ -92,7 +92,9 @@ def get_course_tree(course_code):
     return tree_data
 
 # Example usage
-#tree = get_course_tree('AE 234')
-#print(json.dumps(tree, indent=4))
+
+if __name__ == '__main__':
+    tree = get_course_tree('AE 649')
+    print(json.dumps(tree, indent=4))
 
 
