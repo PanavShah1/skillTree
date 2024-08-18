@@ -52,7 +52,7 @@ const TreeHeader = () => {
         if (result && !("error" in result)) {
             console.log("Result found with original course code:", result);
             setCourseData(result);
-            console.log("children", result.childred)
+            console.log("children", result.children)
             setTreeChildData(result.children);
             setError(""); // Clear error if result is found
             return; // Exit if result is found
