@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/skillTree/static/css/main.e6b55804.css",
-    "main.js": "/skillTree/static/js/main.8611cf2a.js",
+    "main.js": "/skillTree/static/js/main.b4296d3b.js",
     "index.html": "/skillTree/index.html",
     "main.e6b55804.css.map": "/skillTree/static/css/main.e6b55804.css.map",
-    "main.8611cf2a.js.map": "/skillTree/static/js/main.8611cf2a.js.map"
+    "main.b4296d3b.js.map": "/skillTree/static/js/main.b4296d3b.js.map"
   },
   "entrypoints": [
     "static/css/main.e6b55804.css",
-    "static/js/main.8611cf2a.js"
+    "static/js/main.b4296d3b.js"
   ]
 }
