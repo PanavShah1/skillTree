@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+import re
 
 def parse_prerequisites(prereq_str): # Takes the prereq list and converts OR and AND
     prerequisites = prereq_str.split(' AND ')
