@@ -86,15 +86,23 @@ const TreeHeader = () => {
 
     async function callAPI(code) {
         try {
-            const response = await fetch(`https://bd50-103-21-125-86.ngrok-free.app/course/${code}`, {
+            const response = await fetch(`https://2bdb-2409-40c0-1052-3fc3-90e4-5fe6-e945-a203.ngrok-free.app/course/${code}`, {
                 method: "GET",
+                headers: new Headers({
+                    "ngrok-skip-browser-warning": "69420",
+                  }),
             });
+
+            // const response = await fetch(`http://127.0.0.1:8080/course/MA%20603`, {
+            //     method: "GET",
+            // });
 
             if (!response.ok) {
                 throw new Error("Network response was not ok");
             }
 
             const result = await response.json();
+            console.log("result", result)
             return result;
         } catch (error) {
             console.error("There was a problem with the fetch operation:", error);

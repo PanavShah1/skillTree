@@ -12,15 +12,9 @@ import re
 app = FastAPI()
 
 
-origins = [
-    "http://localhost",
-    "http://localhost:3000",
-    "*",
-]
-
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -38,6 +32,10 @@ def format_instructors(instructor_str):
         formatted_instructors += instructor_str[i]  # Add the current character
     
     return formatted_instructors
+
+@app.get("/test")
+def test_endpoint():
+    return {"message": "API is working"}
 
 @app.get("/course/{course_code}")
 async def get_course(course_code: str):
