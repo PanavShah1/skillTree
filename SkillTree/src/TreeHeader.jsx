@@ -86,7 +86,7 @@ const TreeHeader = () => {
 
     async function callAPI(code) {
         try {
-            const response = await fetch(`http://localhost:8080/course/${code}`, {
+            const response = await fetch(`https://bd50-103-21-125-86.ngrok-free.app/course/${code}`, {
                 method: "GET",
             });
 
