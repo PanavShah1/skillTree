@@ -1,5 +1,5 @@
 <h1>Skill Tree</h1>
-This tree helps managing the courses and their prerequisite for courses offered each semester in IIT Bombay. <br><br>
+This tree helps manage courses and their prerequisite offered each semester in IIT Bombay. <br><br>
 Link to the website : https://panavshah1.github.io/skillTree/
 
 <h2>Description</h2>
